@@ -1,0 +1,2001 @@
+crime_id,crime_type,date,time,latitude,longitude,area,severity,severity_score,status,base_risk
+1,Burglary,2022-01-26,03:08,17.452474,78.389694,Madhapur,Low,0,Under Investigation,low
+2,Theft,2023-07-13,21:01,17.445282,78.361084,Gachibowli,Medium,1,Resolved,medium
+3,Vandalism,2023-06-02,07:26,17.430127,78.405227,Jubilee Hills,Low,0,Resolved,low
+4,Assault,2022-10-12,18:44,17.381434,78.530839,Dilsukhnagar,Medium,1,Unresolved,medium
+5,Robbery,2022-08-09,10:05,17.357844,78.47904,Charminar,High,2,Unresolved,high
+6,Fraud,2022-12-19,11:34,17.436393,78.345174,Gachibowli,Medium,1,Resolved,medium
+7,Pickpocket,2022-03-22,12:12,17.471036,78.547094,ECIL,Medium,1,Under Investigation,medium
+8,Robbery,2023-11-09,01:54,17.426301,78.344402,Gachibowli,Medium,1,Resolved,medium
+9,Assault,2023-01-25,03:23,17.487497,78.371914,Miyapur,Low,0,Unresolved,low
+10,Pickpocket,2022-10-01,21:40,17.424736,78.395802,Jubilee Hills,Low,0,Resolved,low
+11,Chain Snatching,2022-09-08,23:59,17.449225,78.446494,Ameerpet,Medium,1,Under Investigation,medium
+12,Burglary,2022-08-13,17:52,17.44234,78.452202,Begumpet,Low,0,Resolved,low
+13,Vehicle Theft,2022-10-02,11:13,17.401045,78.559887,Uppal,High,2,Under Investigation,high
+14,Assault,2023-10-21,12:15,17.359592,78.527706,Dilsukhnagar,Medium,1,Under Investigation,medium
+15,Pickpocket,2022-09-27,17:25,17.432695,78.445966,Ameerpet,Medium,1,Unresolved,medium
+16,Robbery,2023-06-06,04:09,17.427186,78.421918,Jubilee Hills,Low,0,Under Investigation,low
+17,Harassment,2023-03-09,21:38,17.415492,78.426238,Banjara Hills,Medium,1,Unresolved,medium
+18,Robbery,2023-07-21,08:43,17.44408,78.438533,Ameerpet,Medium,1,Under Investigation,medium
+19,Harassment,2023-10-19,10:10,17.407071,78.543323,Uppal,High,2,Unresolved,high
+20,Vandalism,2022-09-27,22:58,17.432875,78.378775,Hitech City,High,2,Resolved,high
+21,Assault,2022-11-02,20:23,17.501508,78.370771,Miyapur,Low,0,Resolved,low
+22,Theft,2022-01-01,16:07,17.436575,78.445891,Ameerpet,Medium,1,Unresolved,medium
+23,Robbery,2022-09-03,09:05,17.457272,78.556641,ECIL,High,2,Under Investigation,medium
+24,Fraud,2023-06-30,02:35,17.365115,78.533157,Dilsukhnagar,Medium,1,Resolved,medium
+25,Vandalism,2023-09-14,17:48,17.442649,78.484196,Secunderabad,High,2,Under Investigation,high
+26,Fraud,2024-01-01,06:57,17.444393,78.460519,Begumpet,Low,0,Under Investigation,low
+27,Theft,2022-09-11,03:37,17.363385,78.529593,Dilsukhnagar,Medium,1,Under Investigation,medium
+28,Theft,2022-08-14,18:14,17.440248,78.41455,Jubilee Hills,High,2,Resolved,low
+29,Chain Snatching,2022-12-05,01:42,17.462386,78.559926,ECIL,Low,0,Unresolved,medium
+30,Burglary,2022-05-16,17:50,17.43465,78.414904,Jubilee Hills,Low,0,Unresolved,low
+31,Vehicle Theft,2022-04-07,14:27,17.401567,78.557515,Uppal,Medium,1,Unresolved,high
+32,Theft,2022-02-25,23:25,17.359949,78.51513,Dilsukhnagar,Medium,1,Under Investigation,medium
+33,Vandalism,2022-04-22,20:28,17.3681,78.48555,Charminar,High,2,Resolved,high
+34,Fraud,2023-04-19,08:51,17.346324,78.554928,LB Nagar,High,2,Under Investigation,high
+35,Robbery,2023-10-30,01:59,17.442993,78.343739,Gachibowli,Medium,1,Resolved,medium
+36,Theft,2023-05-13,13:10,17.418491,78.447004,Banjara Hills,Medium,1,Unresolved,medium
+37,Chain Snatching,2022-09-29,23:27,17.443213,78.389717,Hitech City,High,2,Under Investigation,high
+38,Burglary,2023-11-09,17:18,17.420842,78.470175,Begumpet,Low,0,Resolved,low
+39,Theft,2023-07-10,18:03,17.444196,78.374808,Hitech City,Medium,1,Under Investigation,high
+40,Robbery,2023-06-28,16:54,17.369534,78.508799,Dilsukhnagar,High,2,Resolved,medium
+41,Harassment,2022-03-11,19:07,17.438343,78.351757,Gachibowli,Medium,1,Under Investigation,medium
+42,Harassment,2023-09-01,18:42,17.443823,78.402954,Jubilee Hills,Low,0,Under Investigation,low
+43,Vehicle Theft,2022-11-20,16:15,17.478432,78.409786,Kukatpally,Medium,1,Unresolved,medium
+44,Robbery,2023-10-23,06:00,17.354223,78.54953,LB Nagar,High,2,Unresolved,high
+45,Vandalism,2022-04-13,18:16,17.480662,78.417906,Kukatpally,Low,0,Resolved,medium
+46,Chain Snatching,2022-03-12,11:10,17.469877,78.570149,ECIL,Medium,1,Unresolved,medium
+47,Vandalism,2023-12-22,17:19,17.489984,78.366779,Miyapur,Low,0,Under Investigation,low
+48,Vandalism,2022-09-28,04:09,17.436963,78.337192,Gachibowli,Low,0,Unresolved,medium
+49,Vandalism,2022-12-18,18:31,17.442269,78.500388,Secunderabad,High,2,Unresolved,high
+50,Theft,2022-04-05,01:00,17.469141,78.560523,ECIL,Medium,1,Unresolved,medium
+51,Vandalism,2022-09-26,06:45,17.394077,78.555635,Uppal,Medium,1,Unresolved,high
+52,Assault,2022-04-25,00:34,17.434758,78.441882,Ameerpet,High,2,Resolved,medium
+53,Assault,2023-08-20,11:02,17.49431,78.372632,Miyapur,Low,0,Unresolved,low
+54,Burglary,2022-02-10,21:42,17.376689,78.476097,Charminar,High,2,Resolved,high
+55,Burglary,2023-02-21,20:55,17.36366,78.474104,Charminar,High,2,Resolved,high
+56,Vehicle Theft,2023-02-27,20:50,17.39005,78.558788,Uppal,High,2,Unresolved,high
+57,Harassment,2022-09-12,19:55,17.405882,78.578706,Uppal,High,2,Resolved,high
+58,Vehicle Theft,2022-08-16,15:19,17.494061,78.371812,Miyapur,Medium,1,Resolved,low
+59,Chain Snatching,2023-11-07,00:55,17.431722,78.397751,Jubilee Hills,Medium,1,Resolved,low
+60,Theft,2023-10-19,10:07,17.414543,78.565015,Uppal,High,2,Unresolved,high
+61,Harassment,2022-09-29,18:22,17.421928,78.427425,Banjara Hills,High,2,Under Investigation,medium
+62,Harassment,2023-09-13,11:57,17.416622,78.547785,Uppal,High,2,Under Investigation,high
+63,Vandalism,2022-02-15,08:59,17.436695,78.424624,Jubilee Hills,Low,0,Under Investigation,low
+64,Robbery,2023-11-18,23:42,17.440576,78.38627,Madhapur,Medium,1,Unresolved,low
+65,Vandalism,2023-11-11,10:19,17.485697,78.409772,Kukatpally,Medium,1,Under Investigation,medium
+66,Burglary,2023-12-15,12:26,17.334495,78.547449,LB Nagar,High,2,Under Investigation,high
+67,Harassment,2022-06-28,19:35,17.338402,78.550689,LB Nagar,High,2,Resolved,high
+68,Fraud,2023-03-17,11:28,17.432545,78.510699,Secunderabad,High,2,Unresolved,high
+69,Robbery,2023-06-08,06:18,17.442234,78.388224,Madhapur,Low,0,Under Investigation,low
+70,Chain Snatching,2023-09-27,20:14,17.455008,78.380953,Madhapur,Low,0,Resolved,low
+71,Pickpocket,2022-02-17,00:54,17.41742,78.445157,Banjara Hills,Medium,1,Resolved,medium
+72,Fraud,2023-10-07,13:25,17.35594,78.526177,Dilsukhnagar,Medium,1,Resolved,medium
+73,Harassment,2023-12-06,20:14,17.417679,78.440955,Banjara Hills,Low,0,Resolved,medium
+74,Robbery,2023-06-15,22:29,17.395504,78.548436,Uppal,High,2,Resolved,high
+75,Fraud,2023-06-28,16:39,17.409576,78.561376,Uppal,High,2,Under Investigation,high
+76,Assault,2023-03-13,16:47,17.471104,78.565172,ECIL,Medium,1,Unresolved,medium
+77,Vandalism,2022-09-11,08:31,17.36336,78.526558,Dilsukhnagar,Medium,1,Under Investigation,medium
+78,Burglary,2023-03-27,08:17,17.434345,78.401385,Jubilee Hills,Medium,1,Unresolved,low
+79,Harassment,2022-03-24,21:44,17.376526,78.478491,Charminar,Low,0,Resolved,high
+80,Vandalism,2022-03-07,06:29,17.43227,78.468852,Begumpet,Low,0,Unresolved,low
+81,Pickpocket,2023-03-07,08:24,17.435703,78.383497,Hitech City,High,2,Unresolved,high
+82,Vandalism,2022-11-02,22:47,17.452769,78.370635,Hitech City,High,2,Under Investigation,high
+83,Harassment,2022-08-14,19:31,17.445207,78.451602,Ameerpet,Medium,1,Resolved,medium
+84,Fraud,2023-11-27,12:58,17.353476,78.562074,LB Nagar,High,2,Resolved,high
+85,Robbery,2022-01-28,17:41,17.482937,78.40777,Kukatpally,Medium,1,Unresolved,medium
+86,Vehicle Theft,2022-07-06,14:13,17.408484,78.428174,Banjara Hills,Medium,1,Unresolved,medium
+87,Chain Snatching,2023-01-24,12:53,17.360983,78.477429,Charminar,High,2,Resolved,high
+88,Burglary,2023-07-07,00:41,17.371014,78.531317,Dilsukhnagar,Medium,1,Resolved,medium
+89,Burglary,2022-02-11,22:53,17.405504,78.570628,Uppal,High,2,Resolved,high
+90,Robbery,2022-09-02,04:36,17.482783,78.435561,Kukatpally,High,2,Resolved,medium
+91,Pickpocket,2022-09-20,22:38,17.373805,78.517843,Dilsukhnagar,Medium,1,Under Investigation,medium
+92,Pickpocket,2022-06-17,03:01,17.433233,78.46746,Begumpet,Low,0,Unresolved,low
+93,Robbery,2023-01-20,21:37,17.483112,78.419512,Kukatpally,Medium,1,Under Investigation,medium
+94,Pickpocket,2022-09-06,20:51,17.499386,78.368817,Miyapur,Medium,1,Resolved,low
+95,Vehicle Theft,2022-02-12,23:04,17.398626,78.546881,Uppal,High,2,Under Investigation,high
+96,Robbery,2022-01-13,10:27,17.444928,78.397651,Madhapur,Low,0,Unresolved,low
+97,Vandalism,2023-12-26,14:41,17.450213,78.380834,Madhapur,Low,0,Unresolved,low
+98,Vehicle Theft,2023-05-11,17:54,17.486285,78.416883,Kukatpally,Medium,1,Resolved,medium
+99,Fraud,2022-10-13,02:36,17.488529,78.37063,Miyapur,Low,0,Under Investigation,low
+100,Assault,2022-12-11,12:31,17.448966,78.381656,Madhapur,Medium,1,Resolved,low
+101,Vandalism,2022-12-15,20:00,17.364462,78.479186,Charminar,High,2,Under Investigation,high
+102,Vandalism,2022-09-05,02:48,17.440664,78.41553,Jubilee Hills,Low,0,Resolved,low
+103,Theft,2023-10-24,15:05,17.430779,78.456097,Begumpet,Low,0,Unresolved,low
+104,Fraud,2023-12-10,12:35,17.43612,78.41121,Jubilee Hills,Low,0,Under Investigation,low
+105,Chain Snatching,2023-07-18,15:19,17.36572,78.505522,Charminar,High,2,Unresolved,high
+106,Burglary,2022-07-17,03:13,17.436567,78.416185,Jubilee Hills,Low,0,Under Investigation,low
+107,Robbery,2023-08-27,08:53,17.376432,78.529911,Dilsukhnagar,Medium,1,Resolved,medium
+108,Chain Snatching,2022-07-03,09:02,17.437378,78.504372,Secunderabad,High,2,Resolved,high
+109,Robbery,2023-12-16,09:55,17.431317,78.446405,Ameerpet,Medium,1,Resolved,medium
+110,Assault,2023-04-26,09:03,17.481017,78.414455,Kukatpally,Medium,1,Unresolved,medium
+111,Fraud,2022-04-27,15:04,17.514117,78.354462,Miyapur,Low,0,Under Investigation,low
+112,Chain Snatching,2022-02-24,21:05,17.45399,78.377898,Madhapur,High,2,Resolved,low
+113,Vandalism,2023-03-03,17:24,17.436325,78.357612,Gachibowli,Medium,1,Unresolved,medium
+114,Chain Snatching,2022-11-01,14:36,17.469614,78.553778,ECIL,Medium,1,Under Investigation,medium
+115,Burglary,2022-04-12,18:16,17.437778,78.382637,Hitech City,High,2,Under Investigation,high
+116,Assault,2022-09-03,05:00,17.434257,78.350632,Gachibowli,Low,0,Unresolved,medium
+117,Burglary,2023-09-01,22:18,17.369165,78.519487,Dilsukhnagar,Medium,1,Under Investigation,medium
+118,Chain Snatching,2023-04-10,19:50,17.457052,78.503371,Secunderabad,Low,0,Under Investigation,high
+119,Assault,2022-07-22,21:58,17.468699,78.415292,Kukatpally,Medium,1,Unresolved,medium
+120,Pickpocket,2022-03-15,04:47,17.490306,78.376219,Miyapur,Medium,1,Under Investigation,low
+121,Chain Snatching,2023-03-26,09:44,17.46276,78.561482,ECIL,High,2,Unresolved,medium
+122,Harassment,2023-05-21,16:47,17.44394,78.505226,Secunderabad,High,2,Unresolved,high
+123,Pickpocket,2022-01-27,08:37,17.475298,78.411124,Kukatpally,High,2,Resolved,medium
+124,Fraud,2022-10-03,19:33,17.4016,78.553773,Uppal,High,2,Under Investigation,high
+125,Fraud,2022-07-05,08:05,17.382924,78.52794,Dilsukhnagar,Medium,1,Unresolved,medium
+126,Vehicle Theft,2022-11-25,14:26,17.351513,78.482043,Charminar,High,2,Under Investigation,high
+127,Fraud,2023-11-10,09:05,17.385777,78.53296,Dilsukhnagar,Medium,1,Unresolved,medium
+128,Vandalism,2023-02-18,12:29,17.427745,78.494426,Secunderabad,High,2,Unresolved,high
+129,Fraud,2023-01-06,08:48,17.453635,78.371539,Hitech City,High,2,Resolved,high
+130,Fraud,2023-07-17,08:56,17.435551,78.413297,Jubilee Hills,Medium,1,Under Investigation,low
+131,Assault,2022-01-30,03:19,17.361385,78.524224,Dilsukhnagar,Medium,1,Under Investigation,medium
+132,Fraud,2022-04-06,17:07,17.41757,78.369005,Hitech City,High,2,Under Investigation,high
+133,Vandalism,2023-05-26,04:45,17.493579,78.359418,Miyapur,Low,0,Unresolved,low
+134,Harassment,2023-04-29,20:12,17.359959,78.535459,LB Nagar,High,2,Under Investigation,high
+135,Harassment,2022-05-20,23:21,17.43398,78.449346,Ameerpet,Medium,1,Under Investigation,medium
+136,Assault,2022-10-17,20:28,17.45143,78.486813,Secunderabad,High,2,Under Investigation,high
+137,Fraud,2022-12-07,11:59,17.378105,78.524782,Dilsukhnagar,Medium,1,Unresolved,medium
+138,Burglary,2023-12-16,06:54,17.487748,78.373097,Miyapur,Low,0,Unresolved,low
+139,Harassment,2023-04-30,12:42,17.445092,78.372398,Hitech City,High,2,Under Investigation,high
+140,Vehicle Theft,2022-02-07,15:55,17.416158,78.431617,Banjara Hills,High,2,Resolved,medium
+141,Theft,2022-04-13,14:46,17.496508,78.374697,Miyapur,Low,0,Resolved,low
+142,Vehicle Theft,2022-06-08,21:39,17.359588,78.536997,LB Nagar,Medium,1,Under Investigation,high
+143,Vehicle Theft,2022-12-03,18:40,17.363964,78.531283,LB Nagar,High,2,Under Investigation,high
+144,Burglary,2023-07-09,15:40,17.467886,78.567107,ECIL,Low,0,Under Investigation,medium
+145,Robbery,2022-08-21,09:48,17.471348,78.557418,ECIL,Medium,1,Under Investigation,medium
+146,Theft,2023-03-31,03:02,17.440135,78.459656,Begumpet,Medium,1,Unresolved,low
+147,Burglary,2023-01-03,03:33,17.400685,78.565797,Uppal,High,2,Unresolved,high
+148,Pickpocket,2022-07-04,21:55,17.487756,78.408257,Kukatpally,Low,0,Unresolved,medium
+149,Burglary,2022-09-04,21:29,17.492097,78.416258,Kukatpally,Medium,1,Under Investigation,medium
+150,Chain Snatching,2023-11-14,16:43,17.446403,78.503337,Secunderabad,Medium,1,Under Investigation,high
+151,Harassment,2023-03-29,02:44,17.408968,78.430219,Banjara Hills,Medium,1,Unresolved,medium
+152,Robbery,2022-07-23,09:15,17.374778,78.529583,Dilsukhnagar,Medium,1,Unresolved,medium
+153,Theft,2023-08-12,11:53,17.484733,78.414739,Kukatpally,Medium,1,Under Investigation,medium
+154,Pickpocket,2023-08-03,10:47,17.357121,78.542167,LB Nagar,High,2,Unresolved,high
+155,Burglary,2022-08-24,09:40,17.499977,78.367782,Miyapur,Low,0,Resolved,low
+156,Robbery,2023-11-26,08:57,17.483159,78.42259,Kukatpally,Medium,1,Under Investigation,medium
+157,Pickpocket,2022-11-13,01:23,17.455103,78.397308,Madhapur,Low,0,Under Investigation,low
+158,Assault,2022-10-30,02:12,17.426044,78.434868,Banjara Hills,Medium,1,Resolved,medium
+159,Assault,2023-01-10,17:16,17.410856,78.556518,Uppal,High,2,Unresolved,high
+160,Robbery,2022-12-13,11:09,17.407993,78.557959,Uppal,High,2,Resolved,high
+161,Robbery,2023-11-22,21:50,17.496376,78.374161,Miyapur,Low,0,Unresolved,low
+162,Pickpocket,2022-05-07,10:24,17.436954,78.393939,Hitech City,High,2,Under Investigation,high
+163,Pickpocket,2022-08-28,06:14,17.353552,78.464986,Charminar,High,2,Under Investigation,high
+164,Harassment,2023-04-21,20:07,17.449365,78.355233,Gachibowli,Medium,1,Resolved,medium
+165,Robbery,2022-11-08,22:15,17.448493,78.382227,Hitech City,High,2,Under Investigation,high
+166,Pickpocket,2023-04-10,12:47,17.415502,78.427522,Banjara Hills,Medium,1,Under Investigation,medium
+167,Pickpocket,2023-11-02,13:26,17.416206,78.429283,Banjara Hills,Medium,1,Unresolved,medium
+168,Vehicle Theft,2022-08-11,19:06,17.451301,78.376024,Hitech City,High,2,Under Investigation,high
+169,Chain Snatching,2023-10-23,17:12,17.354996,78.472129,Charminar,High,2,Resolved,high
+170,Theft,2022-04-04,14:50,17.498903,78.36489,Miyapur,Low,0,Unresolved,low
+171,Pickpocket,2023-08-02,04:13,17.425422,78.409049,Jubilee Hills,Low,0,Resolved,low
+172,Assault,2023-09-03,20:34,17.36356,78.470644,Charminar,Low,0,Unresolved,high
+173,Theft,2023-11-08,07:22,17.401632,78.560856,Uppal,High,2,Resolved,high
+174,Assault,2022-01-17,10:47,17.473315,78.40254,Kukatpally,Low,0,Unresolved,medium
+175,Vandalism,2022-03-07,03:37,17.431752,78.446592,Ameerpet,Medium,1,Resolved,medium
+176,Vandalism,2022-08-15,16:19,17.371287,78.536503,Dilsukhnagar,Medium,1,Unresolved,medium
+177,Harassment,2022-03-04,00:43,17.455361,78.38952,Madhapur,Low,0,Resolved,low
+178,Vehicle Theft,2023-03-31,22:38,17.368648,78.51668,Dilsukhnagar,Low,0,Resolved,medium
+179,Harassment,2022-10-09,04:38,17.439952,78.346591,Gachibowli,Medium,1,Under Investigation,medium
+180,Vandalism,2023-09-12,15:46,17.442482,78.491682,Secunderabad,High,2,Resolved,high
+181,Harassment,2022-08-22,15:26,17.351055,78.559162,LB Nagar,High,2,Under Investigation,high
+182,Vehicle Theft,2023-03-14,10:09,17.43923,78.352114,Gachibowli,Medium,1,Under Investigation,medium
+183,Robbery,2022-03-10,15:27,17.474621,78.55919,ECIL,Low,0,Resolved,medium
+184,Pickpocket,2023-01-17,23:35,17.443593,78.463701,Begumpet,Low,0,Under Investigation,low
+185,Theft,2023-02-25,19:18,17.362381,78.468516,Charminar,High,2,Under Investigation,high
+186,Fraud,2023-08-15,13:14,17.440096,78.502284,Secunderabad,High,2,Resolved,high
+187,Pickpocket,2023-01-12,21:14,17.373209,78.482374,Charminar,Medium,1,Unresolved,high
+188,Pickpocket,2023-09-29,17:59,17.512825,78.363261,Miyapur,Low,0,Under Investigation,low
+189,Chain Snatching,2022-10-01,22:58,17.502579,78.370867,Miyapur,Medium,1,Unresolved,low
+190,Robbery,2022-05-27,00:09,17.379118,78.468234,Charminar,High,2,Under Investigation,high
+191,Harassment,2022-04-04,00:26,17.441782,78.386005,Madhapur,Low,0,Unresolved,low
+192,Theft,2022-11-16,07:09,17.344609,78.470494,Charminar,High,2,Resolved,high
+193,Harassment,2023-11-22,18:31,17.399327,78.560203,Uppal,Medium,1,Under Investigation,high
+194,Vehicle Theft,2022-10-07,13:27,17.371534,78.539709,Dilsukhnagar,Medium,1,Resolved,medium
+195,Theft,2023-08-31,19:14,17.447503,78.493685,Secunderabad,High,2,Unresolved,high
+196,Assault,2022-01-08,01:48,17.477713,78.417735,Kukatpally,Medium,1,Unresolved,medium
+197,Assault,2022-01-08,12:08,17.429338,78.512952,Secunderabad,High,2,Unresolved,high
+198,Robbery,2022-08-24,22:25,17.446936,78.444547,Ameerpet,Medium,1,Under Investigation,medium
+199,Pickpocket,2023-04-16,15:27,17.429795,78.388031,Hitech City,High,2,Under Investigation,high
+200,Theft,2023-03-04,19:20,17.345984,78.556803,LB Nagar,High,2,Resolved,high
+201,Robbery,2023-04-17,22:27,17.392645,78.554205,Uppal,High,2,Resolved,high
+202,Harassment,2023-08-27,13:55,17.432042,78.407476,Jubilee Hills,Low,0,Unresolved,low
+203,Robbery,2022-08-15,10:32,17.438199,78.468583,Begumpet,Low,0,Under Investigation,low
+204,Vehicle Theft,2023-06-07,16:46,17.431559,78.347761,Gachibowli,Medium,1,Under Investigation,medium
+205,Burglary,2022-08-30,04:11,17.496562,78.373516,Miyapur,Medium,1,Under Investigation,low
+206,Fraud,2022-03-19,20:29,17.421293,78.425703,Banjara Hills,High,2,Under Investigation,medium
+207,Vehicle Theft,2023-11-29,18:09,17.393127,78.569221,Uppal,High,2,Unresolved,high
+208,Pickpocket,2023-03-29,15:03,17.442759,78.342912,Gachibowli,Medium,1,Unresolved,medium
+209,Theft,2022-11-14,02:23,17.449909,78.449225,Ameerpet,Medium,1,Unresolved,medium
+210,Fraud,2022-04-03,20:37,17.449534,78.34944,Gachibowli,Medium,1,Under Investigation,medium
+211,Vehicle Theft,2022-02-12,19:38,17.421886,78.573043,Uppal,High,2,Unresolved,high
+212,Robbery,2022-03-05,04:32,17.435508,78.456073,Ameerpet,Medium,1,Under Investigation,medium
+213,Vandalism,2022-09-11,01:33,17.420763,78.445649,Banjara Hills,Medium,1,Under Investigation,medium
+214,Harassment,2023-01-17,11:49,17.407881,78.440188,Banjara Hills,Medium,1,Unresolved,medium
+215,Robbery,2022-02-23,19:21,17.456967,78.37673,Madhapur,Low,0,Resolved,low
+216,Vehicle Theft,2023-01-31,21:05,17.428034,78.431986,Ameerpet,Medium,1,Under Investigation,medium
+217,Assault,2022-12-25,04:38,17.446345,78.39654,Madhapur,Low,0,Under Investigation,low
+218,Assault,2023-07-27,09:42,17.452119,78.349493,Gachibowli,Medium,1,Under Investigation,medium
+219,Harassment,2023-12-03,23:32,17.508629,78.358359,Miyapur,Low,0,Unresolved,low
+220,Fraud,2022-07-04,13:12,17.429873,78.376756,Hitech City,High,2,Resolved,high
+221,Vandalism,2022-03-21,04:49,17.418673,78.434438,Banjara Hills,Medium,1,Under Investigation,medium
+222,Pickpocket,2023-06-24,23:08,17.47906,78.368687,Miyapur,Medium,1,Under Investigation,low
+223,Fraud,2022-07-05,07:02,17.336464,78.552257,LB Nagar,High,2,Unresolved,high
+224,Fraud,2022-09-01,19:14,17.364533,78.467181,Charminar,High,2,Under Investigation,high
+225,Vehicle Theft,2023-04-26,09:43,17.427889,78.398626,Jubilee Hills,Low,0,Under Investigation,low
+226,Assault,2022-10-16,14:52,17.368299,78.532341,Dilsukhnagar,Medium,1,Resolved,medium
+227,Vehicle Theft,2022-09-14,18:35,17.397514,78.563032,Uppal,Medium,1,Resolved,high
+228,Chain Snatching,2022-05-08,16:28,17.437558,78.457257,Begumpet,Low,0,Under Investigation,low
+229,Fraud,2022-04-04,13:56,17.414744,78.426418,Banjara Hills,Medium,1,Unresolved,medium
+230,Vehicle Theft,2023-03-01,00:15,17.464671,78.552817,ECIL,High,2,Unresolved,medium
+231,Vehicle Theft,2022-08-18,11:50,17.455818,78.349182,Gachibowli,Low,0,Resolved,medium
+232,Assault,2022-10-21,01:48,17.410002,78.436412,Banjara Hills,Medium,1,Under Investigation,medium
+233,Theft,2023-09-23,14:16,17.367901,78.522932,Dilsukhnagar,Low,0,Resolved,medium
+234,Robbery,2023-07-16,04:49,17.500513,78.37546,Miyapur,Low,0,Unresolved,low
+235,Pickpocket,2022-05-05,09:29,17.427756,78.402493,Jubilee Hills,Medium,1,Resolved,low
+236,Assault,2023-09-04,15:18,17.4379,78.330485,Gachibowli,Medium,1,Unresolved,medium
+237,Robbery,2022-09-04,18:33,17.431378,78.388135,Hitech City,High,2,Unresolved,high
+238,Harassment,2023-07-12,16:55,17.45326,78.346908,Gachibowli,Medium,1,Unresolved,medium
+239,Vehicle Theft,2023-01-18,18:50,17.448112,78.37969,Hitech City,High,2,Resolved,high
+240,Assault,2023-11-04,09:02,17.386231,78.483657,Charminar,High,2,Unresolved,high
+241,Fraud,2023-10-21,10:44,17.436477,78.440656,Ameerpet,High,2,Unresolved,medium
+242,Theft,2022-05-19,05:18,17.435648,78.392428,Madhapur,Medium,1,Resolved,low
+243,Vandalism,2022-02-12,20:25,17.437449,78.365822,Hitech City,High,2,Under Investigation,high
+244,Chain Snatching,2022-02-07,08:22,17.363627,78.516048,Dilsukhnagar,Medium,1,Resolved,medium
+245,Harassment,2022-12-06,20:56,17.509097,78.376453,Miyapur,Low,0,Unresolved,low
+246,Fraud,2023-01-31,14:44,17.441736,78.47544,Begumpet,Low,0,Unresolved,low
+247,Harassment,2023-06-16,22:05,17.362219,78.46781,Charminar,High,2,Unresolved,high
+248,Robbery,2023-07-13,05:20,17.497085,78.418111,Kukatpally,Medium,1,Under Investigation,medium
+249,Fraud,2023-09-10,11:22,17.431602,78.496777,Secunderabad,High,2,Unresolved,high
+250,Chain Snatching,2022-12-28,19:40,17.436495,78.366138,Hitech City,High,2,Resolved,high
+251,Theft,2023-10-15,21:09,17.447509,78.364175,Gachibowli,Medium,1,Under Investigation,medium
+252,Vehicle Theft,2022-02-05,14:23,17.437311,78.395304,Madhapur,Low,0,Unresolved,low
+253,Vehicle Theft,2023-09-12,01:23,17.479695,78.409903,Kukatpally,Medium,1,Unresolved,medium
+254,Vehicle Theft,2022-05-21,04:41,17.400661,78.552088,Uppal,High,2,Unresolved,high
+255,Vandalism,2022-01-27,03:24,17.432388,78.400452,Jubilee Hills,Low,0,Under Investigation,low
+256,Pickpocket,2022-09-24,08:18,17.442264,78.348498,Gachibowli,Medium,1,Under Investigation,medium
+257,Fraud,2022-07-24,15:11,17.467188,78.555139,ECIL,Low,0,Under Investigation,medium
+258,Vehicle Theft,2023-11-30,02:45,17.364186,78.530743,Dilsukhnagar,Medium,1,Resolved,medium
+259,Assault,2022-10-25,17:50,17.441507,78.44048,Ameerpet,Medium,1,Unresolved,medium
+260,Burglary,2022-05-05,07:50,17.438295,78.454311,Ameerpet,Medium,1,Unresolved,medium
+261,Pickpocket,2023-08-10,13:56,17.430145,78.381547,Hitech City,High,2,Resolved,high
+262,Vandalism,2023-02-12,09:26,17.434799,78.353465,Gachibowli,Medium,1,Unresolved,medium
+263,Robbery,2022-03-17,18:28,17.489494,78.354961,Miyapur,Medium,1,Unresolved,low
+264,Pickpocket,2022-12-19,16:11,17.43548,78.391185,Madhapur,High,2,Resolved,low
+265,Chain Snatching,2022-02-26,16:10,17.348978,78.539665,LB Nagar,High,2,Resolved,high
+266,Robbery,2022-08-19,22:16,17.366709,78.461408,Charminar,High,2,Resolved,high
+267,Pickpocket,2022-10-09,17:34,17.447971,78.381112,Madhapur,Medium,1,Resolved,low
+268,Assault,2022-06-22,20:42,17.432285,78.448679,Ameerpet,Medium,1,Under Investigation,medium
+269,Theft,2022-12-12,19:05,17.434917,78.460524,Begumpet,Low,0,Resolved,low
+270,Pickpocket,2022-09-29,18:40,17.45655,78.386185,Madhapur,Low,0,Resolved,low
+271,Fraud,2023-07-13,20:15,17.375486,78.515662,Dilsukhnagar,Medium,1,Under Investigation,medium
+272,Fraud,2022-03-16,11:26,17.351138,78.558433,LB Nagar,High,2,Unresolved,high
+273,Vehicle Theft,2022-12-15,06:46,17.349027,78.518325,Dilsukhnagar,Medium,1,Unresolved,medium
+274,Vehicle Theft,2023-01-15,06:15,17.351517,78.545276,LB Nagar,High,2,Unresolved,high
+275,Theft,2023-04-06,08:18,17.443069,78.344068,Gachibowli,Medium,1,Unresolved,medium
+276,Vehicle Theft,2023-03-05,19:59,17.496293,78.368155,Miyapur,Low,0,Under Investigation,low
+277,Vandalism,2022-07-14,10:29,17.451142,78.465635,Begumpet,Low,0,Unresolved,low
+278,Vandalism,2023-05-25,09:29,17.471801,78.559105,ECIL,Medium,1,Resolved,medium
+279,Fraud,2022-12-28,18:38,17.428099,78.40364,Jubilee Hills,Medium,1,Under Investigation,low
+280,Harassment,2022-10-20,15:08,17.451656,78.387432,Madhapur,Low,0,Unresolved,low
+281,Theft,2023-02-17,11:36,17.444118,78.480203,Begumpet,Low,0,Under Investigation,low
+282,Vandalism,2023-07-21,11:28,17.438969,78.404492,Jubilee Hills,Low,0,Under Investigation,low
+283,Assault,2023-10-01,20:06,17.44951,78.495035,Secunderabad,High,2,Unresolved,high
+284,Assault,2022-12-14,20:12,17.345295,78.466635,Charminar,High,2,Under Investigation,high
+285,Assault,2023-05-28,12:45,17.422534,78.445488,Ameerpet,Low,0,Unresolved,medium
+286,Assault,2023-04-13,16:20,17.405547,78.572411,Uppal,High,2,Under Investigation,high
+287,Pickpocket,2023-09-24,07:21,17.364215,78.472947,Charminar,High,2,Under Investigation,high
+288,Fraud,2023-06-30,16:52,17.502235,78.351711,Miyapur,Low,0,Resolved,low
+289,Theft,2022-04-23,12:38,17.363485,78.480867,Charminar,High,2,Unresolved,high
+290,Pickpocket,2023-08-16,23:30,17.428071,78.50745,Secunderabad,High,2,Resolved,high
+291,Assault,2023-09-27,20:52,17.440208,78.444978,Ameerpet,Medium,1,Under Investigation,medium
+292,Burglary,2023-08-10,01:01,17.437062,78.425266,Jubilee Hills,Low,0,Unresolved,low
+293,Vandalism,2023-02-27,14:49,17.363055,78.476686,Charminar,High,2,Under Investigation,high
+294,Vandalism,2022-03-05,15:20,17.465425,78.555601,ECIL,Medium,1,Under Investigation,medium
+295,Fraud,2023-01-21,16:58,17.375443,78.517851,Dilsukhnagar,Medium,1,Under Investigation,medium
+296,Pickpocket,2023-11-24,17:30,17.362173,78.470879,Charminar,High,2,Resolved,high
+297,Chain Snatching,2023-07-26,08:45,17.435832,78.409769,Jubilee Hills,Low,0,Resolved,low
+298,Vandalism,2023-05-16,22:59,17.4501,78.45952,Begumpet,Low,0,Under Investigation,low
+299,Harassment,2023-08-11,11:52,17.437741,78.49047,Secunderabad,High,2,Unresolved,high
+300,Robbery,2022-10-25,20:22,17.401846,78.562018,Uppal,High,2,Unresolved,high
+301,Vandalism,2023-05-06,08:44,17.454556,78.383423,Madhapur,Low,0,Unresolved,low
+302,Burglary,2023-09-23,03:03,17.422557,78.445545,Banjara Hills,Medium,1,Under Investigation,medium
+303,Robbery,2022-08-20,16:26,17.472407,78.577414,ECIL,Medium,1,Unresolved,medium
+304,Theft,2022-04-13,15:35,17.43561,78.453643,Begumpet,Low,0,Resolved,low
+305,Chain Snatching,2023-05-03,18:20,17.33267,78.558868,LB Nagar,High,2,Unresolved,high
+306,Vandalism,2022-04-02,01:47,17.453735,78.390355,Madhapur,Low,0,Under Investigation,low
+307,Theft,2022-06-29,01:53,17.49784,78.360396,Miyapur,Low,0,Unresolved,low
+308,Chain Snatching,2022-10-24,16:36,17.424966,78.560034,Uppal,High,2,Under Investigation,high
+309,Assault,2022-10-19,10:54,17.440975,78.354706,Gachibowli,Medium,1,Under Investigation,medium
+310,Assault,2022-07-17,08:46,17.372648,78.526491,Dilsukhnagar,Medium,1,Unresolved,medium
+311,Chain Snatching,2022-07-10,08:36,17.442176,78.394572,Madhapur,Medium,1,Under Investigation,low
+312,Harassment,2023-09-18,08:32,17.420456,78.569763,Uppal,High,2,Unresolved,high
+313,Fraud,2023-11-17,12:20,17.452845,78.34481,Gachibowli,Low,0,Resolved,medium
+314,Vehicle Theft,2022-08-30,10:19,17.435583,78.376194,Hitech City,High,2,Under Investigation,high
+315,Burglary,2022-01-12,18:03,17.442246,78.472354,Begumpet,Low,0,Under Investigation,low
+316,Vandalism,2022-11-11,14:59,17.42656,78.361136,Gachibowli,High,2,Under Investigation,medium
+317,Vehicle Theft,2022-05-01,11:39,17.404136,78.555585,Uppal,High,2,Resolved,high
+318,Pickpocket,2023-05-05,04:23,17.423903,78.393861,Jubilee Hills,High,2,Unresolved,low
+319,Burglary,2023-04-28,17:43,17.448385,78.464187,Begumpet,Low,0,Under Investigation,low
+320,Robbery,2023-06-23,02:58,17.48528,78.359039,Miyapur,Low,0,Under Investigation,low
+321,Pickpocket,2023-07-15,01:34,17.437414,78.362252,Gachibowli,Medium,1,Resolved,medium
+322,Pickpocket,2023-06-17,10:31,17.413523,78.422675,Banjara Hills,Medium,1,Resolved,medium
+323,Assault,2023-04-02,16:32,17.467134,78.560218,ECIL,Medium,1,Unresolved,medium
+324,Theft,2022-03-01,18:25,17.347225,78.524266,Dilsukhnagar,Medium,1,Unresolved,medium
+325,Harassment,2022-08-12,00:22,17.493753,78.37497,Miyapur,Low,0,Under Investigation,low
+326,Fraud,2022-03-03,17:02,17.454892,78.357913,Gachibowli,Medium,1,Unresolved,medium
+327,Vehicle Theft,2022-05-19,08:57,17.344749,78.538048,LB Nagar,High,2,Unresolved,high
+328,Vandalism,2023-01-20,12:08,17.389387,78.525174,Dilsukhnagar,High,2,Under Investigation,medium
+329,Harassment,2022-05-02,11:33,17.495711,78.369207,Miyapur,High,2,Resolved,low
+330,Fraud,2022-01-04,07:43,17.443385,78.462445,Begumpet,Low,0,Under Investigation,low
+331,Burglary,2023-06-29,13:29,17.432911,78.443925,Ameerpet,Medium,1,Unresolved,medium
+332,Theft,2022-07-13,08:51,17.415338,78.430353,Banjara Hills,Medium,1,Under Investigation,medium
+333,Robbery,2022-01-17,18:38,17.341197,78.547751,LB Nagar,High,2,Resolved,high
+334,Burglary,2023-11-20,19:47,17.36676,78.536732,Dilsukhnagar,Medium,1,Resolved,medium
+335,Assault,2023-07-07,15:32,17.325692,78.555632,LB Nagar,High,2,Unresolved,high
+336,Burglary,2023-08-13,23:19,17.441969,78.390513,Jubilee Hills,Low,0,Resolved,low
+337,Theft,2022-08-15,16:35,17.445758,78.387828,Madhapur,Low,0,Under Investigation,low
+338,Vandalism,2022-06-29,23:31,17.45784,78.556177,ECIL,Medium,1,Resolved,medium
+339,Harassment,2023-11-19,22:26,17.352715,78.488718,Charminar,High,2,Resolved,high
+340,Chain Snatching,2023-07-05,13:54,17.447385,78.508472,Secunderabad,High,2,Under Investigation,high
+341,Vandalism,2022-03-01,14:33,17.421373,78.425668,Banjara Hills,Medium,1,Resolved,medium
+342,Fraud,2022-07-28,09:54,17.342704,78.550815,LB Nagar,High,2,Unresolved,high
+343,Pickpocket,2022-07-15,17:38,17.430323,78.354604,Gachibowli,Medium,1,Resolved,medium
+344,Fraud,2022-07-12,02:13,17.493677,78.366401,Miyapur,Low,0,Unresolved,low
+345,Robbery,2022-01-16,22:47,17.445588,78.501854,Secunderabad,High,2,Unresolved,high
+346,Harassment,2023-12-14,07:58,17.466212,78.571675,ECIL,Medium,1,Resolved,medium
+347,Chain Snatching,2022-10-17,10:16,17.428851,78.453227,Ameerpet,Medium,1,Unresolved,medium
+348,Fraud,2023-04-23,15:48,17.442245,78.445824,Ameerpet,High,2,Unresolved,medium
+349,Pickpocket,2023-01-15,06:55,17.471709,78.552391,ECIL,Medium,1,Resolved,medium
+350,Chain Snatching,2022-01-17,04:09,17.449192,78.462121,Begumpet,Low,0,Resolved,low
+351,Vandalism,2023-08-07,09:41,17.357418,78.483092,Charminar,High,2,Under Investigation,high
+352,Fraud,2023-05-16,10:10,17.355965,78.463432,Charminar,High,2,Under Investigation,high
+353,Assault,2022-05-24,13:58,17.392947,78.563848,Uppal,High,2,Under Investigation,high
+354,Theft,2023-06-21,01:48,17.438257,78.404838,Madhapur,Low,0,Resolved,low
+355,Theft,2023-10-08,06:13,17.330245,78.560472,LB Nagar,High,2,Under Investigation,high
+356,Fraud,2022-03-03,11:01,17.370488,78.523926,Dilsukhnagar,Medium,1,Resolved,medium
+357,Chain Snatching,2023-02-26,17:34,17.433141,78.451493,Ameerpet,High,2,Unresolved,medium
+358,Robbery,2023-12-16,16:58,17.443199,78.386026,Hitech City,High,2,Resolved,high
+359,Chain Snatching,2022-09-04,04:52,17.438414,78.449502,Ameerpet,High,2,Unresolved,medium
+360,Fraud,2022-03-22,20:36,17.436991,78.497844,Secunderabad,High,2,Resolved,high
+361,Theft,2022-11-04,07:05,17.444262,78.449919,Begumpet,Low,0,Unresolved,low
+362,Assault,2023-05-03,13:05,17.336115,78.552846,LB Nagar,Low,0,Unresolved,high
+363,Vandalism,2023-10-23,13:58,17.496967,78.367928,Miyapur,Low,0,Resolved,low
+364,Chain Snatching,2023-12-10,06:02,17.432147,78.409881,Jubilee Hills,Low,0,Resolved,low
+365,Assault,2023-07-11,08:59,17.444182,78.384574,Madhapur,Low,0,Unresolved,low
+366,Harassment,2023-08-25,22:59,17.445067,78.369373,Hitech City,High,2,Resolved,high
+367,Vandalism,2022-09-04,07:21,17.443166,78.484679,Secunderabad,High,2,Unresolved,high
+368,Theft,2023-12-07,19:06,17.413633,78.562781,Uppal,High,2,Unresolved,high
+369,Vehicle Theft,2022-12-15,02:01,17.434048,78.414962,Jubilee Hills,Low,0,Under Investigation,low
+370,Vandalism,2023-04-07,20:24,17.453224,78.506415,Secunderabad,High,2,Unresolved,high
+371,Pickpocket,2023-08-23,21:18,17.400873,78.424463,Banjara Hills,Medium,1,Resolved,medium
+372,Assault,2022-03-26,02:47,17.436801,78.463809,Begumpet,Low,0,Unresolved,low
+373,Fraud,2022-04-04,13:23,17.365741,78.468894,Charminar,Medium,1,Unresolved,high
+374,Vandalism,2022-03-31,04:35,17.441594,78.342857,Gachibowli,Medium,1,Under Investigation,medium
+375,Pickpocket,2022-04-02,05:38,17.342008,78.535647,LB Nagar,High,2,Unresolved,high
+376,Robbery,2022-01-13,12:46,17.488214,78.358587,Miyapur,Low,0,Under Investigation,low
+377,Assault,2023-08-09,07:08,17.461293,78.570829,ECIL,Medium,1,Unresolved,medium
+378,Chain Snatching,2022-05-30,10:26,17.432305,78.519359,Secunderabad,Medium,1,Unresolved,high
+379,Fraud,2023-01-05,02:38,17.372747,78.526179,Dilsukhnagar,Medium,1,Under Investigation,medium
+380,Harassment,2022-04-20,14:21,17.425133,78.412702,Jubilee Hills,Low,0,Under Investigation,low
+381,Pickpocket,2022-12-04,20:08,17.342295,78.547876,LB Nagar,High,2,Unresolved,high
+382,Assault,2023-12-13,18:25,17.382081,78.473932,Charminar,High,2,Unresolved,high
+383,Vehicle Theft,2023-10-11,19:24,17.449094,78.492675,Secunderabad,High,2,Unresolved,high
+384,Burglary,2023-01-09,12:37,17.49532,78.383566,Miyapur,High,2,Under Investigation,low
+385,Fraud,2023-07-18,21:45,17.410584,78.4492,Banjara Hills,High,2,Resolved,medium
+386,Fraud,2023-12-11,09:08,17.374462,78.5202,Dilsukhnagar,Medium,1,Under Investigation,medium
+387,Harassment,2023-11-06,09:04,17.444959,78.50608,Secunderabad,Medium,1,Unresolved,high
+388,Vandalism,2023-08-20,15:02,17.489874,78.401238,Kukatpally,Medium,1,Unresolved,medium
+389,Robbery,2023-09-01,17:49,17.435983,78.46162,Begumpet,Low,0,Resolved,low
+390,Theft,2022-12-30,21:36,17.447905,78.395765,Madhapur,High,2,Under Investigation,low
+391,Harassment,2023-02-14,20:06,17.449922,78.380117,Madhapur,Low,0,Resolved,low
+392,Fraud,2022-08-16,08:23,17.443142,78.353785,Gachibowli,Medium,1,Unresolved,medium
+393,Vehicle Theft,2023-08-26,21:01,17.373278,78.533346,Dilsukhnagar,Medium,1,Unresolved,medium
+394,Robbery,2023-03-02,09:53,17.446771,78.352573,Gachibowli,Medium,1,Under Investigation,medium
+395,Vandalism,2022-11-16,11:30,17.415039,78.421412,Banjara Hills,Medium,1,Unresolved,medium
+396,Vehicle Theft,2023-03-25,03:04,17.372237,78.526362,Dilsukhnagar,Medium,1,Unresolved,medium
+397,Robbery,2022-04-28,20:43,17.445673,78.366986,Hitech City,Medium,1,Resolved,high
+398,Vehicle Theft,2022-09-07,23:35,17.460452,78.570825,ECIL,Medium,1,Unresolved,medium
+399,Harassment,2023-02-19,07:25,17.368484,78.530152,Dilsukhnagar,Medium,1,Resolved,medium
+400,Harassment,2022-07-22,19:00,17.442027,78.463838,Begumpet,Low,0,Under Investigation,low
+401,Pickpocket,2022-10-13,06:06,17.439506,78.402972,Jubilee Hills,Low,0,Under Investigation,low
+402,Chain Snatching,2022-11-30,11:42,17.416369,78.431002,Banjara Hills,Low,0,Unresolved,medium
+403,Pickpocket,2022-11-17,20:07,17.434024,78.445827,Ameerpet,Medium,1,Unresolved,medium
+404,Chain Snatching,2023-09-25,21:58,17.363377,78.47087,Charminar,High,2,Under Investigation,high
+405,Burglary,2023-11-20,02:19,17.494946,78.406643,Kukatpally,Low,0,Resolved,medium
+406,Harassment,2023-12-12,11:38,17.414105,78.431182,Banjara Hills,Medium,1,Resolved,medium
+407,Vandalism,2023-03-10,12:44,17.496476,78.415372,Kukatpally,High,2,Under Investigation,medium
+408,Assault,2023-07-23,05:11,17.477355,78.550516,ECIL,Medium,1,Unresolved,medium
+409,Theft,2023-09-27,14:31,17.497736,78.376517,Miyapur,Medium,1,Resolved,low
+410,Harassment,2023-07-30,12:43,17.432658,78.415624,Jubilee Hills,Low,0,Unresolved,low
+411,Pickpocket,2023-03-31,19:01,17.342762,78.558175,LB Nagar,High,2,Resolved,high
+412,Fraud,2022-08-19,01:36,17.458291,78.495397,Secunderabad,High,2,Under Investigation,high
+413,Chain Snatching,2023-07-17,20:49,17.401836,78.570627,Uppal,High,2,Under Investigation,high
+414,Fraud,2023-07-10,11:34,17.508237,78.365217,Miyapur,Low,0,Resolved,low
+415,Theft,2023-11-01,05:28,17.343539,78.544646,LB Nagar,High,2,Unresolved,high
+416,Burglary,2022-03-31,21:13,17.350844,78.467351,Charminar,High,2,Under Investigation,high
+417,Assault,2022-12-26,22:39,17.476867,78.407658,Kukatpally,Medium,1,Resolved,medium
+418,Vandalism,2022-07-31,08:17,17.405123,78.560874,Uppal,High,2,Under Investigation,high
+419,Chain Snatching,2022-11-28,05:36,17.449904,78.440313,Ameerpet,Medium,1,Unresolved,medium
+420,Harassment,2023-11-27,16:58,17.503475,78.367688,Miyapur,Low,0,Resolved,low
+421,Burglary,2022-05-10,21:09,17.439504,78.503699,Secunderabad,High,2,Under Investigation,high
+422,Pickpocket,2023-11-24,20:40,17.352618,78.477759,Charminar,High,2,Unresolved,high
+423,Harassment,2023-01-20,13:32,17.449832,78.39474,Madhapur,Low,0,Under Investigation,low
+424,Vehicle Theft,2023-01-13,19:37,17.442213,78.517942,Secunderabad,High,2,Resolved,high
+425,Vehicle Theft,2022-04-06,23:54,17.490498,78.365152,Miyapur,Low,0,Resolved,low
+426,Fraud,2022-08-12,17:17,17.400415,78.554556,Uppal,High,2,Unresolved,high
+427,Pickpocket,2022-12-12,09:54,17.490501,78.378912,Miyapur,Low,0,Unresolved,low
+428,Robbery,2023-11-30,12:40,17.416764,78.554434,Uppal,High,2,Unresolved,high
+429,Harassment,2022-06-11,06:12,17.436841,78.380971,Hitech City,High,2,Under Investigation,high
+430,Robbery,2023-10-28,04:41,17.464682,78.567463,ECIL,Medium,1,Unresolved,medium
+431,Theft,2023-11-12,04:25,17.441523,78.486174,Secunderabad,High,2,Under Investigation,high
+432,Robbery,2022-08-28,19:00,17.45228,78.512667,Secunderabad,High,2,Resolved,high
+433,Theft,2022-05-16,02:00,17.363898,78.521598,Dilsukhnagar,Medium,1,Under Investigation,medium
+434,Robbery,2023-03-09,20:14,17.363887,78.477376,Charminar,High,2,Unresolved,high
+435,Chain Snatching,2022-04-15,23:08,17.445368,78.364982,Gachibowli,Medium,1,Unresolved,medium
+436,Robbery,2022-05-17,20:33,17.403984,78.552614,Uppal,High,2,Under Investigation,high
+437,Assault,2022-06-18,18:58,17.432465,78.371353,Hitech City,High,2,Unresolved,high
+438,Robbery,2023-03-30,21:08,17.484635,78.428156,Kukatpally,Medium,1,Resolved,medium
+439,Vehicle Theft,2023-01-29,23:50,17.480759,78.41559,Kukatpally,Medium,1,Resolved,medium
+440,Pickpocket,2023-10-23,08:38,17.431869,78.416607,Jubilee Hills,High,2,Under Investigation,low
+441,Chain Snatching,2023-12-09,09:13,17.505115,78.409553,Kukatpally,High,2,Under Investigation,medium
+442,Theft,2022-07-13,16:50,17.480984,78.422153,Kukatpally,Medium,1,Resolved,medium
+443,Vandalism,2022-04-26,12:56,17.374255,78.539474,Dilsukhnagar,Medium,1,Resolved,medium
+444,Vehicle Theft,2022-05-16,22:34,17.366271,78.471826,Charminar,High,2,Under Investigation,high
+445,Theft,2022-03-16,15:16,17.420325,78.44357,Banjara Hills,Low,0,Resolved,medium
+446,Harassment,2023-02-12,22:44,17.450064,78.381258,Hitech City,High,2,Unresolved,high
+447,Chain Snatching,2023-07-04,20:05,17.448633,78.358254,Gachibowli,Medium,1,Unresolved,medium
+448,Vandalism,2022-07-28,16:20,17.451157,78.35409,Gachibowli,Medium,1,Unresolved,medium
+449,Chain Snatching,2023-10-28,20:44,17.483563,78.414974,Kukatpally,Medium,1,Unresolved,medium
+450,Robbery,2022-03-01,07:29,17.451452,78.457065,Begumpet,Low,0,Under Investigation,low
+451,Robbery,2022-11-13,01:00,17.487849,78.410653,Kukatpally,Medium,1,Under Investigation,medium
+452,Vandalism,2022-01-12,22:33,17.41583,78.444928,Banjara Hills,Medium,1,Under Investigation,medium
+453,Robbery,2022-05-10,07:49,17.441429,78.498671,Secunderabad,High,2,Resolved,high
+454,Pickpocket,2022-10-06,20:40,17.350721,78.48067,Charminar,High,2,Resolved,high
+455,Pickpocket,2023-06-08,14:10,17.373964,78.542006,Dilsukhnagar,Medium,1,Unresolved,medium
+456,Burglary,2022-04-16,08:47,17.413138,78.436453,Banjara Hills,Medium,1,Under Investigation,medium
+457,Vehicle Theft,2022-01-13,02:24,17.445495,78.38982,Hitech City,High,2,Resolved,high
+458,Burglary,2023-07-21,01:20,17.414838,78.436932,Banjara Hills,Medium,1,Resolved,medium
+459,Pickpocket,2022-11-24,22:23,17.351763,78.548393,LB Nagar,High,2,Resolved,high
+460,Theft,2022-02-23,21:25,17.433929,78.449853,Ameerpet,High,2,Resolved,medium
+461,Vehicle Theft,2022-10-17,14:05,17.477689,78.554188,ECIL,Medium,1,Under Investigation,medium
+462,Pickpocket,2023-01-13,00:15,17.369864,78.519099,Dilsukhnagar,Medium,1,Unresolved,medium
+463,Vandalism,2023-05-21,18:48,17.37116,78.462515,Charminar,High,2,Resolved,high
+464,Vehicle Theft,2023-02-24,00:40,17.411129,78.437718,Banjara Hills,High,2,Under Investigation,medium
+465,Harassment,2022-12-10,00:54,17.481624,78.561874,ECIL,High,2,Under Investigation,medium
+466,Harassment,2022-04-17,09:31,17.437358,78.478649,Begumpet,Low,0,Resolved,low
+467,Vandalism,2022-10-14,22:26,17.404016,78.41711,Banjara Hills,Low,0,Under Investigation,medium
+468,Pickpocket,2023-04-15,11:06,17.47262,78.558384,ECIL,Medium,1,Under Investigation,medium
+469,Theft,2023-02-08,20:27,17.40743,78.440367,Banjara Hills,High,2,Under Investigation,medium
+470,Harassment,2022-10-26,07:44,17.41755,78.430187,Banjara Hills,Medium,1,Under Investigation,medium
+471,Assault,2022-10-06,12:49,17.351358,78.48168,Charminar,High,2,Under Investigation,high
+472,Vehicle Theft,2022-04-19,04:26,17.445302,78.348107,Gachibowli,Medium,1,Resolved,medium
+473,Chain Snatching,2022-08-01,11:54,17.452273,78.439739,Ameerpet,Medium,1,Resolved,medium
+474,Burglary,2023-12-04,05:53,17.427896,78.343365,Gachibowli,Medium,1,Unresolved,medium
+475,Harassment,2023-12-30,02:32,17.415235,78.436647,Banjara Hills,Medium,1,Resolved,medium
+476,Theft,2022-09-24,09:25,17.44657,78.393616,Madhapur,Low,0,Unresolved,low
+477,Robbery,2023-07-18,23:51,17.427488,78.45985,Ameerpet,Medium,1,Resolved,medium
+478,Assault,2022-03-05,00:12,17.439443,78.357838,Gachibowli,Medium,1,Unresolved,medium
+479,Chain Snatching,2023-10-23,19:58,17.364342,78.478354,Charminar,High,2,Resolved,high
+480,Assault,2022-07-22,23:05,17.448058,78.380782,Hitech City,High,2,Unresolved,high
+481,Harassment,2023-04-18,01:52,17.445242,78.359533,Gachibowli,High,2,Under Investigation,medium
+482,Vehicle Theft,2023-01-27,16:13,17.348472,78.552572,LB Nagar,High,2,Resolved,high
+483,Pickpocket,2022-06-02,10:15,17.439182,78.509821,Secunderabad,High,2,Under Investigation,high
+484,Chain Snatching,2023-07-18,16:24,17.434489,78.512708,Secunderabad,High,2,Resolved,high
+485,Harassment,2023-06-23,08:50,17.346579,78.535454,LB Nagar,High,2,Under Investigation,high
+486,Harassment,2023-05-12,16:17,17.362625,78.469252,Charminar,High,2,Resolved,high
+487,Theft,2022-08-13,12:51,17.450225,78.371979,Hitech City,Medium,1,Unresolved,high
+488,Robbery,2023-08-22,11:15,17.433931,78.433184,Ameerpet,Medium,1,Under Investigation,medium
+489,Burglary,2023-07-01,08:36,17.428382,78.387709,Jubilee Hills,Low,0,Unresolved,low
+490,Vehicle Theft,2022-06-27,22:51,17.348929,78.480783,Charminar,High,2,Under Investigation,high
+491,Vehicle Theft,2023-08-29,11:36,17.448086,78.467004,Begumpet,High,2,Under Investigation,low
+492,Vandalism,2022-07-12,18:19,17.407864,78.434318,Banjara Hills,Medium,1,Resolved,medium
+493,Burglary,2022-04-03,01:01,17.368771,78.515433,Dilsukhnagar,High,2,Under Investigation,medium
+494,Assault,2022-12-06,00:21,17.380827,78.531719,Dilsukhnagar,Medium,1,Under Investigation,medium
+495,Assault,2022-03-02,10:49,17.413832,78.434915,Banjara Hills,High,2,Resolved,medium
+496,Harassment,2023-01-09,16:37,17.497267,78.353066,Miyapur,Low,0,Resolved,low
+497,Fraud,2022-05-20,11:41,17.359623,78.469244,Charminar,High,2,Unresolved,high
+498,Burglary,2023-07-30,22:42,17.407587,78.432451,Banjara Hills,Medium,1,Under Investigation,medium
+499,Assault,2023-01-23,05:11,17.509981,78.374527,Miyapur,Low,0,Under Investigation,low
+500,Assault,2023-08-10,22:38,17.438931,78.381781,Hitech City,High,2,Unresolved,high
+501,Fraud,2022-08-15,19:09,17.480295,78.569797,ECIL,Medium,1,Unresolved,medium
+502,Assault,2022-09-01,02:40,17.442277,78.458425,Begumpet,Low,0,Resolved,low
+503,Fraud,2023-11-18,22:00,17.501186,78.372548,Miyapur,Low,0,Unresolved,low
+504,Robbery,2023-12-11,07:46,17.439162,78.412181,Jubilee Hills,Medium,1,Resolved,low
+505,Fraud,2023-03-06,13:56,17.451896,78.372918,Hitech City,High,2,Unresolved,high
+506,Assault,2022-04-14,17:28,17.372139,78.476281,Charminar,High,2,Resolved,high
+507,Robbery,2022-10-29,21:04,17.422002,78.553486,Uppal,Medium,1,Unresolved,high
+508,Vehicle Theft,2022-06-14,12:38,17.429488,78.436283,Banjara Hills,Medium,1,Under Investigation,medium
+509,Assault,2023-12-23,15:38,17.463889,78.558529,ECIL,High,2,Unresolved,medium
+510,Harassment,2022-04-14,01:44,17.413037,78.438093,Banjara Hills,Medium,1,Under Investigation,medium
+511,Chain Snatching,2023-07-08,23:15,17.445983,78.45901,Begumpet,Low,0,Resolved,low
+512,Theft,2023-07-17,14:23,17.443305,78.394338,Hitech City,High,2,Resolved,high
+513,Burglary,2023-11-09,04:06,17.36072,78.550391,LB Nagar,High,2,Resolved,high
+514,Fraud,2023-10-16,05:54,17.432304,78.40806,Jubilee Hills,Low,0,Resolved,low
+515,Robbery,2023-04-28,20:41,17.444808,78.490118,Secunderabad,High,2,Under Investigation,high
+516,Theft,2023-01-26,08:16,17.344841,78.533551,LB Nagar,High,2,Unresolved,high
+517,Assault,2022-08-20,08:48,17.371994,78.529878,Dilsukhnagar,Medium,1,Under Investigation,medium
+518,Pickpocket,2022-03-29,03:14,17.444635,78.403392,Madhapur,Low,0,Under Investigation,low
+519,Pickpocket,2023-06-20,20:56,17.433694,78.365485,Hitech City,High,2,Resolved,high
+520,Vandalism,2022-03-22,09:36,17.370596,78.533077,Dilsukhnagar,Medium,1,Under Investigation,medium
+521,Assault,2023-09-28,17:10,17.418871,78.555329,Uppal,Medium,1,Resolved,high
+522,Burglary,2022-02-13,08:52,17.414029,78.558692,Uppal,High,2,Under Investigation,high
+523,Robbery,2022-09-22,19:24,17.414219,78.441769,Banjara Hills,Medium,1,Under Investigation,medium
+524,Pickpocket,2022-10-10,17:37,17.352119,78.534289,LB Nagar,High,2,Under Investigation,high
+525,Pickpocket,2023-03-01,14:37,17.417212,78.570041,Uppal,High,2,Resolved,high
+526,Vandalism,2023-07-31,03:56,17.464095,78.565566,ECIL,Medium,1,Unresolved,medium
+527,Pickpocket,2022-09-28,13:38,17.473052,78.564485,ECIL,Medium,1,Unresolved,medium
+528,Harassment,2023-02-17,07:02,17.439098,78.371827,Hitech City,High,2,Unresolved,high
+529,Chain Snatching,2023-12-09,10:57,17.468896,78.571782,ECIL,Medium,1,Unresolved,medium
+530,Robbery,2022-11-07,12:55,17.447849,78.374235,Hitech City,High,2,Resolved,high
+531,Chain Snatching,2023-03-30,09:46,17.421774,78.411912,Banjara Hills,Medium,1,Unresolved,medium
+532,Harassment,2022-04-02,20:47,17.49409,78.399882,Kukatpally,Low,0,Unresolved,medium
+533,Robbery,2023-01-18,17:19,17.4025,78.550043,Uppal,High,2,Under Investigation,high
+534,Assault,2022-05-19,12:12,17.427143,78.457587,Ameerpet,Medium,1,Resolved,medium
+535,Vehicle Theft,2022-09-13,01:45,17.491858,78.372172,Miyapur,Low,0,Resolved,low
+536,Theft,2023-04-21,13:15,17.439525,78.502116,Secunderabad,High,2,Unresolved,high
+537,Pickpocket,2023-04-02,19:35,17.369415,78.514436,Dilsukhnagar,Medium,1,Unresolved,medium
+538,Chain Snatching,2022-09-22,07:01,17.36957,78.47075,Charminar,High,2,Unresolved,high
+539,Burglary,2023-08-09,07:41,17.431047,78.373775,Hitech City,High,2,Resolved,high
+540,Theft,2022-10-03,06:30,17.460506,78.397602,Madhapur,Low,0,Resolved,low
+541,Chain Snatching,2023-09-08,05:38,17.445711,78.388006,Madhapur,Low,0,Unresolved,low
+542,Vehicle Theft,2023-10-21,22:29,17.439227,78.480214,Begumpet,Low,0,Unresolved,low
+543,Pickpocket,2022-11-06,14:06,17.435055,78.41054,Jubilee Hills,Low,0,Resolved,low
+544,Chain Snatching,2023-01-19,21:43,17.445742,78.45021,Ameerpet,Medium,1,Resolved,medium
+545,Chain Snatching,2022-12-11,02:16,17.366728,78.523129,Dilsukhnagar,Medium,1,Under Investigation,medium
+546,Burglary,2022-11-02,20:57,17.441227,78.463302,Begumpet,High,2,Resolved,low
+547,Assault,2023-09-07,21:46,17.411221,78.559416,Uppal,High,2,Resolved,high
+548,Harassment,2022-10-30,15:24,17.454361,78.390154,Madhapur,Low,0,Under Investigation,low
+549,Burglary,2023-08-09,18:43,17.444129,78.361214,Hitech City,High,2,Under Investigation,high
+550,Assault,2023-11-19,15:53,17.455831,78.393572,Madhapur,Low,0,Under Investigation,low
+551,Assault,2022-07-05,17:47,17.477084,78.53923,ECIL,Medium,1,Unresolved,medium
+552,Robbery,2022-07-07,17:14,17.458507,78.462483,Begumpet,Low,0,Unresolved,low
+553,Vehicle Theft,2022-11-11,23:16,17.440865,78.398781,Jubilee Hills,Low,0,Under Investigation,low
+554,Fraud,2022-05-01,16:56,17.444802,78.489873,Secunderabad,High,2,Resolved,high
+555,Harassment,2023-11-29,03:03,17.43251,78.463612,Ameerpet,Medium,1,Resolved,medium
+556,Assault,2022-12-17,06:20,17.414075,78.436439,Banjara Hills,Medium,1,Under Investigation,medium
+557,Vehicle Theft,2023-05-15,02:40,17.422561,78.438665,Banjara Hills,Medium,1,Resolved,medium
+558,Pickpocket,2022-08-03,15:48,17.444703,78.38012,Hitech City,High,2,Resolved,high
+559,Harassment,2022-05-13,02:27,17.388027,78.524239,Dilsukhnagar,Medium,1,Unresolved,medium
+560,Theft,2023-07-01,00:57,17.348509,78.555305,LB Nagar,Medium,1,Unresolved,high
+561,Burglary,2022-07-15,20:14,17.414244,78.568496,Uppal,Low,0,Under Investigation,high
+562,Vandalism,2022-11-16,11:37,17.47421,78.553256,ECIL,Medium,1,Unresolved,medium
+563,Fraud,2022-02-16,02:46,17.428667,78.425529,Banjara Hills,Medium,1,Under Investigation,medium
+564,Vehicle Theft,2022-12-12,16:57,17.487321,78.407766,Kukatpally,Medium,1,Unresolved,medium
+565,Theft,2022-06-18,19:14,17.361087,78.47733,Charminar,High,2,Resolved,high
+566,Robbery,2022-08-05,04:23,17.444371,78.466975,Begumpet,Low,0,Under Investigation,low
+567,Vandalism,2023-01-20,01:39,17.46141,78.394428,Madhapur,Low,0,Resolved,low
+568,Theft,2023-11-09,01:44,17.482947,78.421513,Kukatpally,Low,0,Resolved,medium
+569,Assault,2022-05-07,15:13,17.356416,78.537079,LB Nagar,High,2,Under Investigation,high
+570,Vandalism,2022-01-10,20:17,17.453279,78.396409,Madhapur,Low,0,Under Investigation,low
+571,Vandalism,2022-05-21,22:46,17.482519,78.424806,Kukatpally,Medium,1,Under Investigation,medium
+572,Burglary,2022-04-27,09:38,17.4389,78.349905,Gachibowli,Medium,1,Resolved,medium
+573,Harassment,2023-06-20,10:18,17.404015,78.559125,Uppal,High,2,Resolved,high
+574,Vehicle Theft,2022-08-01,17:15,17.43473,78.36568,Hitech City,High,2,Resolved,high
+575,Assault,2022-04-24,19:05,17.456256,78.370424,Hitech City,High,2,Under Investigation,high
+576,Fraud,2022-04-14,23:18,17.432169,78.331673,Gachibowli,Medium,1,Unresolved,medium
+577,Chain Snatching,2022-04-13,01:23,17.363688,78.514115,Dilsukhnagar,Medium,1,Under Investigation,medium
+578,Theft,2022-04-29,15:54,17.374736,78.482779,Charminar,Low,0,Resolved,high
+579,Pickpocket,2022-06-24,20:17,17.442995,78.408819,Madhapur,Low,0,Under Investigation,low
+580,Harassment,2022-12-17,11:29,17.447954,78.346301,Gachibowli,Medium,1,Unresolved,medium
+581,Assault,2023-12-08,12:07,17.475605,78.387728,Miyapur,Low,0,Resolved,low
+582,Robbery,2022-03-02,23:26,17.430683,78.450437,Begumpet,Low,0,Under Investigation,low
+583,Vehicle Theft,2023-11-26,18:39,17.376981,78.544218,Dilsukhnagar,Medium,1,Resolved,medium
+584,Robbery,2022-05-14,21:56,17.506674,78.373911,Miyapur,Low,0,Unresolved,low
+585,Theft,2022-03-06,01:45,17.373558,78.531527,Dilsukhnagar,Medium,1,Under Investigation,medium
+586,Vehicle Theft,2023-08-14,23:33,17.443571,78.45055,Ameerpet,Medium,1,Under Investigation,medium
+587,Burglary,2023-09-26,22:30,17.442634,78.463099,Begumpet,High,2,Unresolved,low
+588,Theft,2023-10-19,21:41,17.442468,78.388555,Madhapur,Low,0,Resolved,low
+589,Fraud,2023-05-23,15:20,17.423956,78.447513,Ameerpet,Medium,1,Resolved,medium
+590,Harassment,2022-02-21,23:52,17.353691,78.465871,Charminar,High,2,Resolved,high
+591,Robbery,2023-03-31,14:54,17.441539,78.360036,Gachibowli,Medium,1,Unresolved,medium
+592,Robbery,2022-05-02,10:25,17.376147,78.512136,Dilsukhnagar,Medium,1,Unresolved,medium
+593,Vandalism,2022-01-01,17:35,17.435583,78.384726,Hitech City,High,2,Resolved,high
+594,Theft,2023-04-13,21:52,17.44064,78.389003,Madhapur,Low,0,Resolved,low
+595,Vehicle Theft,2022-12-06,14:45,17.5,78.361653,Miyapur,Low,0,Unresolved,low
+596,Vehicle Theft,2023-11-06,03:53,17.440943,78.338228,Gachibowli,Medium,1,Under Investigation,medium
+597,Theft,2023-06-19,11:57,17.400589,78.561558,Uppal,High,2,Resolved,high
+598,Burglary,2023-02-24,04:12,17.356056,78.528224,Dilsukhnagar,High,2,Resolved,medium
+599,Vehicle Theft,2022-08-09,12:06,17.468943,78.56682,ECIL,Medium,1,Unresolved,medium
+600,Fraud,2023-11-20,22:42,17.445291,78.388113,Hitech City,High,2,Under Investigation,high
+601,Theft,2023-05-26,04:35,17.438502,78.444865,Ameerpet,High,2,Unresolved,medium
+602,Pickpocket,2023-05-10,18:11,17.496578,78.373746,Miyapur,Low,0,Under Investigation,low
+603,Vandalism,2022-04-17,04:56,17.495991,78.369725,Miyapur,Low,0,Unresolved,low
+604,Harassment,2023-12-11,23:21,17.341284,78.541597,LB Nagar,High,2,Unresolved,high
+605,Vandalism,2022-05-22,04:55,17.357579,78.538697,Dilsukhnagar,Medium,1,Unresolved,medium
+606,Burglary,2023-07-21,23:39,17.431849,78.458057,Begumpet,Low,0,Under Investigation,low
+607,Assault,2023-11-20,19:32,17.434153,78.505459,Secunderabad,High,2,Under Investigation,high
+608,Vandalism,2022-11-27,20:30,17.43944,78.473582,Begumpet,Low,0,Under Investigation,low
+609,Harassment,2023-12-29,21:51,17.479512,78.416032,Kukatpally,Medium,1,Resolved,medium
+610,Theft,2022-01-26,03:12,17.430817,78.465461,Ameerpet,Medium,1,Unresolved,medium
+611,Theft,2022-10-21,20:44,17.395899,78.561479,Uppal,High,2,Unresolved,high
+612,Robbery,2022-02-03,17:39,17.43707,78.41041,Jubilee Hills,Low,0,Under Investigation,low
+613,Burglary,2022-08-18,17:32,17.440318,78.462561,Begumpet,Low,0,Under Investigation,low
+614,Harassment,2022-02-18,19:50,17.44025,78.497124,Secunderabad,High,2,Under Investigation,high
+615,Burglary,2022-02-25,23:39,17.369311,78.492384,Charminar,Medium,1,Unresolved,high
+616,Pickpocket,2023-10-11,07:34,17.49114,78.358442,Miyapur,Low,0,Under Investigation,low
+617,Robbery,2022-07-18,06:11,17.484194,78.434438,Kukatpally,Medium,1,Resolved,medium
+618,Chain Snatching,2022-05-03,16:35,17.435371,78.476713,Begumpet,Low,0,Unresolved,low
+619,Vehicle Theft,2023-08-22,05:29,17.429022,78.430271,Banjara Hills,Medium,1,Under Investigation,medium
+620,Pickpocket,2022-02-10,04:03,17.473652,78.575427,ECIL,Medium,1,Under Investigation,medium
+621,Robbery,2022-11-05,21:50,17.481867,78.412171,Kukatpally,Medium,1,Under Investigation,medium
+622,Harassment,2022-07-08,17:34,17.356947,78.466582,Charminar,High,2,Under Investigation,high
+623,Vehicle Theft,2022-08-15,05:23,17.341706,78.537108,LB Nagar,High,2,Unresolved,high
+624,Robbery,2023-06-28,19:42,17.432273,78.40094,Jubilee Hills,Low,0,Unresolved,low
+625,Theft,2023-10-20,07:43,17.37067,78.512253,Dilsukhnagar,Medium,1,Unresolved,medium
+626,Theft,2022-04-27,22:58,17.349547,78.553568,LB Nagar,High,2,Under Investigation,high
+627,Fraud,2023-06-11,11:02,17.47965,78.372392,Miyapur,Low,0,Unresolved,low
+628,Robbery,2022-07-17,20:10,17.478921,78.552723,ECIL,Medium,1,Under Investigation,medium
+629,Burglary,2023-10-04,00:55,17.450881,78.451652,Ameerpet,High,2,Under Investigation,medium
+630,Robbery,2022-07-30,20:47,17.34126,78.546454,LB Nagar,High,2,Under Investigation,high
+631,Robbery,2023-04-16,00:04,17.420067,78.435308,Banjara Hills,Medium,1,Resolved,medium
+632,Chain Snatching,2023-07-26,08:26,17.41991,78.427335,Banjara Hills,Low,0,Unresolved,medium
+633,Harassment,2023-02-19,20:43,17.370155,78.51339,Dilsukhnagar,Medium,1,Resolved,medium
+634,Pickpocket,2023-10-19,00:02,17.43661,78.441069,Ameerpet,Medium,1,Under Investigation,medium
+635,Chain Snatching,2023-01-02,02:50,17.489716,78.379289,Miyapur,Low,0,Under Investigation,low
+636,Harassment,2022-10-16,18:25,17.44863,78.503173,Secunderabad,High,2,Under Investigation,high
+637,Vandalism,2023-07-01,16:18,17.434761,78.374669,Hitech City,High,2,Under Investigation,high
+638,Theft,2023-11-25,09:35,17.425305,78.435834,Banjara Hills,Medium,1,Under Investigation,medium
+639,Harassment,2022-02-12,03:34,17.434155,78.437847,Banjara Hills,High,2,Under Investigation,medium
+640,Burglary,2022-08-04,09:26,17.441636,78.346427,Gachibowli,Medium,1,Under Investigation,medium
+641,Pickpocket,2022-05-26,16:53,17.496668,78.36818,Miyapur,Low,0,Unresolved,low
+642,Vandalism,2022-07-05,03:29,17.437665,78.414754,Jubilee Hills,Low,0,Under Investigation,low
+643,Robbery,2022-10-25,02:12,17.431212,78.43765,Ameerpet,Medium,1,Under Investigation,medium
+644,Robbery,2022-12-05,15:18,17.47021,78.417864,Kukatpally,Medium,1,Under Investigation,medium
+645,Pickpocket,2022-11-22,06:42,17.431273,78.331677,Gachibowli,Medium,1,Unresolved,medium
+646,Vehicle Theft,2022-06-06,18:27,17.444909,78.483544,Begumpet,Low,0,Resolved,low
+647,Chain Snatching,2022-08-15,11:53,17.443451,78.383908,Hitech City,High,2,Unresolved,high
+648,Fraud,2022-12-06,21:22,17.416255,78.433909,Banjara Hills,Medium,1,Unresolved,medium
+649,Robbery,2022-04-22,17:53,17.376153,78.522378,Dilsukhnagar,High,2,Unresolved,medium
+650,Robbery,2023-07-06,04:46,17.497739,78.371974,Miyapur,High,2,Resolved,low
+651,Pickpocket,2023-06-04,00:13,17.463755,78.570336,ECIL,Medium,1,Resolved,medium
+652,Assault,2023-07-11,08:23,17.4361,78.442254,Ameerpet,Medium,1,Unresolved,medium
+653,Vandalism,2022-10-25,18:05,17.436292,78.399912,Jubilee Hills,High,2,Unresolved,low
+654,Vandalism,2023-11-10,16:08,17.361825,78.474627,Charminar,High,2,Unresolved,high
+655,Fraud,2023-08-03,05:22,17.424287,78.438498,Banjara Hills,Medium,1,Resolved,medium
+656,Burglary,2022-08-26,15:02,17.4318,78.413642,Jubilee Hills,Medium,1,Under Investigation,low
+657,Theft,2023-01-05,16:02,17.443122,78.411562,Jubilee Hills,Low,0,Under Investigation,low
+658,Chain Snatching,2023-06-18,05:37,17.361683,78.464205,Charminar,High,2,Under Investigation,high
+659,Pickpocket,2023-01-21,05:41,17.476379,78.411358,Kukatpally,Medium,1,Resolved,medium
+660,Vandalism,2023-01-21,08:25,17.432624,78.446804,Ameerpet,Medium,1,Unresolved,medium
+661,Vandalism,2023-05-14,11:56,17.496053,78.373638,Miyapur,Low,0,Resolved,low
+662,Chain Snatching,2022-08-24,05:13,17.368236,78.528592,Dilsukhnagar,High,2,Resolved,medium
+663,Burglary,2023-01-06,05:26,17.416116,78.418896,Banjara Hills,Medium,1,Unresolved,medium
+664,Burglary,2023-05-09,03:37,17.434285,78.462447,Begumpet,Low,0,Resolved,low
+665,Pickpocket,2022-01-23,13:37,17.438822,78.395599,Madhapur,Low,0,Resolved,low
+666,Assault,2023-06-09,20:03,17.427846,78.44445,Banjara Hills,High,2,Resolved,medium
+667,Chain Snatching,2023-06-14,22:05,17.438192,78.510226,Secunderabad,High,2,Resolved,high
+668,Burglary,2023-04-28,19:53,17.369989,78.522003,Dilsukhnagar,Medium,1,Unresolved,medium
+669,Pickpocket,2023-08-20,04:42,17.479993,78.41138,Kukatpally,Medium,1,Under Investigation,medium
+670,Pickpocket,2023-12-04,07:37,17.436795,78.499663,Secunderabad,High,2,Resolved,high
+671,Burglary,2023-01-30,12:33,17.433285,78.407124,Jubilee Hills,Low,0,Under Investigation,low
+672,Fraud,2022-06-03,13:57,17.451996,78.400325,Madhapur,Low,0,Under Investigation,low
+673,Robbery,2023-06-29,01:30,17.492496,78.401921,Kukatpally,Medium,1,Under Investigation,medium
+674,Vandalism,2023-07-07,19:26,17.395169,78.442175,Banjara Hills,Medium,1,Unresolved,medium
+675,Fraud,2023-12-16,01:50,17.484665,78.367602,Miyapur,Low,0,Unresolved,low
+676,Assault,2023-12-15,18:16,17.352239,78.460284,Charminar,High,2,Unresolved,high
+677,Chain Snatching,2022-03-27,09:12,17.409732,78.565073,Uppal,High,2,Resolved,high
+678,Vandalism,2022-01-08,23:00,17.437188,78.442872,Begumpet,Low,0,Unresolved,low
+679,Vehicle Theft,2023-12-06,06:06,17.44413,78.393934,Madhapur,Low,0,Resolved,low
+680,Pickpocket,2022-09-17,18:23,17.335069,78.548367,LB Nagar,High,2,Under Investigation,high
+681,Vandalism,2023-02-11,23:50,17.439778,78.502934,Secunderabad,High,2,Under Investigation,high
+682,Chain Snatching,2023-01-15,05:19,17.369757,78.516915,Dilsukhnagar,Medium,1,Under Investigation,medium
+683,Burglary,2023-02-12,20:28,17.371173,78.473432,Charminar,High,2,Under Investigation,high
+684,Vandalism,2022-08-08,03:39,17.415382,78.427234,Banjara Hills,Medium,1,Under Investigation,medium
+685,Theft,2022-02-23,22:51,17.444954,78.383722,Madhapur,High,2,Resolved,low
+686,Robbery,2023-04-28,04:04,17.494216,78.383094,Miyapur,Low,0,Unresolved,low
+687,Harassment,2022-03-23,11:39,17.421025,78.394192,Jubilee Hills,Low,0,Under Investigation,low
+688,Assault,2023-12-30,09:40,17.449269,78.446625,Ameerpet,Medium,1,Unresolved,medium
+689,Burglary,2022-07-26,00:02,17.363447,78.533019,Dilsukhnagar,Medium,1,Under Investigation,medium
+690,Theft,2023-12-17,16:23,17.432655,78.462908,Ameerpet,Medium,1,Resolved,medium
+691,Harassment,2022-06-11,00:22,17.453923,78.386897,Madhapur,Medium,1,Under Investigation,low
+692,Robbery,2022-07-25,14:35,17.364158,78.542054,LB Nagar,High,2,Unresolved,high
+693,Burglary,2023-08-20,17:38,17.447737,78.465994,Begumpet,Low,0,Resolved,low
+694,Harassment,2023-08-12,12:32,17.379214,78.537192,Dilsukhnagar,Low,0,Resolved,medium
+695,Vandalism,2023-05-31,02:16,17.437756,78.442273,Ameerpet,Medium,1,Under Investigation,medium
+696,Pickpocket,2022-09-14,18:30,17.49928,78.363978,Miyapur,Low,0,Resolved,low
+697,Fraud,2023-04-15,12:07,17.421507,78.560092,Uppal,High,2,Unresolved,high
+698,Burglary,2023-10-11,12:51,17.437177,78.350377,Gachibowli,Medium,1,Unresolved,medium
+699,Burglary,2023-06-13,22:18,17.336123,78.539127,LB Nagar,High,2,Resolved,high
+700,Fraud,2022-12-17,19:20,17.356503,78.541645,LB Nagar,Low,0,Unresolved,high
+701,Burglary,2022-10-03,18:31,17.423625,78.411393,Jubilee Hills,High,2,Under Investigation,low
+702,Burglary,2022-09-05,07:12,17.441486,78.412852,Jubilee Hills,Low,0,Resolved,low
+703,Robbery,2022-12-31,19:58,17.503568,78.363346,Miyapur,Low,0,Resolved,low
+704,Fraud,2023-05-20,21:23,17.437126,78.402811,Madhapur,Low,0,Under Investigation,low
+705,Assault,2023-08-12,16:48,17.359019,78.472693,Charminar,High,2,Under Investigation,high
+706,Harassment,2023-08-14,14:30,17.450526,78.50275,Secunderabad,High,2,Under Investigation,high
+707,Fraud,2023-02-08,16:07,17.447147,78.39452,Hitech City,High,2,Under Investigation,high
+708,Burglary,2022-11-20,14:24,17.432352,78.455723,Ameerpet,Medium,1,Under Investigation,medium
+709,Assault,2023-01-06,10:35,17.440556,78.351049,Gachibowli,Medium,1,Unresolved,medium
+710,Vehicle Theft,2023-04-28,08:11,17.444228,78.411163,Jubilee Hills,Low,0,Unresolved,low
+711,Harassment,2023-12-19,09:17,17.351206,78.55548,LB Nagar,High,2,Unresolved,high
+712,Robbery,2022-05-15,18:46,17.41268,78.427986,Banjara Hills,Medium,1,Unresolved,medium
+713,Assault,2023-03-19,09:51,17.397042,78.543269,Uppal,High,2,Under Investigation,high
+714,Assault,2022-01-10,15:57,17.43205,78.425874,Banjara Hills,Medium,1,Under Investigation,medium
+715,Chain Snatching,2022-11-20,17:35,17.43573,78.446085,Ameerpet,Medium,1,Under Investigation,medium
+716,Chain Snatching,2023-12-09,14:30,17.445959,78.383726,Hitech City,Low,0,Under Investigation,high
+717,Vandalism,2022-12-09,14:35,17.446984,78.344235,Gachibowli,Medium,1,Unresolved,medium
+718,Pickpocket,2022-05-05,01:36,17.360263,78.476961,Charminar,High,2,Under Investigation,high
+719,Vehicle Theft,2022-06-28,17:20,17.44651,78.403659,Madhapur,Low,0,Under Investigation,low
+720,Pickpocket,2023-04-03,15:18,17.441428,78.454179,Ameerpet,Medium,1,Unresolved,medium
+721,Harassment,2022-06-21,04:40,17.453803,78.400188,Madhapur,Low,0,Under Investigation,low
+722,Burglary,2022-03-15,12:20,17.486348,78.403425,Kukatpally,Medium,1,Unresolved,medium
+723,Chain Snatching,2023-12-29,09:56,17.451698,78.385589,Madhapur,Low,0,Unresolved,low
+724,Harassment,2023-01-07,21:10,17.401171,78.563691,Uppal,High,2,Resolved,high
+725,Robbery,2022-05-09,00:13,17.505506,78.36957,Miyapur,Low,0,Resolved,low
+726,Vandalism,2022-03-07,05:03,17.349371,78.560518,LB Nagar,High,2,Resolved,high
+727,Assault,2022-03-27,14:05,17.407326,78.579813,Uppal,High,2,Under Investigation,high
+728,Fraud,2022-11-13,12:40,17.473624,78.548314,ECIL,Medium,1,Resolved,medium
+729,Vehicle Theft,2022-06-24,16:55,17.421627,78.437749,Banjara Hills,High,2,Unresolved,medium
+730,Vandalism,2023-04-24,15:28,17.505918,78.374785,Miyapur,Low,0,Resolved,low
+731,Pickpocket,2022-07-01,17:27,17.440692,78.453806,Begumpet,Low,0,Under Investigation,low
+732,Fraud,2023-07-01,20:34,17.446828,78.383996,Madhapur,Low,0,Resolved,low
+733,Assault,2022-11-12,05:19,17.400756,78.563709,Uppal,High,2,Resolved,high
+734,Vandalism,2022-05-20,17:00,17.456859,78.380357,Hitech City,High,2,Under Investigation,high
+735,Chain Snatching,2023-05-04,15:38,17.459533,78.565957,ECIL,Medium,1,Resolved,medium
+736,Harassment,2023-01-18,00:25,17.414973,78.554122,Uppal,High,2,Resolved,high
+737,Burglary,2023-10-24,22:16,17.414528,78.434818,Banjara Hills,Medium,1,Resolved,medium
+738,Chain Snatching,2023-06-14,18:41,17.340621,78.552086,LB Nagar,High,2,Under Investigation,high
+739,Assault,2023-02-27,08:08,17.436532,78.451656,Ameerpet,Low,0,Unresolved,medium
+740,Pickpocket,2023-04-12,20:31,17.433,78.3454,Gachibowli,Medium,1,Resolved,medium
+741,Assault,2022-02-20,01:06,17.367379,78.471717,Charminar,High,2,Unresolved,high
+742,Robbery,2023-03-25,06:09,17.453716,78.495103,Secunderabad,High,2,Resolved,high
+743,Vehicle Theft,2022-12-17,06:29,17.370597,78.532161,Dilsukhnagar,Medium,1,Under Investigation,medium
+744,Theft,2022-03-24,01:17,17.394053,78.544914,Uppal,High,2,Unresolved,high
+745,Harassment,2023-04-27,17:53,17.427895,78.359001,Gachibowli,Medium,1,Resolved,medium
+746,Burglary,2022-09-12,22:47,17.435685,78.369366,Gachibowli,Medium,1,Resolved,medium
+747,Fraud,2022-04-07,14:24,17.427486,78.408576,Jubilee Hills,Low,0,Under Investigation,low
+748,Vandalism,2022-06-12,22:33,17.452237,78.514349,Secunderabad,High,2,Resolved,high
+749,Burglary,2022-11-02,16:07,17.456392,78.507967,Secunderabad,Low,0,Resolved,high
+750,Pickpocket,2022-11-29,13:07,17.456693,78.39554,Madhapur,Medium,1,Unresolved,low
+751,Pickpocket,2022-02-13,09:09,17.411627,78.554591,Uppal,High,2,Unresolved,high
+752,Theft,2022-06-11,05:03,17.398854,78.558973,Uppal,High,2,Unresolved,high
+753,Assault,2023-12-20,04:31,17.447139,78.387174,Madhapur,Low,0,Resolved,low
+754,Burglary,2023-10-23,23:01,17.367171,78.482342,Charminar,High,2,Under Investigation,high
+755,Fraud,2022-05-18,13:45,17.347607,78.55872,LB Nagar,High,2,Unresolved,high
+756,Pickpocket,2023-07-10,09:11,17.428366,78.446751,Ameerpet,Medium,1,Under Investigation,medium
+757,Robbery,2023-04-25,12:33,17.355865,78.459768,Charminar,High,2,Resolved,high
+758,Theft,2022-09-27,09:49,17.368139,78.523726,Dilsukhnagar,Medium,1,Under Investigation,medium
+759,Pickpocket,2022-07-09,12:15,17.449608,78.453346,Ameerpet,Medium,1,Unresolved,medium
+760,Burglary,2023-11-06,02:33,17.433607,78.478433,Begumpet,Low,0,Under Investigation,low
+761,Harassment,2022-06-07,17:41,17.378568,78.529357,Dilsukhnagar,Medium,1,Unresolved,medium
+762,Assault,2023-06-20,03:11,17.438288,78.341224,Gachibowli,Medium,1,Resolved,medium
+763,Pickpocket,2023-05-13,03:41,17.429022,78.41581,Jubilee Hills,Low,0,Unresolved,low
+764,Theft,2023-06-23,15:23,17.463577,78.403146,Madhapur,Low,0,Resolved,low
+765,Fraud,2022-03-14,22:59,17.480989,78.404843,Kukatpally,Low,0,Resolved,medium
+766,Vehicle Theft,2022-03-04,20:50,17.369927,78.510552,Dilsukhnagar,Medium,1,Under Investigation,medium
+767,Chain Snatching,2022-09-30,20:04,17.446085,78.376019,Hitech City,High,2,Resolved,high
+768,Burglary,2022-04-14,03:12,17.433772,78.435542,Ameerpet,Medium,1,Under Investigation,medium
+769,Vandalism,2023-08-07,07:47,17.452609,78.386538,Madhapur,Low,0,Under Investigation,low
+770,Harassment,2023-10-16,19:56,17.337541,78.523922,LB Nagar,High,2,Resolved,high
+771,Assault,2023-07-18,05:34,17.41538,78.448878,Banjara Hills,Medium,1,Under Investigation,medium
+772,Vehicle Theft,2022-11-19,11:26,17.38209,78.521043,Dilsukhnagar,Medium,1,Under Investigation,medium
+773,Harassment,2022-11-28,20:49,17.342082,78.55065,LB Nagar,High,2,Under Investigation,high
+774,Fraud,2022-09-18,23:25,17.461113,78.564814,ECIL,Medium,1,Resolved,medium
+775,Chain Snatching,2022-10-19,01:00,17.447929,78.473415,Begumpet,Low,0,Unresolved,low
+776,Chain Snatching,2022-11-19,06:58,17.431199,78.405471,Jubilee Hills,High,2,Under Investigation,low
+777,Robbery,2023-08-08,17:02,17.430476,78.441685,Ameerpet,Medium,1,Unresolved,medium
+778,Burglary,2022-09-29,07:16,17.359788,78.477639,Charminar,High,2,Unresolved,high
+779,Robbery,2023-02-14,18:46,17.447409,78.342475,Gachibowli,Medium,1,Unresolved,medium
+780,Pickpocket,2023-05-15,16:41,17.417342,78.556831,Uppal,High,2,Unresolved,high
+781,Vehicle Theft,2023-08-14,19:22,17.443329,78.371222,Hitech City,High,2,Unresolved,high
+782,Pickpocket,2022-05-04,22:59,17.327506,78.553972,LB Nagar,High,2,Resolved,high
+783,Theft,2023-01-27,20:20,17.454395,78.388549,Madhapur,High,2,Under Investigation,low
+784,Assault,2022-12-01,04:03,17.485436,78.417928,Kukatpally,Medium,1,Under Investigation,medium
+785,Burglary,2023-04-02,12:27,17.4293,78.459368,Begumpet,Low,0,Unresolved,low
+786,Pickpocket,2022-05-16,14:47,17.411754,78.548966,Uppal,High,2,Resolved,high
+787,Harassment,2022-09-26,12:49,17.439848,78.437447,Ameerpet,High,2,Under Investigation,medium
+788,Harassment,2023-05-08,04:41,17.419331,78.434415,Banjara Hills,Medium,1,Under Investigation,medium
+789,Burglary,2023-09-23,17:04,17.419079,78.416418,Jubilee Hills,Low,0,Unresolved,low
+790,Robbery,2023-12-03,15:42,17.399523,78.552518,Uppal,High,2,Unresolved,high
+791,Chain Snatching,2022-07-15,13:10,17.348505,78.556089,LB Nagar,High,2,Unresolved,high
+792,Burglary,2023-10-01,14:12,17.476773,78.414293,Kukatpally,Low,0,Under Investigation,medium
+793,Burglary,2022-03-29,07:39,17.365031,78.480245,Charminar,Low,0,Resolved,high
+794,Chain Snatching,2022-01-15,09:28,17.497012,78.366464,Miyapur,Low,0,Unresolved,low
+795,Vandalism,2023-07-05,12:30,17.436879,78.377889,Hitech City,High,2,Under Investigation,high
+796,Harassment,2023-12-13,04:37,17.433223,78.440229,Begumpet,Low,0,Under Investigation,low
+797,Burglary,2022-09-19,01:50,17.440992,78.455531,Ameerpet,Medium,1,Under Investigation,medium
+798,Robbery,2022-02-24,08:24,17.465997,78.405722,Kukatpally,Medium,1,Under Investigation,medium
+799,Theft,2023-11-07,18:18,17.444853,78.51476,Secunderabad,High,2,Under Investigation,high
+800,Vehicle Theft,2023-01-25,09:31,17.347066,78.541076,LB Nagar,High,2,Under Investigation,high
+801,Vandalism,2022-07-10,02:59,17.436037,78.459299,Ameerpet,Medium,1,Under Investigation,medium
+802,Harassment,2023-06-27,02:47,17.438332,78.370806,Hitech City,High,2,Resolved,high
+803,Burglary,2022-12-27,12:32,17.439638,78.369573,Hitech City,High,2,Unresolved,high
+804,Vandalism,2022-09-21,03:17,17.406381,78.571997,Uppal,High,2,Resolved,high
+805,Harassment,2023-02-07,10:33,17.418185,78.432681,Banjara Hills,Medium,1,Under Investigation,medium
+806,Pickpocket,2023-12-04,20:09,17.482566,78.401294,Kukatpally,Medium,1,Unresolved,medium
+807,Burglary,2022-12-04,21:41,17.446965,78.497677,Secunderabad,High,2,Resolved,high
+808,Chain Snatching,2023-12-02,17:44,17.483456,78.439345,Kukatpally,Medium,1,Under Investigation,medium
+809,Pickpocket,2022-05-19,16:58,17.47149,78.556386,ECIL,Medium,1,Resolved,medium
+810,Assault,2023-06-30,03:20,17.358189,78.483888,Charminar,High,2,Resolved,high
+811,Harassment,2022-11-23,00:19,17.442706,78.452094,Begumpet,Low,0,Unresolved,low
+812,Robbery,2022-10-08,20:08,17.449154,78.458255,Begumpet,Low,0,Resolved,low
+813,Pickpocket,2023-09-19,20:14,17.458486,78.38584,Hitech City,High,2,Resolved,high
+814,Assault,2023-01-03,00:32,17.444921,78.401048,Madhapur,Medium,1,Under Investigation,low
+815,Fraud,2023-10-28,22:30,17.369343,78.531522,Dilsukhnagar,Medium,1,Resolved,medium
+816,Chain Snatching,2022-08-20,06:26,17.419478,78.427929,Banjara Hills,Low,0,Resolved,medium
+817,Assault,2022-07-27,21:59,17.436652,78.47184,Begumpet,Low,0,Unresolved,low
+818,Burglary,2023-05-17,19:27,17.492922,78.366171,Miyapur,Low,0,Unresolved,low
+819,Pickpocket,2023-01-25,02:47,17.397759,78.562389,Uppal,High,2,Under Investigation,high
+820,Vandalism,2023-06-22,17:06,17.5014,78.40526,Kukatpally,Medium,1,Unresolved,medium
+821,Theft,2022-09-09,01:35,17.368994,78.535998,Dilsukhnagar,Medium,1,Unresolved,medium
+822,Harassment,2022-02-20,20:56,17.436863,78.451919,Ameerpet,Medium,1,Unresolved,medium
+823,Pickpocket,2023-04-18,20:58,17.396901,78.562426,Uppal,Medium,1,Resolved,high
+824,Robbery,2022-05-26,16:46,17.440303,78.471486,Begumpet,Low,0,Under Investigation,low
+825,Harassment,2023-08-23,05:26,17.449599,78.369617,Gachibowli,Medium,1,Unresolved,medium
+826,Fraud,2022-07-03,00:05,17.373437,78.527306,Dilsukhnagar,Medium,1,Unresolved,medium
+827,Robbery,2023-12-30,19:07,17.363155,78.471875,Charminar,High,2,Under Investigation,high
+828,Harassment,2023-01-07,20:46,17.371508,78.522337,Dilsukhnagar,High,2,Under Investigation,medium
+829,Assault,2023-01-23,05:58,17.486248,78.424341,Kukatpally,Medium,1,Unresolved,medium
+830,Assault,2022-06-03,21:49,17.476848,78.422919,Kukatpally,Low,0,Under Investigation,medium
+831,Chain Snatching,2022-11-13,14:40,17.454037,78.376255,Hitech City,High,2,Resolved,high
+832,Theft,2022-07-27,04:29,17.423125,78.344037,Gachibowli,Medium,1,Unresolved,medium
+833,Burglary,2023-07-11,15:13,17.505976,78.369217,Miyapur,Low,0,Under Investigation,low
+834,Pickpocket,2023-04-10,15:38,17.440506,78.386762,Madhapur,Low,0,Resolved,low
+835,Theft,2022-10-12,17:11,17.438725,78.411474,Jubilee Hills,Low,0,Resolved,low
+836,Pickpocket,2022-02-07,18:53,17.441589,78.374265,Hitech City,Low,0,Under Investigation,high
+837,Assault,2022-03-31,12:10,17.436766,78.490921,Secunderabad,Medium,1,Under Investigation,high
+838,Fraud,2023-12-10,18:47,17.452823,78.495721,Secunderabad,High,2,Under Investigation,high
+839,Vehicle Theft,2022-04-06,22:57,17.371337,78.486871,Charminar,High,2,Unresolved,high
+840,Chain Snatching,2023-03-14,02:30,17.503586,78.365947,Miyapur,Low,0,Resolved,low
+841,Vandalism,2022-10-09,22:13,17.44333,78.348706,Gachibowli,Medium,1,Under Investigation,medium
+842,Vandalism,2022-03-01,19:05,17.42477,78.409695,Jubilee Hills,High,2,Unresolved,low
+843,Harassment,2023-09-12,22:38,17.432368,78.473101,Begumpet,Low,0,Unresolved,low
+844,Pickpocket,2023-10-01,17:36,17.436183,78.499909,Secunderabad,High,2,Unresolved,high
+845,Pickpocket,2023-10-10,23:14,17.439766,78.446229,Ameerpet,Medium,1,Under Investigation,medium
+846,Robbery,2022-01-02,23:47,17.444594,78.494501,Secunderabad,Medium,1,Resolved,high
+847,Vehicle Theft,2023-03-01,18:35,17.41237,78.548232,Uppal,High,2,Under Investigation,high
+848,Chain Snatching,2023-10-18,00:50,17.433011,78.422611,Jubilee Hills,Low,0,Resolved,low
+849,Robbery,2023-07-18,11:43,17.431897,78.492878,Secunderabad,High,2,Unresolved,high
+850,Assault,2023-08-06,14:12,17.365711,78.476137,Charminar,High,2,Unresolved,high
+851,Theft,2023-11-20,10:41,17.498405,78.373313,Miyapur,Low,0,Resolved,low
+852,Fraud,2023-10-05,04:50,17.373878,78.533578,Dilsukhnagar,Medium,1,Unresolved,medium
+853,Pickpocket,2022-02-27,23:46,17.472379,78.56047,ECIL,Medium,1,Under Investigation,medium
+854,Vehicle Theft,2022-01-20,17:04,17.366981,78.489899,Charminar,High,2,Resolved,high
+855,Pickpocket,2022-12-14,20:38,17.438839,78.490504,Secunderabad,High,2,Unresolved,high
+856,Vehicle Theft,2022-04-30,19:45,17.424457,78.433737,Banjara Hills,Medium,1,Resolved,medium
+857,Fraud,2023-05-24,14:53,17.422519,78.505079,Secunderabad,High,2,Unresolved,high
+858,Theft,2022-11-06,16:49,17.427717,78.406376,Jubilee Hills,Medium,1,Resolved,low
+859,Vandalism,2023-03-31,02:09,17.471756,78.563924,ECIL,Medium,1,Resolved,medium
+860,Assault,2023-06-21,22:49,17.367276,78.471216,Charminar,High,2,Resolved,high
+861,Theft,2023-11-24,16:29,17.499705,78.367324,Miyapur,Low,0,Unresolved,low
+862,Pickpocket,2022-04-29,16:55,17.44771,78.468523,Begumpet,Low,0,Resolved,low
+863,Chain Snatching,2022-02-17,16:01,17.354116,78.483388,Charminar,High,2,Under Investigation,high
+864,Chain Snatching,2022-08-03,11:17,17.401112,78.565464,Uppal,High,2,Under Investigation,high
+865,Assault,2023-11-19,20:17,17.364538,78.489405,Charminar,Low,0,Resolved,high
+866,Vandalism,2023-07-28,22:22,17.441712,78.374405,Hitech City,High,2,Under Investigation,high
+867,Assault,2023-12-23,10:04,17.361445,78.472275,Charminar,High,2,Unresolved,high
+868,Theft,2023-07-08,10:30,17.4913,78.40087,Kukatpally,Medium,1,Under Investigation,medium
+869,Assault,2022-02-25,06:45,17.435071,78.368658,Hitech City,Medium,1,Under Investigation,high
+870,Pickpocket,2023-10-07,18:22,17.476702,78.576085,ECIL,Medium,1,Unresolved,medium
+871,Fraud,2024-01-01,20:36,17.360764,78.473349,Charminar,High,2,Resolved,high
+872,Fraud,2023-04-25,22:30,17.44066,78.358195,Gachibowli,Medium,1,Resolved,medium
+873,Harassment,2023-09-24,04:11,17.424581,78.409007,Jubilee Hills,Low,0,Under Investigation,low
+874,Fraud,2022-12-05,21:31,17.476902,78.566409,ECIL,Medium,1,Resolved,medium
+875,Assault,2022-04-26,15:18,17.441617,78.356908,Gachibowli,Medium,1,Unresolved,medium
+876,Robbery,2022-05-11,18:20,17.463274,78.419223,Kukatpally,Medium,1,Under Investigation,medium
+877,Pickpocket,2022-11-06,02:26,17.443267,78.376155,Madhapur,Low,0,Resolved,low
+878,Harassment,2023-07-16,07:04,17.48899,78.424789,Kukatpally,Medium,1,Unresolved,medium
+879,Pickpocket,2023-08-29,22:50,17.4309,78.414723,Jubilee Hills,Low,0,Unresolved,low
+880,Robbery,2022-08-30,22:47,17.450398,78.458819,Ameerpet,High,2,Under Investigation,medium
+881,Vehicle Theft,2022-04-28,15:35,17.49802,78.419737,Kukatpally,Medium,1,Resolved,medium
+882,Robbery,2022-06-30,14:38,17.496203,78.356584,Miyapur,Low,0,Resolved,low
+883,Robbery,2023-01-24,19:13,17.446532,78.384054,Madhapur,Low,0,Resolved,low
+884,Assault,2023-10-14,18:28,17.486468,78.560993,ECIL,Medium,1,Under Investigation,medium
+885,Vehicle Theft,2023-08-15,14:19,17.440886,78.502712,Secunderabad,High,2,Under Investigation,high
+886,Vehicle Theft,2022-11-08,22:05,17.405749,78.57256,Uppal,High,2,Under Investigation,high
+887,Chain Snatching,2023-06-07,18:03,17.438519,78.378757,Hitech City,High,2,Unresolved,high
+888,Vehicle Theft,2022-02-24,17:07,17.46316,78.55184,ECIL,High,2,Unresolved,medium
+889,Vehicle Theft,2022-08-29,00:45,17.490706,78.369104,Miyapur,Low,0,Unresolved,low
+890,Fraud,2023-07-13,13:08,17.343466,78.541361,LB Nagar,High,2,Resolved,high
+891,Chain Snatching,2023-01-04,12:55,17.426249,78.447635,Ameerpet,Medium,1,Under Investigation,medium
+892,Assault,2022-01-12,04:46,17.403562,78.44078,Banjara Hills,Low,0,Unresolved,medium
+893,Harassment,2022-05-20,13:55,17.44916,78.37914,Madhapur,High,2,Unresolved,low
+894,Fraud,2023-09-11,22:32,17.466626,78.556383,ECIL,Medium,1,Unresolved,medium
+895,Harassment,2023-01-29,14:38,17.440053,78.459024,Ameerpet,Medium,1,Resolved,medium
+896,Harassment,2022-08-31,15:59,17.469899,78.41472,Kukatpally,Medium,1,Under Investigation,medium
+897,Vehicle Theft,2022-02-04,11:07,17.483619,78.419171,Kukatpally,Medium,1,Under Investigation,medium
+898,Vandalism,2022-03-23,22:54,17.370506,78.518684,Dilsukhnagar,High,2,Unresolved,medium
+899,Burglary,2022-03-22,16:30,17.366248,78.518332,Dilsukhnagar,Medium,1,Under Investigation,medium
+900,Vandalism,2023-11-16,21:51,17.450408,78.46377,Begumpet,High,2,Under Investigation,low
+901,Fraud,2022-12-18,18:29,17.45511,78.497815,Secunderabad,High,2,Under Investigation,high
+902,Vehicle Theft,2023-08-11,15:51,17.463433,78.55029,ECIL,Medium,1,Unresolved,medium
+903,Pickpocket,2023-12-13,07:16,17.425475,78.485627,Secunderabad,High,2,Resolved,high
+904,Chain Snatching,2023-08-16,15:51,17.450637,78.39487,Madhapur,Low,0,Under Investigation,low
+905,Vandalism,2022-10-21,00:04,17.47225,78.42096,Kukatpally,Medium,1,Unresolved,medium
+906,Theft,2022-10-15,06:47,17.436036,78.499474,Secunderabad,High,2,Resolved,high
+907,Vehicle Theft,2023-08-29,05:51,17.497798,78.420975,Kukatpally,Medium,1,Resolved,medium
+908,Vehicle Theft,2022-08-30,20:05,17.437752,78.49117,Secunderabad,High,2,Resolved,high
+909,Harassment,2023-05-23,04:15,17.467685,78.408047,Kukatpally,Medium,1,Under Investigation,medium
+910,Vehicle Theft,2023-10-15,23:03,17.367111,78.516803,Dilsukhnagar,High,2,Under Investigation,medium
+911,Harassment,2022-04-29,20:30,17.43885,78.498915,Secunderabad,Medium,1,Unresolved,high
+912,Fraud,2023-06-30,23:16,17.367001,78.5195,Dilsukhnagar,Medium,1,Resolved,medium
+913,Harassment,2022-01-13,13:43,17.438849,78.451836,Ameerpet,Medium,1,Unresolved,medium
+914,Vehicle Theft,2022-02-12,21:54,17.428777,78.459587,Ameerpet,High,2,Unresolved,medium
+915,Robbery,2022-10-07,20:16,17.484111,78.413951,Kukatpally,Medium,1,Under Investigation,medium
+916,Pickpocket,2023-04-18,12:49,17.490566,78.415666,Kukatpally,Medium,1,Resolved,medium
+917,Vehicle Theft,2023-11-25,10:35,17.445125,78.450597,Ameerpet,Medium,1,Resolved,medium
+918,Vandalism,2022-03-11,00:06,17.443601,78.393692,Madhapur,Low,0,Under Investigation,low
+919,Burglary,2022-08-13,11:02,17.35965,78.525568,Dilsukhnagar,Medium,1,Resolved,medium
+920,Pickpocket,2022-02-28,02:40,17.484634,78.412135,Kukatpally,Medium,1,Resolved,medium
+921,Harassment,2022-03-30,03:42,17.440772,78.448545,Begumpet,Low,0,Under Investigation,low
+922,Chain Snatching,2022-04-24,05:29,17.48051,78.414543,Kukatpally,Medium,1,Under Investigation,medium
+923,Harassment,2023-10-17,02:44,17.470379,78.554179,ECIL,Medium,1,Under Investigation,medium
+924,Chain Snatching,2022-09-21,20:49,17.415526,78.552071,Uppal,Low,0,Resolved,high
+925,Assault,2022-03-03,14:28,17.354656,78.550318,LB Nagar,High,2,Resolved,high
+926,Robbery,2023-09-17,06:09,17.36363,78.538902,Dilsukhnagar,Medium,1,Under Investigation,medium
+927,Chain Snatching,2023-09-21,15:06,17.395851,78.566353,Uppal,High,2,Resolved,high
+928,Theft,2023-08-09,02:57,17.448105,78.343535,Gachibowli,Medium,1,Unresolved,medium
+929,Harassment,2023-10-18,20:17,17.42674,78.4327,Banjara Hills,Low,0,Resolved,medium
+930,Fraud,2023-02-05,10:27,17.44411,78.465683,Begumpet,Low,0,Unresolved,low
+931,Harassment,2022-03-13,23:44,17.494526,78.375886,Miyapur,Low,0,Unresolved,low
+932,Vehicle Theft,2023-07-03,18:43,17.446448,78.334912,Gachibowli,Medium,1,Unresolved,medium
+933,Vehicle Theft,2023-10-25,03:05,17.357335,78.5336,LB Nagar,High,2,Unresolved,high
+934,Harassment,2023-10-26,20:42,17.41366,78.568014,Uppal,High,2,Resolved,high
+935,Fraud,2022-04-20,19:05,17.431172,78.495013,Secunderabad,High,2,Under Investigation,high
+936,Theft,2022-07-14,23:46,17.359954,78.522981,Dilsukhnagar,Low,0,Under Investigation,medium
+937,Chain Snatching,2023-02-03,15:31,17.429536,78.413337,Jubilee Hills,High,2,Under Investigation,low
+938,Vehicle Theft,2022-01-17,14:50,17.506082,78.380565,Miyapur,Low,0,Under Investigation,low
+939,Vandalism,2022-08-05,14:09,17.439003,78.375526,Hitech City,High,2,Under Investigation,high
+940,Fraud,2022-03-15,07:41,17.471432,78.407353,Kukatpally,Low,0,Resolved,medium
+941,Theft,2022-02-16,19:11,17.376519,78.537625,Dilsukhnagar,Medium,1,Under Investigation,medium
+942,Pickpocket,2022-04-10,21:04,17.433625,78.37246,Hitech City,High,2,Resolved,high
+943,Robbery,2023-09-02,15:51,17.439889,78.351141,Gachibowli,Medium,1,Resolved,medium
+944,Pickpocket,2023-11-26,12:34,17.340423,78.550292,LB Nagar,High,2,Resolved,high
+945,Vehicle Theft,2022-08-07,20:04,17.357809,78.474584,Charminar,High,2,Resolved,high
+946,Vandalism,2023-03-02,07:10,17.44427,78.498351,Secunderabad,Medium,1,Unresolved,high
+947,Pickpocket,2022-02-11,18:24,17.428509,78.406223,Jubilee Hills,High,2,Resolved,low
+948,Robbery,2022-03-24,21:45,17.442793,78.37424,Hitech City,Low,0,Under Investigation,high
+949,Assault,2023-03-03,09:13,17.48283,78.426589,Kukatpally,Medium,1,Resolved,medium
+950,Assault,2023-06-20,08:39,17.452987,78.388436,Madhapur,Low,0,Under Investigation,low
+951,Chain Snatching,2023-05-27,18:22,17.449076,78.374529,Hitech City,High,2,Unresolved,high
+952,Robbery,2022-07-16,17:39,17.452885,78.380157,Hitech City,High,2,Unresolved,high
+953,Chain Snatching,2023-06-04,17:03,17.494742,78.372982,Miyapur,Low,0,Resolved,low
+954,Fraud,2023-12-03,04:11,17.427533,78.339886,Gachibowli,Medium,1,Resolved,medium
+955,Burglary,2022-02-25,01:27,17.438949,78.391944,Madhapur,Low,0,Unresolved,low
+956,Theft,2023-04-10,18:59,17.37546,78.49255,Charminar,High,2,Under Investigation,high
+957,Robbery,2022-01-30,05:57,17.420704,78.438707,Banjara Hills,Medium,1,Resolved,medium
+958,Burglary,2023-08-30,14:47,17.427392,78.459259,Begumpet,Low,0,Under Investigation,low
+959,Burglary,2022-08-24,10:06,17.462798,78.557433,ECIL,Medium,1,Resolved,medium
+960,Robbery,2022-07-24,13:30,17.440455,78.459823,Begumpet,Low,0,Under Investigation,low
+961,Fraud,2023-03-23,01:11,17.352966,78.530683,Dilsukhnagar,High,2,Unresolved,medium
+962,Burglary,2022-07-18,06:21,17.353018,78.476614,Charminar,High,2,Resolved,high
+963,Fraud,2022-03-03,19:29,17.460093,78.369845,Hitech City,High,2,Unresolved,high
+964,Pickpocket,2022-08-14,10:57,17.395358,78.432412,Banjara Hills,Medium,1,Resolved,medium
+965,Fraud,2022-08-24,17:55,17.493708,78.429467,Kukatpally,High,2,Resolved,medium
+966,Burglary,2023-04-19,15:15,17.475064,78.417774,Kukatpally,Medium,1,Unresolved,medium
+967,Harassment,2023-08-29,18:02,17.343178,78.546052,LB Nagar,High,2,Resolved,high
+968,Harassment,2023-06-01,23:30,17.389955,78.512676,Dilsukhnagar,High,2,Under Investigation,medium
+969,Vandalism,2023-04-09,03:48,17.49763,78.373142,Miyapur,Low,0,Resolved,low
+970,Vehicle Theft,2023-02-21,23:18,17.450486,78.464384,Begumpet,Low,0,Resolved,low
+971,Assault,2022-01-17,02:45,17.450964,78.387667,Madhapur,Low,0,Unresolved,low
+972,Fraud,2023-08-21,18:49,17.497753,78.366654,Miyapur,Medium,1,Resolved,low
+973,Fraud,2023-02-20,22:45,17.500573,78.366443,Miyapur,Medium,1,Under Investigation,low
+974,Vandalism,2022-03-14,21:02,17.446517,78.376966,Hitech City,High,2,Unresolved,high
+975,Robbery,2023-12-16,19:39,17.355908,78.546489,LB Nagar,High,2,Unresolved,high
+976,Theft,2023-06-12,01:07,17.427616,78.473695,Begumpet,Low,0,Unresolved,low
+977,Vandalism,2022-02-11,16:45,17.354354,78.46947,Charminar,High,2,Resolved,high
+978,Burglary,2022-07-29,22:34,17.432735,78.459296,Ameerpet,Medium,1,Resolved,medium
+979,Burglary,2023-08-18,15:20,17.431415,78.415902,Madhapur,Low,0,Unresolved,low
+980,Theft,2023-05-31,08:04,17.477548,78.564186,ECIL,Medium,1,Unresolved,medium
+981,Fraud,2023-05-29,15:45,17.361161,78.476984,Charminar,High,2,Under Investigation,high
+982,Robbery,2022-10-27,17:12,17.452669,78.395962,Madhapur,Low,0,Unresolved,low
+983,Robbery,2023-02-05,02:06,17.444545,78.349617,Gachibowli,Medium,1,Resolved,medium
+984,Vandalism,2022-06-01,06:40,17.438321,78.49709,Secunderabad,High,2,Resolved,high
+985,Fraud,2023-11-30,14:22,17.438341,78.50737,Secunderabad,High,2,Unresolved,high
+986,Robbery,2023-10-23,23:01,17.373548,78.501177,Dilsukhnagar,Low,0,Resolved,medium
+987,Vehicle Theft,2023-10-23,16:31,17.500847,78.370958,Miyapur,Low,0,Under Investigation,low
+988,Fraud,2023-06-27,22:19,17.44835,78.387692,Madhapur,Low,0,Under Investigation,low
+989,Fraud,2022-06-25,09:23,17.424593,78.44228,Banjara Hills,Medium,1,Unresolved,medium
+990,Assault,2022-06-01,21:39,17.399217,78.562256,Uppal,High,2,Resolved,high
+991,Assault,2022-10-20,17:10,17.434027,78.452563,Begumpet,Low,0,Resolved,low
+992,Chain Snatching,2022-11-21,01:23,17.435086,78.355799,Gachibowli,Medium,1,Resolved,medium
+993,Vehicle Theft,2023-12-26,17:09,17.439625,78.411205,Jubilee Hills,Medium,1,Unresolved,low
+994,Theft,2022-06-16,17:25,17.374601,78.528829,Dilsukhnagar,Medium,1,Unresolved,medium
+995,Theft,2023-04-15,07:47,17.400268,78.562455,Uppal,High,2,Under Investigation,high
+996,Chain Snatching,2023-10-25,10:48,17.443903,78.454334,Ameerpet,Medium,1,Under Investigation,medium
+997,Vehicle Theft,2023-08-02,04:44,17.458011,78.396466,Madhapur,Low,0,Resolved,low
+998,Robbery,2022-02-11,15:19,17.444612,78.472161,Begumpet,High,2,Resolved,low
+999,Vehicle Theft,2022-08-14,18:03,17.346688,78.539845,LB Nagar,High,2,Under Investigation,high
+1000,Burglary,2023-08-21,06:01,17.447195,78.384841,Madhapur,Low,0,Resolved,low
+1001,Vandalism,2023-11-25,14:25,17.432099,78.447144,Ameerpet,Medium,1,Resolved,medium
+1002,Vehicle Theft,2023-09-10,10:25,17.362461,78.522236,Dilsukhnagar,Medium,1,Resolved,medium
+1003,Chain Snatching,2023-01-14,13:22,17.426651,78.465306,Begumpet,Low,0,Unresolved,low
+1004,Fraud,2023-07-29,23:47,17.43991,78.491763,Secunderabad,High,2,Unresolved,high
+1005,Harassment,2022-06-17,15:08,17.410674,78.566501,Uppal,High,2,Under Investigation,high
+1006,Vandalism,2022-05-28,02:21,17.47204,78.407698,Kukatpally,Medium,1,Resolved,medium
+1007,Chain Snatching,2023-01-20,18:26,17.462947,78.554881,ECIL,Medium,1,Resolved,medium
+1008,Burglary,2023-12-29,14:11,17.444136,78.446749,Ameerpet,Medium,1,Unresolved,medium
+1009,Pickpocket,2022-02-13,17:19,17.437784,78.482269,Secunderabad,High,2,Unresolved,high
+1010,Assault,2023-04-20,23:16,17.442583,78.438386,Ameerpet,Medium,1,Unresolved,medium
+1011,Chain Snatching,2023-04-29,20:26,17.448979,78.393019,Madhapur,High,2,Resolved,low
+1012,Chain Snatching,2023-10-23,22:31,17.379685,78.514229,Dilsukhnagar,Medium,1,Resolved,medium
+1013,Chain Snatching,2023-01-06,23:40,17.460744,78.415271,Kukatpally,Medium,1,Under Investigation,medium
+1014,Chain Snatching,2022-05-03,22:10,17.383204,78.534612,Dilsukhnagar,Medium,1,Under Investigation,medium
+1015,Vehicle Theft,2023-04-18,07:10,17.445177,78.373267,Hitech City,High,2,Resolved,high
+1016,Theft,2023-10-14,13:18,17.446357,78.490512,Secunderabad,High,2,Unresolved,high
+1017,Robbery,2022-03-20,20:38,17.441311,78.452344,Ameerpet,Medium,1,Resolved,medium
+1018,Chain Snatching,2022-11-20,10:43,17.445982,78.470377,Ameerpet,Medium,1,Under Investigation,medium
+1019,Assault,2022-04-09,11:00,17.444939,78.459528,Begumpet,Low,0,Resolved,low
+1020,Vehicle Theft,2023-01-17,09:58,17.437295,78.434147,Ameerpet,Medium,1,Resolved,medium
+1021,Vandalism,2022-06-08,06:39,17.434542,78.345626,Gachibowli,Medium,1,Under Investigation,medium
+1022,Harassment,2023-06-29,16:29,17.491407,78.370619,Miyapur,Low,0,Resolved,low
+1023,Vehicle Theft,2022-01-18,04:08,17.433521,78.357868,Gachibowli,Medium,1,Unresolved,medium
+1024,Assault,2023-06-20,19:45,17.469102,78.562326,ECIL,Medium,1,Unresolved,medium
+1025,Burglary,2022-05-02,19:19,17.440877,78.378442,Hitech City,High,2,Resolved,high
+1026,Robbery,2022-03-22,04:01,17.438601,78.400163,Jubilee Hills,Low,0,Unresolved,low
+1027,Vandalism,2022-07-21,15:37,17.400135,78.55657,Uppal,High,2,Resolved,high
+1028,Theft,2022-09-17,03:48,17.358033,78.518146,Dilsukhnagar,Medium,1,Resolved,medium
+1029,Assault,2023-09-09,06:42,17.40159,78.565995,Uppal,High,2,Unresolved,high
+1030,Vehicle Theft,2022-10-12,05:10,17.4456,78.378749,Hitech City,High,2,Under Investigation,high
+1031,Robbery,2022-09-05,19:52,17.412207,78.557901,Uppal,High,2,Under Investigation,high
+1032,Assault,2022-08-11,00:57,17.408524,78.558174,Uppal,High,2,Under Investigation,high
+1033,Vehicle Theft,2022-04-12,23:44,17.445623,78.372538,Hitech City,High,2,Under Investigation,high
+1034,Vehicle Theft,2023-11-21,14:24,17.396089,78.433626,Banjara Hills,Medium,1,Unresolved,medium
+1035,Robbery,2022-08-22,16:29,17.443382,78.41451,Jubilee Hills,Low,0,Resolved,low
+1036,Vandalism,2023-05-23,04:46,17.445223,78.458189,Ameerpet,Medium,1,Resolved,medium
+1037,Fraud,2023-05-21,10:38,17.440809,78.350479,Gachibowli,Medium,1,Under Investigation,medium
+1038,Chain Snatching,2023-03-31,19:54,17.434959,78.495771,Secunderabad,High,2,Unresolved,high
+1039,Assault,2023-05-03,02:00,17.436926,78.416731,Jubilee Hills,Low,0,Under Investigation,low
+1040,Robbery,2022-04-18,21:09,17.367684,78.521098,Dilsukhnagar,Medium,1,Unresolved,medium
+1041,Robbery,2022-04-15,19:23,17.346904,78.55171,LB Nagar,High,2,Resolved,high
+1042,Fraud,2023-02-18,08:17,17.350049,78.456331,Charminar,Medium,1,Under Investigation,high
+1043,Vehicle Theft,2022-10-07,18:30,17.400996,78.549234,Uppal,High,2,Under Investigation,high
+1044,Fraud,2023-05-12,12:06,17.480835,78.412618,Kukatpally,Medium,1,Resolved,medium
+1045,Theft,2022-08-25,16:06,17.436274,78.50992,Secunderabad,High,2,Under Investigation,high
+1046,Harassment,2023-05-26,20:38,17.446114,78.379604,Hitech City,High,2,Under Investigation,high
+1047,Vandalism,2023-09-29,07:49,17.366578,78.465589,Charminar,High,2,Unresolved,high
+1048,Vandalism,2022-10-28,16:16,17.413713,78.558394,Uppal,High,2,Under Investigation,high
+1049,Harassment,2023-07-08,20:56,17.366964,78.466125,Charminar,High,2,Resolved,high
+1050,Theft,2023-01-21,15:11,17.33447,78.553443,LB Nagar,High,2,Under Investigation,high
+1051,Assault,2023-12-25,09:19,17.451511,78.383584,Madhapur,Medium,1,Under Investigation,low
+1052,Vandalism,2022-04-23,16:43,17.339943,78.555903,LB Nagar,High,2,Under Investigation,high
+1053,Vandalism,2023-05-03,15:03,17.475385,78.426941,Kukatpally,Medium,1,Unresolved,medium
+1054,Chain Snatching,2023-01-22,16:20,17.432695,78.503407,Secunderabad,High,2,Resolved,high
+1055,Pickpocket,2022-05-12,18:01,17.440871,78.382025,Hitech City,High,2,Under Investigation,high
+1056,Harassment,2023-03-15,13:22,17.357247,78.473398,Charminar,High,2,Resolved,high
+1057,Pickpocket,2022-09-11,07:05,17.448827,78.382783,Madhapur,Low,0,Under Investigation,low
+1058,Vandalism,2022-04-28,09:20,17.446027,78.344794,Gachibowli,Medium,1,Resolved,medium
+1059,Chain Snatching,2023-03-09,21:01,17.366971,78.516745,Dilsukhnagar,Medium,1,Under Investigation,medium
+1060,Pickpocket,2022-01-23,18:24,17.348301,78.523172,Dilsukhnagar,Medium,1,Unresolved,medium
+1061,Burglary,2023-05-16,03:21,17.504201,78.420077,Kukatpally,High,2,Unresolved,medium
+1062,Vehicle Theft,2022-12-14,21:27,17.437346,78.446197,Ameerpet,Medium,1,Resolved,medium
+1063,Chain Snatching,2022-03-19,20:16,17.36898,78.529077,Dilsukhnagar,Medium,1,Resolved,medium
+1064,Pickpocket,2023-02-16,23:06,17.430453,78.507215,Secunderabad,High,2,Under Investigation,high
+1065,Harassment,2023-08-04,10:13,17.367323,78.480445,Charminar,High,2,Unresolved,high
+1066,Harassment,2022-11-06,04:42,17.408908,78.559157,Uppal,High,2,Under Investigation,high
+1067,Vandalism,2023-02-16,08:11,17.366983,78.479435,Charminar,High,2,Resolved,high
+1068,Burglary,2023-06-13,22:42,17.445668,78.386211,Madhapur,Low,0,Under Investigation,low
+1069,Pickpocket,2023-10-16,08:46,17.369615,78.537092,Dilsukhnagar,Medium,1,Under Investigation,medium
+1070,Assault,2023-01-09,17:47,17.433587,78.36546,Hitech City,High,2,Under Investigation,high
+1071,Burglary,2023-03-22,11:54,17.406718,78.559407,Uppal,High,2,Unresolved,high
+1072,Pickpocket,2023-10-24,20:15,17.441287,78.500252,Secunderabad,High,2,Unresolved,high
+1073,Chain Snatching,2022-06-03,03:29,17.430214,78.419019,Jubilee Hills,Low,0,Unresolved,low
+1074,Burglary,2023-03-09,13:10,17.424693,78.441672,Ameerpet,Medium,1,Unresolved,medium
+1075,Vandalism,2022-09-22,00:11,17.414774,78.421554,Banjara Hills,Medium,1,Under Investigation,medium
+1076,Robbery,2023-05-13,01:20,17.494193,78.382692,Miyapur,Low,0,Under Investigation,low
+1077,Harassment,2023-02-21,21:53,17.440067,78.500146,Secunderabad,High,2,Under Investigation,high
+1078,Vandalism,2022-08-30,04:59,17.485519,78.364469,Miyapur,High,2,Resolved,low
+1079,Fraud,2023-08-18,21:56,17.434498,78.445758,Ameerpet,Medium,1,Resolved,medium
+1080,Vehicle Theft,2022-05-06,19:53,17.442253,78.411562,Jubilee Hills,Low,0,Under Investigation,low
+1081,Assault,2022-08-30,12:06,17.432908,78.465572,Begumpet,Low,0,Resolved,low
+1082,Fraud,2023-03-27,08:34,17.435986,78.416221,Jubilee Hills,Low,0,Unresolved,low
+1083,Burglary,2022-11-21,03:17,17.454444,78.455479,Begumpet,Low,0,Resolved,low
+1084,Pickpocket,2023-01-12,16:02,17.355113,78.464639,Charminar,High,2,Under Investigation,high
+1085,Chain Snatching,2023-12-09,01:35,17.446628,78.394531,Madhapur,Low,0,Unresolved,low
+1086,Vandalism,2023-12-19,18:55,17.447799,78.497692,Secunderabad,High,2,Resolved,high
+1087,Chain Snatching,2023-02-02,14:19,17.493041,78.370614,Miyapur,Medium,1,Resolved,low
+1088,Fraud,2022-11-01,07:40,17.462419,78.579116,ECIL,Medium,1,Unresolved,medium
+1089,Robbery,2023-02-21,20:52,17.456239,78.563878,ECIL,Medium,1,Unresolved,medium
+1090,Harassment,2023-02-27,23:56,17.384989,78.524754,Dilsukhnagar,Medium,1,Resolved,medium
+1091,Vehicle Theft,2023-12-17,05:26,17.49408,78.36654,Miyapur,Low,0,Under Investigation,low
+1092,Theft,2022-12-01,17:41,17.440357,78.474583,Begumpet,Low,0,Under Investigation,low
+1093,Theft,2023-03-31,20:25,17.397905,78.446967,Banjara Hills,Medium,1,Resolved,medium
+1094,Assault,2022-11-18,09:15,17.437108,78.388667,Madhapur,Low,0,Under Investigation,low
+1095,Vehicle Theft,2022-05-14,20:28,17.438366,78.468308,Begumpet,Low,0,Unresolved,low
+1096,Chain Snatching,2022-05-17,23:12,17.482815,78.373097,Miyapur,Low,0,Resolved,low
+1097,Theft,2023-02-07,13:01,17.363094,78.535995,LB Nagar,High,2,Under Investigation,high
+1098,Fraud,2023-10-04,19:12,17.450018,78.385504,Madhapur,Low,0,Unresolved,low
+1099,Pickpocket,2022-02-20,05:16,17.445207,78.463753,Begumpet,Low,0,Resolved,low
+1100,Theft,2022-06-24,11:45,17.434968,78.352803,Gachibowli,Medium,1,Under Investigation,medium
+1101,Robbery,2023-04-10,20:14,17.361335,78.545373,LB Nagar,High,2,Under Investigation,high
+1102,Harassment,2022-09-30,06:08,17.437758,78.396754,Jubilee Hills,Low,0,Unresolved,low
+1103,Burglary,2023-09-07,06:26,17.487949,78.373179,Miyapur,Low,0,Resolved,low
+1104,Burglary,2022-01-30,20:39,17.358773,78.549745,LB Nagar,High,2,Unresolved,high
+1105,Robbery,2023-01-14,07:00,17.466596,78.562394,ECIL,Medium,1,Unresolved,medium
+1106,Harassment,2023-12-11,10:45,17.405597,78.439536,Banjara Hills,Medium,1,Unresolved,medium
+1107,Theft,2022-09-20,19:03,17.448859,78.459983,Begumpet,High,2,Unresolved,low
+1108,Theft,2023-04-28,07:16,17.46534,78.564527,ECIL,Medium,1,Under Investigation,medium
+1109,Assault,2022-11-06,12:57,17.481406,78.413271,Kukatpally,Medium,1,Under Investigation,medium
+1110,Vehicle Theft,2022-09-24,18:56,17.460298,78.375224,Hitech City,Medium,1,Unresolved,high
+1111,Assault,2022-11-21,02:16,17.412733,78.42952,Banjara Hills,Medium,1,Resolved,medium
+1112,Vehicle Theft,2022-05-11,02:59,17.367554,78.47325,Charminar,High,2,Unresolved,high
+1113,Vandalism,2022-09-27,21:20,17.434705,78.50887,Secunderabad,High,2,Unresolved,high
+1114,Assault,2022-11-20,05:35,17.480457,78.557597,ECIL,Medium,1,Under Investigation,medium
+1115,Burglary,2022-02-24,14:11,17.433568,78.39886,Madhapur,Low,0,Resolved,low
+1116,Robbery,2022-06-17,08:57,17.363323,78.531025,Dilsukhnagar,Medium,1,Unresolved,medium
+1117,Fraud,2023-12-28,15:07,17.427739,78.384341,Hitech City,High,2,Under Investigation,high
+1118,Chain Snatching,2022-05-07,04:11,17.485911,78.375246,Miyapur,Low,0,Resolved,low
+1119,Pickpocket,2022-10-07,16:00,17.441914,78.455968,Begumpet,Low,0,Under Investigation,low
+1120,Fraud,2023-03-03,17:43,17.402144,78.564491,Uppal,High,2,Resolved,high
+1121,Harassment,2022-01-27,10:23,17.469947,78.567075,ECIL,Medium,1,Under Investigation,medium
+1122,Fraud,2022-11-28,03:53,17.484912,78.549886,ECIL,Low,0,Under Investigation,medium
+1123,Pickpocket,2023-04-10,15:42,17.461438,78.391635,Madhapur,Low,0,Resolved,low
+1124,Vehicle Theft,2023-11-03,23:46,17.35441,78.464057,Charminar,High,2,Under Investigation,high
+1125,Chain Snatching,2022-05-13,18:20,17.467587,78.569773,ECIL,Medium,1,Resolved,medium
+1126,Robbery,2023-07-15,02:25,17.44078,78.475689,Begumpet,Low,0,Unresolved,low
+1127,Assault,2023-02-13,07:24,17.403991,78.434603,Banjara Hills,Low,0,Unresolved,medium
+1128,Fraud,2023-11-01,18:51,17.429881,78.501209,Secunderabad,Medium,1,Unresolved,high
+1129,Robbery,2023-12-03,09:53,17.448895,78.460234,Begumpet,Low,0,Unresolved,low
+1130,Fraud,2023-05-17,06:17,17.416666,78.449892,Ameerpet,Medium,1,Under Investigation,medium
+1131,Pickpocket,2022-04-03,13:11,17.488394,78.417034,Kukatpally,Medium,1,Unresolved,medium
+1132,Fraud,2022-04-06,13:43,17.458386,78.382232,Madhapur,Medium,1,Resolved,low
+1133,Vandalism,2024-01-01,21:40,17.453942,78.40034,Madhapur,Medium,1,Under Investigation,low
+1134,Fraud,2022-10-25,02:19,17.423271,78.450857,Ameerpet,Medium,1,Resolved,medium
+1135,Chain Snatching,2022-11-04,21:36,17.411567,78.434048,Banjara Hills,Medium,1,Resolved,medium
+1136,Harassment,2022-02-16,02:06,17.440281,78.444402,Ameerpet,Medium,1,Unresolved,medium
+1137,Chain Snatching,2023-08-06,23:37,17.443094,78.391073,Madhapur,Low,0,Resolved,low
+1138,Assault,2022-04-27,16:50,17.396702,78.550313,Uppal,High,2,Resolved,high
+1139,Chain Snatching,2022-02-16,12:20,17.501035,78.36021,Miyapur,High,2,Under Investigation,low
+1140,Vehicle Theft,2023-11-18,14:58,17.447131,78.467301,Begumpet,Low,0,Resolved,low
+1141,Robbery,2022-03-22,05:27,17.418194,78.401679,Jubilee Hills,Low,0,Under Investigation,low
+1142,Fraud,2022-04-30,00:29,17.453053,78.369351,Hitech City,High,2,Under Investigation,high
+1143,Pickpocket,2023-09-09,21:52,17.343185,78.550596,LB Nagar,High,2,Under Investigation,high
+1144,Robbery,2023-12-08,19:08,17.367867,78.472688,Charminar,High,2,Resolved,high
+1145,Theft,2022-01-17,08:13,17.43872,78.388579,Hitech City,High,2,Unresolved,high
+1146,Robbery,2023-10-28,04:19,17.462411,78.398631,Madhapur,Low,0,Unresolved,low
+1147,Assault,2023-03-09,15:47,17.416283,78.428234,Banjara Hills,Low,0,Under Investigation,medium
+1148,Pickpocket,2023-04-28,15:15,17.362156,78.52888,Dilsukhnagar,Medium,1,Resolved,medium
+1149,Robbery,2023-02-06,17:40,17.443247,78.509513,Secunderabad,Low,0,Under Investigation,high
+1150,Theft,2023-05-23,23:31,17.352104,78.534875,LB Nagar,High,2,Unresolved,high
+1151,Burglary,2023-08-29,16:45,17.377216,78.516716,Dilsukhnagar,Medium,1,Resolved,medium
+1152,Chain Snatching,2023-03-09,00:57,17.434428,78.450302,Ameerpet,Medium,1,Under Investigation,medium
+1153,Fraud,2022-04-30,21:44,17.362865,78.571779,LB Nagar,High,2,Unresolved,high
+1154,Burglary,2022-07-16,07:32,17.448354,78.375734,Hitech City,High,2,Resolved,high
+1155,Assault,2022-12-14,21:56,17.489176,78.420901,Kukatpally,Medium,1,Unresolved,medium
+1156,Fraud,2023-02-04,22:51,17.439235,78.477962,Begumpet,Low,0,Resolved,low
+1157,Fraud,2022-10-17,06:08,17.486741,78.417782,Kukatpally,Medium,1,Resolved,medium
+1158,Fraud,2023-09-13,05:19,17.437327,78.410473,Jubilee Hills,Low,0,Resolved,low
+1159,Chain Snatching,2022-02-18,17:22,17.438712,78.402162,Jubilee Hills,Low,0,Under Investigation,low
+1160,Vehicle Theft,2023-05-31,05:27,17.411134,78.425899,Banjara Hills,Low,0,Resolved,medium
+1161,Chain Snatching,2022-05-04,07:21,17.488416,78.420031,Kukatpally,Medium,1,Unresolved,medium
+1162,Vandalism,2023-07-25,02:38,17.409062,78.572396,Uppal,High,2,Under Investigation,high
+1163,Fraud,2022-02-21,22:53,17.440055,78.35425,Gachibowli,Medium,1,Resolved,medium
+1164,Vandalism,2023-09-17,19:02,17.431366,78.345803,Gachibowli,Medium,1,Under Investigation,medium
+1165,Vehicle Theft,2023-10-08,05:10,17.445664,78.355693,Gachibowli,Low,0,Under Investigation,medium
+1166,Assault,2023-06-03,19:41,17.437548,78.497727,Secunderabad,High,2,Unresolved,high
+1167,Harassment,2022-05-06,20:49,17.349457,78.471844,Charminar,High,2,Resolved,high
+1168,Robbery,2022-12-16,15:17,17.439123,78.411702,Jubilee Hills,Low,0,Unresolved,low
+1169,Assault,2023-01-05,13:48,17.445805,78.463998,Begumpet,Low,0,Under Investigation,low
+1170,Harassment,2022-05-22,20:57,17.346957,78.541617,LB Nagar,High,2,Unresolved,high
+1171,Fraud,2023-11-30,16:09,17.501191,78.372768,Miyapur,Low,0,Resolved,low
+1172,Harassment,2022-03-13,16:49,17.445736,78.459392,Begumpet,Medium,1,Resolved,low
+1173,Pickpocket,2022-02-07,03:03,17.329673,78.555677,LB Nagar,High,2,Under Investigation,high
+1174,Harassment,2023-06-17,21:56,17.437969,78.456698,Begumpet,Low,0,Under Investigation,low
+1175,Vehicle Theft,2022-11-08,17:00,17.447348,78.460464,Begumpet,Low,0,Unresolved,low
+1176,Fraud,2023-09-18,16:41,17.477579,78.567336,ECIL,Medium,1,Resolved,medium
+1177,Vehicle Theft,2023-10-02,17:56,17.474569,78.551472,ECIL,Medium,1,Under Investigation,medium
+1178,Vehicle Theft,2022-11-05,20:24,17.356596,78.54899,LB Nagar,High,2,Under Investigation,high
+1179,Burglary,2022-05-10,23:05,17.438846,78.464747,Begumpet,Low,0,Under Investigation,low
+1180,Theft,2023-06-18,09:01,17.42329,78.451569,Ameerpet,Medium,1,Under Investigation,medium
+1181,Harassment,2022-09-05,08:32,17.476665,78.402979,Kukatpally,Medium,1,Resolved,medium
+1182,Robbery,2023-01-17,01:03,17.429621,78.472502,Begumpet,Low,0,Under Investigation,low
+1183,Fraud,2022-11-02,14:21,17.435066,78.36117,Gachibowli,Medium,1,Resolved,medium
+1184,Vehicle Theft,2023-08-19,19:19,17.401114,78.545341,Uppal,High,2,Unresolved,high
+1185,Vandalism,2023-08-10,22:47,17.439568,78.400686,Madhapur,Low,0,Resolved,low
+1186,Fraud,2023-06-13,10:06,17.438853,78.344514,Gachibowli,Medium,1,Resolved,medium
+1187,Harassment,2023-02-26,13:56,17.44308,78.467614,Begumpet,Low,0,Resolved,low
+1188,Vandalism,2023-04-02,06:25,17.377739,78.536288,Dilsukhnagar,High,2,Under Investigation,medium
+1189,Harassment,2023-02-09,16:28,17.434622,78.437692,Ameerpet,Medium,1,Under Investigation,medium
+1190,Vandalism,2023-03-03,15:08,17.465792,78.564482,ECIL,Medium,1,Unresolved,medium
+1191,Burglary,2022-05-13,14:29,17.43409,78.455943,Begumpet,Low,0,Unresolved,low
+1192,Pickpocket,2023-07-27,19:54,17.44625,78.376811,Hitech City,High,2,Unresolved,high
+1193,Vandalism,2023-01-14,03:09,17.440362,78.342832,Gachibowli,Medium,1,Resolved,medium
+1194,Theft,2023-01-19,11:50,17.359757,78.467306,Charminar,High,2,Resolved,high
+1195,Chain Snatching,2023-03-08,18:13,17.422722,78.442982,Banjara Hills,Medium,1,Resolved,medium
+1196,Vehicle Theft,2023-05-16,23:04,17.48083,78.361964,Miyapur,High,2,Resolved,low
+1197,Harassment,2022-11-14,16:30,17.334928,78.5417,LB Nagar,High,2,Under Investigation,high
+1198,Fraud,2022-05-16,19:42,17.494932,78.357803,Miyapur,Low,0,Unresolved,low
+1199,Pickpocket,2022-11-30,23:26,17.408225,78.426668,Banjara Hills,High,2,Unresolved,medium
+1200,Chain Snatching,2022-12-14,12:41,17.433658,78.407655,Jubilee Hills,Low,0,Resolved,low
+1201,Chain Snatching,2023-12-26,05:35,17.489826,78.370815,Miyapur,High,2,Under Investigation,low
+1202,Vandalism,2023-07-27,20:36,17.435727,78.346727,Gachibowli,High,2,Resolved,medium
+1203,Robbery,2022-07-13,16:42,17.498288,78.424524,Kukatpally,Medium,1,Under Investigation,medium
+1204,Pickpocket,2022-10-09,00:28,17.405203,78.441338,Banjara Hills,Medium,1,Resolved,medium
+1205,Fraud,2022-11-25,17:55,17.411891,78.549814,Uppal,High,2,Resolved,high
+1206,Vehicle Theft,2023-03-01,15:24,17.36815,78.487003,Charminar,High,2,Unresolved,high
+1207,Assault,2022-04-12,03:11,17.43112,78.34156,Gachibowli,Medium,1,Unresolved,medium
+1208,Theft,2022-11-11,05:39,17.413541,78.561172,Uppal,High,2,Unresolved,high
+1209,Robbery,2024-01-01,00:20,17.420012,78.437425,Banjara Hills,Medium,1,Resolved,medium
+1210,Theft,2022-09-22,21:12,17.350026,78.536288,LB Nagar,High,2,Resolved,high
+1211,Robbery,2022-08-31,18:17,17.413779,78.568357,Uppal,High,2,Resolved,high
+1212,Harassment,2023-02-21,16:40,17.359765,78.474352,Charminar,Low,0,Resolved,high
+1213,Burglary,2022-10-03,00:48,17.456851,78.566514,ECIL,Medium,1,Under Investigation,medium
+1214,Robbery,2022-11-08,04:54,17.453076,78.390302,Madhapur,Low,0,Under Investigation,low
+1215,Burglary,2022-05-26,06:34,17.446495,78.445627,Ameerpet,Medium,1,Unresolved,medium
+1216,Pickpocket,2023-04-08,17:18,17.473617,78.554243,ECIL,Medium,1,Under Investigation,medium
+1217,Chain Snatching,2022-03-03,00:38,17.415412,78.433305,Banjara Hills,Medium,1,Unresolved,medium
+1218,Pickpocket,2023-01-25,21:53,17.497402,78.366444,Miyapur,Low,0,Under Investigation,low
+1219,Robbery,2023-07-01,02:25,17.438848,78.504908,Secunderabad,High,2,Under Investigation,high
+1220,Burglary,2023-07-24,04:39,17.436606,78.336047,Gachibowli,Medium,1,Under Investigation,medium
+1221,Fraud,2023-11-30,12:17,17.419397,78.570052,Uppal,High,2,Resolved,high
+1222,Theft,2022-12-16,10:58,17.438162,78.396318,Madhapur,Low,0,Under Investigation,low
+1223,Theft,2022-01-03,20:43,17.411576,78.436808,Banjara Hills,Medium,1,Resolved,medium
+1224,Vandalism,2023-12-15,17:05,17.349254,78.545025,LB Nagar,High,2,Under Investigation,high
+1225,Fraud,2023-07-06,02:43,17.44223,78.385276,Madhapur,High,2,Resolved,low
+1226,Harassment,2023-01-21,23:11,17.35427,78.468045,Charminar,High,2,Under Investigation,high
+1227,Theft,2023-01-15,06:14,17.442963,78.371474,Hitech City,High,2,Under Investigation,high
+1228,Burglary,2023-11-28,20:05,17.448956,78.389098,Hitech City,High,2,Under Investigation,high
+1229,Vehicle Theft,2022-08-15,09:02,17.44386,78.392715,Madhapur,Low,0,Unresolved,low
+1230,Burglary,2023-12-25,22:52,17.372797,78.528476,Dilsukhnagar,Medium,1,Under Investigation,medium
+1231,Assault,2022-10-12,06:35,17.347508,78.552841,LB Nagar,High,2,Resolved,high
+1232,Robbery,2023-08-03,23:37,17.452358,78.380899,Madhapur,Low,0,Resolved,low
+1233,Vandalism,2022-05-11,02:46,17.448753,78.470698,Begumpet,Low,0,Unresolved,low
+1234,Vandalism,2022-01-24,21:56,17.425894,78.407404,Jubilee Hills,Low,0,Unresolved,low
+1235,Vehicle Theft,2023-10-19,22:27,17.448967,78.375525,Hitech City,High,2,Unresolved,high
+1236,Vandalism,2023-06-15,06:48,17.448484,78.517211,Secunderabad,High,2,Resolved,high
+1237,Vandalism,2022-08-18,23:28,17.462812,78.551352,ECIL,Medium,1,Unresolved,medium
+1238,Theft,2022-12-09,14:47,17.445931,78.382973,Hitech City,High,2,Resolved,high
+1239,Assault,2022-03-18,13:21,17.439953,78.475226,Begumpet,Low,0,Unresolved,low
+1240,Harassment,2023-10-03,20:51,17.429391,78.354443,Gachibowli,Medium,1,Resolved,medium
+1241,Robbery,2022-12-09,20:30,17.480053,78.427555,Kukatpally,Medium,1,Resolved,medium
+1242,Robbery,2022-12-08,20:49,17.37754,78.468567,Charminar,High,2,Under Investigation,high
+1243,Robbery,2022-04-08,14:03,17.480504,78.420677,Kukatpally,Medium,1,Resolved,medium
+1244,Theft,2023-12-12,11:58,17.343803,78.546537,LB Nagar,Low,0,Unresolved,high
+1245,Theft,2023-10-04,11:35,17.443703,78.361843,Hitech City,High,2,Resolved,high
+1246,Burglary,2023-02-16,21:55,17.439789,78.492782,Secunderabad,Medium,1,Under Investigation,high
+1247,Harassment,2022-01-11,18:56,17.401455,78.570549,Uppal,High,2,Under Investigation,high
+1248,Fraud,2022-12-14,03:33,17.474848,78.420306,Kukatpally,Medium,1,Unresolved,medium
+1249,Robbery,2022-04-21,06:37,17.482668,78.411562,Kukatpally,High,2,Resolved,medium
+1250,Vehicle Theft,2022-05-10,18:26,17.475423,78.56512,ECIL,Medium,1,Unresolved,medium
+1251,Theft,2023-04-01,19:03,17.446365,78.471345,Begumpet,Low,0,Resolved,low
+1252,Chain Snatching,2023-06-10,18:37,17.43725,78.493402,Secunderabad,High,2,Under Investigation,high
+1253,Chain Snatching,2023-04-26,07:23,17.396719,78.552397,Uppal,High,2,Resolved,high
+1254,Burglary,2023-11-05,18:32,17.461093,78.458257,Ameerpet,Medium,1,Under Investigation,medium
+1255,Burglary,2023-03-09,01:50,17.484791,78.35882,Miyapur,Low,0,Resolved,low
+1256,Pickpocket,2023-05-03,08:44,17.365455,78.479078,Charminar,High,2,Unresolved,high
+1257,Harassment,2023-08-03,18:21,17.499991,78.36736,Miyapur,Low,0,Resolved,low
+1258,Burglary,2022-02-13,14:44,17.439096,78.351523,Gachibowli,Medium,1,Resolved,medium
+1259,Harassment,2022-08-07,19:13,17.369487,78.506946,Dilsukhnagar,Medium,1,Unresolved,medium
+1260,Theft,2023-01-07,00:35,17.413762,78.427889,Banjara Hills,Medium,1,Resolved,medium
+1261,Vehicle Theft,2023-03-27,09:02,17.417002,78.458582,Banjara Hills,High,2,Resolved,medium
+1262,Assault,2022-10-18,06:21,17.43494,78.404592,Jubilee Hills,Medium,1,Under Investigation,low
+1263,Robbery,2022-07-20,05:01,17.439374,78.410962,Jubilee Hills,Medium,1,Under Investigation,low
+1264,Vehicle Theft,2023-11-02,12:59,17.418961,78.439555,Banjara Hills,Medium,1,Resolved,medium
+1265,Vandalism,2023-01-14,16:51,17.456352,78.489253,Secunderabad,High,2,Under Investigation,high
+1266,Assault,2023-12-30,13:50,17.472889,78.554989,ECIL,Low,0,Resolved,medium
+1267,Pickpocket,2023-01-23,17:27,17.436444,78.399751,Jubilee Hills,Low,0,Under Investigation,low
+1268,Assault,2023-09-23,01:20,17.428661,78.404739,Jubilee Hills,Low,0,Resolved,low
+1269,Burglary,2022-10-14,18:46,17.451307,78.384548,Hitech City,High,2,Resolved,high
+1270,Vandalism,2023-11-11,16:24,17.395434,78.559439,Uppal,High,2,Under Investigation,high
+1271,Vehicle Theft,2023-05-26,17:45,17.399723,78.548932,Uppal,High,2,Unresolved,high
+1272,Fraud,2023-05-10,22:17,17.435764,78.445832,Ameerpet,Medium,1,Under Investigation,medium
+1273,Burglary,2023-08-21,18:57,17.366314,78.550364,LB Nagar,High,2,Resolved,high
+1274,Harassment,2023-02-10,07:36,17.357779,78.520182,Dilsukhnagar,Medium,1,Resolved,medium
+1275,Robbery,2022-09-18,11:18,17.477271,78.579108,ECIL,Medium,1,Unresolved,medium
+1276,Vandalism,2022-08-24,11:39,17.424812,78.433261,Ameerpet,Medium,1,Unresolved,medium
+1277,Vehicle Theft,2023-03-19,15:17,17.361868,78.550017,LB Nagar,High,2,Unresolved,high
+1278,Vehicle Theft,2022-08-28,08:57,17.436554,78.381477,Hitech City,High,2,Resolved,high
+1279,Chain Snatching,2023-06-10,21:59,17.418814,78.498327,Secunderabad,High,2,Resolved,high
+1280,Vehicle Theft,2022-03-15,03:12,17.442723,78.356294,Gachibowli,Medium,1,Under Investigation,medium
+1281,Pickpocket,2023-12-01,10:08,17.353489,78.475385,Charminar,High,2,Under Investigation,high
+1282,Chain Snatching,2022-09-25,17:52,17.434397,78.465643,Begumpet,Medium,1,Unresolved,low
+1283,Fraud,2023-02-20,23:41,17.398237,78.555735,Uppal,High,2,Under Investigation,high
+1284,Fraud,2023-02-12,22:14,17.397433,78.564209,Uppal,High,2,Under Investigation,high
+1285,Vehicle Theft,2023-04-25,17:50,17.491768,78.411923,Kukatpally,Medium,1,Resolved,medium
+1286,Burglary,2023-03-16,21:28,17.361906,78.463111,Charminar,High,2,Unresolved,high
+1287,Chain Snatching,2022-01-31,17:47,17.493203,78.368998,Miyapur,Low,0,Resolved,low
+1288,Harassment,2022-12-30,21:43,17.389766,78.515804,Dilsukhnagar,Medium,1,Unresolved,medium
+1289,Pickpocket,2023-07-05,20:50,17.417113,78.566975,Uppal,High,2,Resolved,high
+1290,Pickpocket,2022-06-07,04:40,17.471345,78.576469,ECIL,Medium,1,Under Investigation,medium
+1291,Burglary,2023-08-11,19:25,17.472077,78.565513,ECIL,Medium,1,Resolved,medium
+1292,Pickpocket,2022-07-12,12:28,17.437075,78.458089,Ameerpet,Medium,1,Under Investigation,medium
+1293,Vandalism,2022-04-06,09:11,17.477872,78.557395,ECIL,High,2,Resolved,medium
+1294,Burglary,2023-09-10,22:04,17.485046,78.367776,Miyapur,Low,0,Unresolved,low
+1295,Fraud,2022-10-26,08:03,17.4335,78.497792,Secunderabad,High,2,Unresolved,high
+1296,Harassment,2022-06-25,00:10,17.4474,78.444642,Ameerpet,Medium,1,Resolved,medium
+1297,Harassment,2023-03-05,17:57,17.415257,78.435164,Banjara Hills,Medium,1,Resolved,medium
+1298,Assault,2022-11-14,06:38,17.422387,78.416725,Banjara Hills,Medium,1,Under Investigation,medium
+1299,Chain Snatching,2023-05-30,18:12,17.435046,78.49999,Secunderabad,High,2,Resolved,high
+1300,Vandalism,2022-03-07,14:21,17.425201,78.430765,Banjara Hills,Medium,1,Under Investigation,medium
+1301,Robbery,2023-04-17,15:18,17.454088,78.567358,ECIL,Medium,1,Under Investigation,medium
+1302,Harassment,2022-12-22,14:39,17.464017,78.552883,ECIL,Medium,1,Resolved,medium
+1303,Harassment,2023-09-25,10:58,17.341905,78.545424,LB Nagar,High,2,Under Investigation,high
+1304,Theft,2023-08-06,22:15,17.410762,78.417055,Banjara Hills,High,2,Resolved,medium
+1305,Burglary,2023-07-05,21:58,17.447077,78.508499,Secunderabad,High,2,Unresolved,high
+1306,Robbery,2023-07-21,23:48,17.352112,78.537799,LB Nagar,Medium,1,Resolved,high
+1307,Burglary,2023-02-24,10:32,17.435888,78.448248,Ameerpet,Medium,1,Resolved,medium
+1308,Harassment,2022-03-16,00:21,17.37359,78.530047,Dilsukhnagar,Medium,1,Under Investigation,medium
+1309,Robbery,2023-02-11,21:45,17.341027,78.547556,LB Nagar,Medium,1,Resolved,high
+1310,Robbery,2023-04-21,19:35,17.365258,78.486347,Charminar,High,2,Under Investigation,high
+1311,Assault,2023-03-25,22:10,17.437636,78.413412,Jubilee Hills,Medium,1,Resolved,low
+1312,Assault,2022-07-01,03:04,17.485571,78.425084,Kukatpally,Medium,1,Under Investigation,medium
+1313,Assault,2022-10-07,00:13,17.408678,78.552111,Uppal,Medium,1,Under Investigation,high
+1314,Vandalism,2023-06-30,21:41,17.454727,78.382783,Hitech City,High,2,Under Investigation,high
+1315,Fraud,2022-04-16,21:03,17.438256,78.459764,Begumpet,Low,0,Under Investigation,low
+1316,Vehicle Theft,2023-01-22,02:58,17.445873,78.380905,Hitech City,High,2,Resolved,high
+1317,Vehicle Theft,2022-01-17,02:52,17.433578,78.40959,Jubilee Hills,Low,0,Resolved,low
+1318,Assault,2022-03-06,21:46,17.4621,78.399372,Madhapur,Low,0,Resolved,low
+1319,Vandalism,2022-04-21,14:40,17.445025,78.38473,Hitech City,High,2,Resolved,high
+1320,Robbery,2023-07-09,06:14,17.47664,78.416983,Kukatpally,Medium,1,Resolved,medium
+1321,Vehicle Theft,2022-11-28,11:00,17.454574,78.347156,Gachibowli,Medium,1,Unresolved,medium
+1322,Pickpocket,2022-08-14,14:23,17.425219,78.401883,Jubilee Hills,Medium,1,Resolved,low
+1323,Robbery,2023-02-25,06:45,17.431383,78.342622,Gachibowli,Medium,1,Under Investigation,medium
+1324,Pickpocket,2023-08-06,23:20,17.402436,78.547755,Uppal,Low,0,Under Investigation,high
+1325,Vehicle Theft,2023-11-26,12:11,17.441925,78.470818,Begumpet,Low,0,Under Investigation,low
+1326,Robbery,2022-11-22,21:21,17.398138,78.571154,Uppal,High,2,Resolved,high
+1327,Vandalism,2023-04-05,18:37,17.488986,78.422045,Kukatpally,Medium,1,Under Investigation,medium
+1328,Chain Snatching,2023-09-24,09:15,17.438237,78.384036,Hitech City,High,2,Under Investigation,high
+1329,Vehicle Theft,2023-09-27,20:31,17.338165,78.554022,LB Nagar,Low,0,Unresolved,high
+1330,Burglary,2023-01-20,04:59,17.433375,78.411526,Jubilee Hills,Low,0,Under Investigation,low
+1331,Theft,2022-12-03,14:33,17.475495,78.406639,Kukatpally,Medium,1,Unresolved,medium
+1332,Vehicle Theft,2022-01-25,09:15,17.453278,78.383213,Madhapur,Low,0,Resolved,low
+1333,Pickpocket,2023-11-12,01:55,17.441206,78.437363,Ameerpet,Medium,1,Unresolved,medium
+1334,Robbery,2022-07-07,10:55,17.444285,78.43844,Ameerpet,Medium,1,Unresolved,medium
+1335,Burglary,2022-02-23,06:08,17.444518,78.353905,Gachibowli,Medium,1,Resolved,medium
+1336,Burglary,2023-07-17,18:32,17.410026,78.439356,Banjara Hills,Medium,1,Resolved,medium
+1337,Burglary,2022-11-15,19:27,17.348984,78.542589,LB Nagar,Low,0,Resolved,high
+1338,Burglary,2022-11-07,07:17,17.476832,78.398099,Kukatpally,Medium,1,Unresolved,medium
+1339,Fraud,2023-02-12,11:27,17.442897,78.336382,Gachibowli,Medium,1,Under Investigation,medium
+1340,Theft,2023-03-20,23:48,17.485663,78.411692,Kukatpally,Medium,1,Unresolved,medium
+1341,Vandalism,2022-11-04,21:46,17.352333,78.544484,LB Nagar,High,2,Resolved,high
+1342,Vandalism,2022-11-10,13:38,17.437264,78.504155,Secunderabad,High,2,Unresolved,high
+1343,Assault,2022-05-20,10:58,17.44278,78.351429,Gachibowli,Medium,1,Resolved,medium
+1344,Fraud,2023-05-28,00:25,17.447254,78.364915,Hitech City,High,2,Unresolved,high
+1345,Pickpocket,2023-01-18,23:04,17.352954,78.5518,LB Nagar,High,2,Unresolved,high
+1346,Burglary,2022-05-08,01:48,17.460967,78.560447,ECIL,Medium,1,Unresolved,medium
+1347,Vehicle Theft,2022-12-23,20:44,17.439586,78.497224,Secunderabad,High,2,Resolved,high
+1348,Fraud,2023-03-11,12:02,17.451171,78.402251,Madhapur,Low,0,Unresolved,low
+1349,Assault,2023-11-24,22:16,17.457154,78.380302,Madhapur,High,2,Under Investigation,low
+1350,Theft,2022-05-31,21:07,17.373777,78.535331,Dilsukhnagar,Medium,1,Resolved,medium
+1351,Vandalism,2023-01-29,22:58,17.451594,78.399528,Madhapur,Low,0,Resolved,low
+1352,Chain Snatching,2022-06-19,13:32,17.485198,78.57059,ECIL,Medium,1,Under Investigation,medium
+1353,Robbery,2023-08-24,12:06,17.450494,78.399161,Madhapur,Low,0,Under Investigation,low
+1354,Harassment,2022-05-27,11:44,17.486059,78.413991,Kukatpally,Medium,1,Unresolved,medium
+1355,Harassment,2023-05-19,23:33,17.440689,78.389707,Hitech City,Low,0,Unresolved,high
+1356,Assault,2023-03-18,09:45,17.441953,78.403059,Madhapur,Medium,1,Resolved,low
+1357,Fraud,2022-07-06,15:36,17.435999,78.395906,Jubilee Hills,Low,0,Resolved,low
+1358,Chain Snatching,2022-03-02,06:57,17.418541,78.4179,Banjara Hills,Medium,1,Unresolved,medium
+1359,Assault,2023-10-02,20:05,17.373804,78.531782,Dilsukhnagar,High,2,Unresolved,medium
+1360,Theft,2022-05-08,12:37,17.435361,78.349888,Gachibowli,Medium,1,Resolved,medium
+1361,Theft,2023-11-20,15:17,17.384433,78.520654,Dilsukhnagar,Medium,1,Resolved,medium
+1362,Theft,2022-02-12,18:24,17.440029,78.402653,Madhapur,High,2,Under Investigation,low
+1363,Pickpocket,2023-05-13,08:27,17.453201,78.44833,Ameerpet,Medium,1,Unresolved,medium
+1364,Vehicle Theft,2022-12-18,19:42,17.369692,78.485432,Charminar,High,2,Unresolved,high
+1365,Theft,2022-12-31,18:29,17.34096,78.543018,LB Nagar,High,2,Under Investigation,high
+1366,Vandalism,2022-05-23,19:17,17.356747,78.56038,LB Nagar,Low,0,Under Investigation,high
+1367,Vandalism,2023-01-13,20:26,17.409903,78.551961,Uppal,High,2,Under Investigation,high
+1368,Theft,2023-10-16,00:40,17.447896,78.402852,Jubilee Hills,Low,0,Unresolved,low
+1369,Pickpocket,2022-11-30,01:31,17.492919,78.372139,Miyapur,Low,0,Unresolved,low
+1370,Robbery,2022-03-25,19:46,17.454233,78.470432,Begumpet,Low,0,Unresolved,low
+1371,Pickpocket,2023-12-31,18:50,17.443219,78.502006,Secunderabad,High,2,Under Investigation,high
+1372,Chain Snatching,2022-05-11,01:53,17.437848,78.452765,Ameerpet,Medium,1,Under Investigation,medium
+1373,Fraud,2022-06-22,14:42,17.417264,78.445927,Ameerpet,Medium,1,Under Investigation,medium
+1374,Robbery,2022-08-05,07:06,17.433931,78.397892,Jubilee Hills,High,2,Unresolved,low
+1375,Harassment,2022-06-14,00:49,17.444891,78.461964,Begumpet,Low,0,Unresolved,low
+1376,Assault,2022-09-21,23:59,17.446044,78.419684,Jubilee Hills,Low,0,Under Investigation,low
+1377,Vehicle Theft,2023-05-19,23:55,17.444774,78.389593,Madhapur,High,2,Resolved,low
+1378,Harassment,2023-09-08,18:58,17.468508,78.558787,ECIL,Medium,1,Under Investigation,medium
+1379,Burglary,2023-01-26,23:14,17.44336,78.457534,Begumpet,Low,0,Unresolved,low
+1380,Pickpocket,2022-03-31,09:59,17.431055,78.353882,Gachibowli,Medium,1,Resolved,medium
+1381,Harassment,2023-08-10,03:36,17.446836,78.457165,Begumpet,Low,0,Under Investigation,low
+1382,Harassment,2023-08-28,11:20,17.450663,78.372147,Hitech City,High,2,Unresolved,high
+1383,Robbery,2022-05-10,19:25,17.407425,78.565563,Uppal,High,2,Resolved,high
+1384,Burglary,2022-11-20,14:31,17.437231,78.451938,Ameerpet,Medium,1,Under Investigation,medium
+1385,Pickpocket,2023-09-08,04:20,17.364669,78.523128,Dilsukhnagar,Medium,1,Unresolved,medium
+1386,Burglary,2022-05-07,22:31,17.435853,78.442327,Ameerpet,Medium,1,Unresolved,medium
+1387,Assault,2022-03-02,12:52,17.440386,78.451211,Begumpet,Low,0,Under Investigation,low
+1388,Assault,2022-08-19,23:54,17.428071,78.404821,Jubilee Hills,Low,0,Unresolved,low
+1389,Theft,2022-11-03,12:35,17.439751,78.461668,Begumpet,Low,0,Unresolved,low
+1390,Harassment,2023-04-30,15:04,17.361106,78.478536,Charminar,High,2,Under Investigation,high
+1391,Vandalism,2022-10-17,09:25,17.448796,78.458402,Begumpet,Low,0,Resolved,low
+1392,Chain Snatching,2023-08-18,10:29,17.405974,78.426364,Banjara Hills,Medium,1,Under Investigation,medium
+1393,Chain Snatching,2022-05-21,18:57,17.411702,78.431885,Banjara Hills,Medium,1,Resolved,medium
+1394,Vehicle Theft,2022-07-20,06:46,17.42584,78.396731,Jubilee Hills,Low,0,Under Investigation,low
+1395,Assault,2022-06-01,21:59,17.436451,78.350351,Gachibowli,Medium,1,Resolved,medium
+1396,Robbery,2023-05-01,11:32,17.44486,78.344441,Gachibowli,Low,0,Under Investigation,medium
+1397,Burglary,2022-06-02,18:02,17.358296,78.467286,Charminar,High,2,Resolved,high
+1398,Harassment,2023-05-16,12:49,17.431748,78.400313,Jubilee Hills,Low,0,Under Investigation,low
+1399,Chain Snatching,2022-04-02,19:40,17.409985,78.544713,Uppal,High,2,Under Investigation,high
+1400,Robbery,2022-01-12,11:31,17.365923,78.527109,Dilsukhnagar,Low,0,Under Investigation,medium
+1401,Pickpocket,2022-08-19,16:30,17.449971,78.412344,Madhapur,High,2,Unresolved,low
+1402,Harassment,2022-04-07,23:30,17.444598,78.455568,Begumpet,Low,0,Under Investigation,low
+1403,Vehicle Theft,2022-11-02,13:04,17.441036,78.44939,Begumpet,Low,0,Under Investigation,low
+1404,Harassment,2022-07-09,17:35,17.468455,78.555736,ECIL,Medium,1,Under Investigation,medium
+1405,Vandalism,2023-05-16,20:45,17.412723,78.554604,Uppal,High,2,Under Investigation,high
+1406,Pickpocket,2023-11-06,06:44,17.439166,78.343816,Gachibowli,Medium,1,Resolved,medium
+1407,Pickpocket,2022-11-18,17:13,17.457411,78.37463,Hitech City,Low,0,Under Investigation,high
+1408,Robbery,2023-07-30,02:07,17.43026,78.441213,Banjara Hills,Medium,1,Under Investigation,medium
+1409,Theft,2023-07-12,13:15,17.443757,78.50125,Secunderabad,High,2,Unresolved,high
+1410,Vandalism,2023-06-16,22:28,17.44665,78.361779,Hitech City,High,2,Resolved,high
+1411,Pickpocket,2023-12-13,15:34,17.482669,78.420561,Kukatpally,Medium,1,Under Investigation,medium
+1412,Burglary,2022-04-12,22:02,17.431609,78.395858,Jubilee Hills,Low,0,Resolved,low
+1413,Pickpocket,2022-08-09,09:22,17.415181,78.448333,Banjara Hills,Medium,1,Unresolved,medium
+1414,Chain Snatching,2023-09-30,23:24,17.425575,78.434204,Banjara Hills,Medium,1,Under Investigation,medium
+1415,Harassment,2023-02-14,05:44,17.476712,78.559468,ECIL,Medium,1,Resolved,medium
+1416,Burglary,2022-03-14,06:45,17.423869,78.440904,Ameerpet,Medium,1,Unresolved,medium
+1417,Harassment,2023-10-26,21:52,17.497403,78.411608,Kukatpally,Medium,1,Resolved,medium
+1418,Robbery,2023-03-21,23:17,17.359653,78.472301,Charminar,High,2,Resolved,high
+1419,Vehicle Theft,2023-12-02,03:40,17.452733,78.461308,Ameerpet,Medium,1,Resolved,medium
+1420,Chain Snatching,2022-10-07,21:00,17.37935,78.473428,Charminar,Low,0,Resolved,high
+1421,Robbery,2022-08-16,23:11,17.349265,78.534767,LB Nagar,High,2,Under Investigation,high
+1422,Robbery,2023-08-26,09:33,17.453615,78.454258,Begumpet,Low,0,Unresolved,low
+1423,Theft,2022-10-16,18:10,17.443534,78.454822,Begumpet,Low,0,Unresolved,low
+1424,Fraud,2022-12-20,14:37,17.400689,78.552302,Uppal,High,2,Resolved,high
+1425,Assault,2023-06-10,00:24,17.435037,78.493987,Secunderabad,High,2,Under Investigation,high
+1426,Burglary,2022-02-24,08:43,17.437414,78.470267,Begumpet,Low,0,Under Investigation,low
+1427,Fraud,2022-07-07,19:32,17.338061,78.548664,LB Nagar,High,2,Unresolved,high
+1428,Chain Snatching,2023-06-18,22:40,17.449644,78.494194,Secunderabad,High,2,Resolved,high
+1429,Robbery,2022-11-17,14:46,17.434157,78.496456,Secunderabad,High,2,Resolved,high
+1430,Chain Snatching,2023-08-13,05:35,17.449538,78.350453,Gachibowli,High,2,Unresolved,medium
+1431,Fraud,2023-03-11,21:31,17.40115,78.562871,Uppal,High,2,Under Investigation,high
+1432,Theft,2023-06-30,21:39,17.439682,78.396251,Madhapur,Low,0,Resolved,low
+1433,Burglary,2022-01-08,23:47,17.472369,78.559938,ECIL,Medium,1,Under Investigation,medium
+1434,Assault,2023-12-02,16:43,17.462391,78.555307,ECIL,Medium,1,Under Investigation,medium
+1435,Vandalism,2022-06-29,07:22,17.473379,78.572232,ECIL,Low,0,Resolved,medium
+1436,Vehicle Theft,2022-06-24,16:58,17.341802,78.550567,LB Nagar,High,2,Under Investigation,high
+1437,Chain Snatching,2022-05-01,17:16,17.415304,78.402423,Jubilee Hills,Low,0,Resolved,low
+1438,Vandalism,2023-08-06,19:52,17.443252,78.369923,Hitech City,High,2,Resolved,high
+1439,Vehicle Theft,2023-09-25,14:00,17.461608,78.557058,ECIL,Medium,1,Under Investigation,medium
+1440,Vehicle Theft,2022-11-02,10:56,17.371138,78.523201,Dilsukhnagar,Medium,1,Under Investigation,medium
+1441,Fraud,2022-12-30,12:12,17.397694,78.417734,Banjara Hills,Medium,1,Resolved,medium
+1442,Theft,2022-06-07,16:09,17.432645,78.451961,Ameerpet,Medium,1,Under Investigation,medium
+1443,Harassment,2023-02-09,09:57,17.41792,78.494302,Secunderabad,High,2,Resolved,high
+1444,Assault,2022-04-22,08:08,17.43329,78.459407,Ameerpet,Medium,1,Unresolved,medium
+1445,Robbery,2022-01-06,13:12,17.43872,78.466664,Begumpet,Low,0,Unresolved,low
+1446,Assault,2023-03-08,06:42,17.44463,78.360155,Hitech City,High,2,Resolved,high
+1447,Vandalism,2022-09-30,21:31,17.374946,78.526423,Dilsukhnagar,Medium,1,Under Investigation,medium
+1448,Vandalism,2022-11-29,04:46,17.445866,78.49501,Begumpet,Low,0,Under Investigation,low
+1449,Theft,2022-05-15,12:08,17.478927,78.383198,Miyapur,Low,0,Resolved,low
+1450,Harassment,2023-12-02,16:38,17.3593,78.476999,Charminar,High,2,Under Investigation,high
+1451,Harassment,2022-10-24,15:15,17.443136,78.373806,Hitech City,High,2,Under Investigation,high
+1452,Robbery,2023-06-08,23:55,17.411041,78.437336,Banjara Hills,Medium,1,Unresolved,medium
+1453,Fraud,2023-11-14,07:45,17.429663,78.469605,Begumpet,Low,0,Resolved,low
+1454,Pickpocket,2023-05-30,23:40,17.43847,78.454559,Begumpet,Low,0,Under Investigation,low
+1455,Chain Snatching,2022-05-04,07:12,17.412,78.444757,Banjara Hills,Low,0,Resolved,medium
+1456,Harassment,2022-07-24,01:26,17.342617,78.549768,LB Nagar,Low,0,Under Investigation,high
+1457,Fraud,2022-08-25,19:03,17.434052,78.504363,Secunderabad,High,2,Under Investigation,high
+1458,Chain Snatching,2022-11-08,18:22,17.352384,78.561689,LB Nagar,Medium,1,Under Investigation,high
+1459,Theft,2022-02-18,10:42,17.345495,78.552249,LB Nagar,Low,0,Under Investigation,high
+1460,Harassment,2023-04-29,09:11,17.362385,78.485067,Charminar,High,2,Unresolved,high
+1461,Theft,2022-12-09,11:43,17.363049,78.53066,Dilsukhnagar,Medium,1,Under Investigation,medium
+1462,Pickpocket,2022-12-06,21:33,17.403842,78.558486,Uppal,High,2,Under Investigation,high
+1463,Robbery,2022-10-10,09:56,17.362334,78.476718,Charminar,High,2,Resolved,high
+1464,Burglary,2023-09-09,20:12,17.41467,78.436418,Banjara Hills,High,2,Under Investigation,medium
+1465,Chain Snatching,2022-03-18,03:46,17.381425,78.532584,Dilsukhnagar,Medium,1,Unresolved,medium
+1466,Harassment,2022-06-07,08:35,17.412353,78.555356,Uppal,Low,0,Under Investigation,high
+1467,Fraud,2023-07-28,21:40,17.432786,78.505942,Secunderabad,High,2,Under Investigation,high
+1468,Assault,2022-03-11,13:38,17.447108,78.360681,Gachibowli,Medium,1,Unresolved,medium
+1469,Theft,2022-10-24,04:50,17.436968,78.461764,Begumpet,High,2,Under Investigation,low
+1470,Assault,2023-02-12,23:28,17.418884,78.40396,Jubilee Hills,Low,0,Under Investigation,low
+1471,Burglary,2023-02-04,17:11,17.354873,78.543168,LB Nagar,High,2,Resolved,high
+1472,Vandalism,2022-08-12,18:29,17.420724,78.433176,Banjara Hills,Medium,1,Under Investigation,medium
+1473,Chain Snatching,2023-06-22,23:45,17.444392,78.454418,Begumpet,Low,0,Unresolved,low
+1474,Chain Snatching,2022-06-25,03:02,17.438182,78.424371,Ameerpet,Medium,1,Under Investigation,medium
+1475,Burglary,2022-05-17,08:52,17.414105,78.421656,Banjara Hills,Medium,1,Resolved,medium
+1476,Vehicle Theft,2022-01-02,03:05,17.447148,78.454519,Ameerpet,Medium,1,Under Investigation,medium
+1477,Pickpocket,2022-09-28,17:18,17.472833,78.574568,ECIL,Medium,1,Unresolved,medium
+1478,Chain Snatching,2022-01-11,18:11,17.435909,78.391179,Hitech City,High,2,Unresolved,high
+1479,Harassment,2023-08-21,17:41,17.450958,78.375308,Hitech City,High,2,Unresolved,high
+1480,Fraud,2023-10-12,20:14,17.504685,78.36055,Miyapur,Low,0,Unresolved,low
+1481,Assault,2023-10-07,08:28,17.433304,78.493431,Secunderabad,High,2,Resolved,high
+1482,Robbery,2023-03-21,23:31,17.437568,78.455148,Begumpet,Low,0,Resolved,low
+1483,Assault,2022-06-30,05:41,17.378585,78.522629,Dilsukhnagar,Medium,1,Unresolved,medium
+1484,Robbery,2022-07-01,11:09,17.44632,78.372637,Hitech City,High,2,Resolved,high
+1485,Vandalism,2023-10-23,09:08,17.332335,78.54906,LB Nagar,High,2,Under Investigation,high
+1486,Theft,2023-09-10,20:07,17.390102,78.558451,Uppal,Medium,1,Resolved,high
+1487,Chain Snatching,2022-02-14,20:09,17.394453,78.574898,Uppal,Low,0,Under Investigation,high
+1488,Vandalism,2022-01-10,00:47,17.492191,78.414646,Kukatpally,Medium,1,Unresolved,medium
+1489,Pickpocket,2022-03-29,22:57,17.50571,78.362629,Miyapur,Low,0,Unresolved,low
+1490,Burglary,2022-11-11,05:03,17.499948,78.370998,Miyapur,Low,0,Under Investigation,low
+1491,Theft,2023-10-05,08:06,17.443912,78.473779,Begumpet,Low,0,Under Investigation,low
+1492,Theft,2023-03-02,05:14,17.44576,78.50061,Secunderabad,Low,0,Unresolved,high
+1493,Robbery,2023-11-03,07:31,17.333661,78.53922,LB Nagar,High,2,Resolved,high
+1494,Vehicle Theft,2022-04-15,07:04,17.439118,78.349647,Gachibowli,Medium,1,Under Investigation,medium
+1495,Assault,2022-03-28,06:27,17.352558,78.493993,Charminar,High,2,Under Investigation,high
+1496,Pickpocket,2023-11-27,18:52,17.373731,78.479517,Charminar,High,2,Unresolved,high
+1497,Chain Snatching,2022-10-05,21:51,17.362176,78.473002,Charminar,High,2,Under Investigation,high
+1498,Assault,2022-01-03,04:20,17.397785,78.55962,Uppal,High,2,Resolved,high
+1499,Pickpocket,2023-05-05,15:27,17.348962,78.536966,LB Nagar,High,2,Under Investigation,high
+1500,Harassment,2022-11-27,07:22,17.442573,78.497058,Secunderabad,High,2,Unresolved,high
+1501,Pickpocket,2023-05-08,13:50,17.353538,78.517817,Dilsukhnagar,Medium,1,Under Investigation,medium
+1502,Harassment,2023-11-01,06:35,17.358291,78.489802,Charminar,High,2,Unresolved,high
+1503,Harassment,2023-05-20,17:05,17.441952,78.437616,Ameerpet,Medium,1,Under Investigation,medium
+1504,Robbery,2023-06-24,13:15,17.445688,78.451222,Begumpet,Low,0,Unresolved,low
+1505,Assault,2022-01-18,08:58,17.452162,78.373431,Hitech City,High,2,Resolved,high
+1506,Chain Snatching,2023-01-05,21:29,17.442751,78.387806,Hitech City,High,2,Resolved,high
+1507,Theft,2023-03-08,17:47,17.485303,78.358223,Miyapur,Low,0,Resolved,low
+1508,Theft,2023-12-22,22:44,17.435431,78.357207,Gachibowli,High,2,Unresolved,medium
+1509,Fraud,2022-04-19,03:53,17.349445,78.452043,Charminar,High,2,Under Investigation,high
+1510,Robbery,2022-01-31,05:15,17.491991,78.373814,Miyapur,Low,0,Resolved,low
+1511,Fraud,2023-03-03,17:47,17.453102,78.373495,Hitech City,Low,0,Resolved,high
+1512,Harassment,2023-12-17,16:46,17.438509,78.472831,Begumpet,Low,0,Unresolved,low
+1513,Assault,2023-12-13,20:03,17.353842,78.521592,Dilsukhnagar,Low,0,Under Investigation,medium
+1514,Harassment,2022-06-27,18:53,17.445023,78.380794,Hitech City,High,2,Unresolved,high
+1515,Pickpocket,2023-07-22,14:32,17.444422,78.391076,Madhapur,Low,0,Unresolved,low
+1516,Robbery,2023-03-10,07:33,17.421893,78.458334,Begumpet,Low,0,Unresolved,low
+1517,Burglary,2022-08-05,23:25,17.419228,78.426842,Banjara Hills,Medium,1,Resolved,medium
+1518,Fraud,2023-07-27,23:30,17.496072,78.372975,Miyapur,Low,0,Unresolved,low
+1519,Theft,2023-02-19,20:51,17.44576,78.392164,Madhapur,Low,0,Unresolved,low
+1520,Robbery,2022-07-19,13:23,17.440798,78.389147,Madhapur,Low,0,Under Investigation,low
+1521,Vandalism,2022-01-29,21:06,17.410282,78.560256,Uppal,High,2,Resolved,high
+1522,Burglary,2022-01-12,19:35,17.427308,78.408894,Jubilee Hills,Low,0,Resolved,low
+1523,Pickpocket,2022-09-04,01:50,17.454217,78.3744,Madhapur,Low,0,Unresolved,low
+1524,Vehicle Theft,2022-04-06,02:48,17.452773,78.37451,Hitech City,High,2,Unresolved,high
+1525,Assault,2022-11-19,16:44,17.350304,78.556478,LB Nagar,High,2,Under Investigation,high
+1526,Vandalism,2023-02-22,10:51,17.429127,78.343224,Gachibowli,Medium,1,Resolved,medium
+1527,Chain Snatching,2023-01-27,18:10,17.441192,78.37093,Hitech City,High,2,Resolved,high
+1528,Burglary,2022-03-22,14:56,17.462379,78.383946,Madhapur,Low,0,Resolved,low
+1529,Vandalism,2022-05-25,19:33,17.400956,78.560635,Uppal,High,2,Under Investigation,high
+1530,Fraud,2023-06-20,20:50,17.475283,78.410635,Kukatpally,Medium,1,Resolved,medium
+1531,Theft,2023-10-01,11:57,17.36414,78.472037,Charminar,High,2,Under Investigation,high
+1532,Assault,2022-09-02,19:36,17.404653,78.554765,Uppal,High,2,Under Investigation,high
+1533,Vandalism,2022-01-16,03:55,17.356684,78.527273,Dilsukhnagar,Medium,1,Resolved,medium
+1534,Assault,2023-04-11,03:04,17.382839,78.524847,Dilsukhnagar,Medium,1,Unresolved,medium
+1535,Fraud,2022-12-28,11:16,17.486702,78.419342,Kukatpally,Low,0,Unresolved,medium
+1536,Robbery,2023-03-29,20:36,17.429745,78.51192,Secunderabad,High,2,Unresolved,high
+1537,Fraud,2022-10-21,13:23,17.445119,78.390255,Hitech City,High,2,Under Investigation,high
+1538,Vandalism,2022-11-18,19:28,17.489736,78.383944,Miyapur,Low,0,Unresolved,low
+1539,Burglary,2022-02-13,21:44,17.475301,78.566824,ECIL,Medium,1,Under Investigation,medium
+1540,Pickpocket,2022-04-18,07:25,17.445372,78.375212,Hitech City,High,2,Resolved,high
+1541,Fraud,2023-04-19,12:29,17.441604,78.408223,Jubilee Hills,Low,0,Under Investigation,low
+1542,Robbery,2022-04-22,14:58,17.421763,78.439363,Ameerpet,High,2,Unresolved,medium
+1543,Vehicle Theft,2023-02-16,15:38,17.403913,78.56148,Uppal,High,2,Unresolved,high
+1544,Theft,2023-05-03,22:34,17.431547,78.416852,Jubilee Hills,Medium,1,Resolved,low
+1545,Pickpocket,2023-10-18,04:49,17.353191,78.525849,Dilsukhnagar,Medium,1,Unresolved,medium
+1546,Burglary,2023-01-06,22:03,17.428956,78.383278,Hitech City,High,2,Resolved,high
+1547,Assault,2023-12-02,00:05,17.494844,78.372757,Miyapur,Low,0,Resolved,low
+1548,Fraud,2023-02-19,08:55,17.433189,78.359136,Gachibowli,High,2,Unresolved,medium
+1549,Theft,2023-11-17,06:05,17.445834,78.452968,Ameerpet,Medium,1,Unresolved,medium
+1550,Harassment,2022-11-01,22:30,17.360564,78.479339,Charminar,Medium,1,Unresolved,high
+1551,Vehicle Theft,2022-06-14,22:58,17.431845,78.455144,Ameerpet,Medium,1,Under Investigation,medium
+1552,Robbery,2022-01-11,12:46,17.498096,78.422365,Kukatpally,Medium,1,Under Investigation,medium
+1553,Theft,2022-05-29,19:09,17.479063,78.416691,Kukatpally,Medium,1,Unresolved,medium
+1554,Harassment,2023-05-27,04:16,17.458755,78.566979,ECIL,Medium,1,Under Investigation,medium
+1555,Fraud,2023-04-07,00:40,17.445405,78.448641,Begumpet,Low,0,Under Investigation,low
+1556,Harassment,2022-08-12,01:44,17.430806,78.346635,Gachibowli,Medium,1,Under Investigation,medium
+1557,Burglary,2023-01-22,07:43,17.402993,78.549324,Uppal,High,2,Under Investigation,high
+1558,Vandalism,2023-01-08,13:52,17.446612,78.379212,Hitech City,Medium,1,Resolved,high
+1559,Harassment,2023-10-27,15:22,17.440246,78.457554,Begumpet,Low,0,Unresolved,low
+1560,Robbery,2023-03-13,17:59,17.50399,78.382643,Miyapur,Low,0,Resolved,low
+1561,Assault,2023-01-18,13:34,17.364932,78.519803,Dilsukhnagar,High,2,Unresolved,medium
+1562,Chain Snatching,2023-11-07,11:44,17.35083,78.544036,LB Nagar,High,2,Under Investigation,high
+1563,Robbery,2022-03-31,03:41,17.467985,78.568317,ECIL,Medium,1,Resolved,medium
+1564,Fraud,2022-04-17,13:32,17.469625,78.424346,Kukatpally,Medium,1,Under Investigation,medium
+1565,Burglary,2022-10-24,01:49,17.405981,78.555708,Uppal,High,2,Unresolved,high
+1566,Robbery,2022-04-28,12:22,17.436786,78.447999,Ameerpet,Medium,1,Unresolved,medium
+1567,Theft,2023-10-23,21:23,17.33305,78.55886,LB Nagar,High,2,Resolved,high
+1568,Chain Snatching,2022-10-02,09:53,17.437831,78.451844,Ameerpet,Medium,1,Unresolved,medium
+1569,Theft,2022-01-05,07:00,17.456112,78.382631,Madhapur,Low,0,Resolved,low
+1570,Vehicle Theft,2023-06-16,11:10,17.419388,78.432559,Banjara Hills,Medium,1,Under Investigation,medium
+1571,Harassment,2023-02-05,09:53,17.353674,78.529882,LB Nagar,High,2,Resolved,high
+1572,Harassment,2023-03-16,22:46,17.404607,78.554177,Uppal,High,2,Resolved,high
+1573,Robbery,2023-06-14,21:45,17.350358,78.55066,LB Nagar,Low,0,Resolved,high
+1574,Chain Snatching,2023-10-09,03:53,17.431839,78.442603,Ameerpet,Medium,1,Under Investigation,medium
+1575,Harassment,2022-07-28,10:00,17.414715,78.427527,Banjara Hills,Low,0,Under Investigation,medium
+1576,Pickpocket,2022-01-29,18:24,17.412136,78.556046,Uppal,High,2,Resolved,high
+1577,Assault,2022-05-14,23:15,17.418544,78.460601,Begumpet,Low,0,Under Investigation,low
+1578,Harassment,2022-11-01,07:49,17.460792,78.54935,ECIL,Low,0,Unresolved,medium
+1579,Theft,2022-10-09,01:40,17.438601,78.391675,Madhapur,Low,0,Under Investigation,low
+1580,Robbery,2022-04-24,03:09,17.506229,78.371905,Miyapur,Low,0,Unresolved,low
+1581,Burglary,2022-04-06,21:25,17.435048,78.501947,Secunderabad,Medium,1,Resolved,high
+1582,Robbery,2023-02-28,00:13,17.365127,78.519143,Dilsukhnagar,High,2,Under Investigation,medium
+1583,Assault,2022-11-18,13:11,17.337665,78.532885,LB Nagar,High,2,Unresolved,high
+1584,Robbery,2023-11-07,21:21,17.440381,78.378464,Hitech City,High,2,Unresolved,high
+1585,Vandalism,2023-09-07,19:47,17.368027,78.521372,Dilsukhnagar,Medium,1,Unresolved,medium
+1586,Vandalism,2022-07-17,03:32,17.461534,78.567266,ECIL,Medium,1,Resolved,medium
+1587,Vehicle Theft,2022-04-28,11:08,17.421463,78.413308,Jubilee Hills,Low,0,Resolved,low
+1588,Chain Snatching,2023-12-10,23:30,17.432082,78.342881,Gachibowli,Medium,1,Resolved,medium
+1589,Fraud,2023-12-27,11:47,17.428366,78.344889,Gachibowli,Medium,1,Unresolved,medium
+1590,Assault,2023-02-14,17:12,17.354702,78.551025,LB Nagar,High,2,Under Investigation,high
+1591,Pickpocket,2022-10-15,22:50,17.503427,78.373577,Miyapur,Low,0,Under Investigation,low
+1592,Harassment,2022-07-30,07:56,17.431071,78.495654,Secunderabad,High,2,Unresolved,high
+1593,Pickpocket,2022-10-06,18:24,17.340658,78.557545,LB Nagar,High,2,Unresolved,high
+1594,Fraud,2022-12-28,18:10,17.422426,78.41425,Jubilee Hills,Low,0,Resolved,low
+1595,Harassment,2023-08-24,08:01,17.444644,78.462937,Ameerpet,Medium,1,Resolved,medium
+1596,Burglary,2023-03-16,10:04,17.412323,78.440399,Banjara Hills,Medium,1,Resolved,medium
+1597,Robbery,2023-01-16,11:00,17.466753,78.385859,Madhapur,Medium,1,Unresolved,low
+1598,Burglary,2022-12-03,00:35,17.42952,78.44856,Begumpet,Low,0,Resolved,low
+1599,Vandalism,2022-08-06,11:17,17.352602,78.531835,LB Nagar,High,2,Under Investigation,high
+1600,Harassment,2022-03-18,21:20,17.481921,78.417299,Kukatpally,Medium,1,Unresolved,medium
+1601,Theft,2022-02-20,06:17,17.433481,78.410504,Jubilee Hills,Low,0,Unresolved,low
+1602,Pickpocket,2023-04-09,03:24,17.441878,78.359131,Gachibowli,Medium,1,Resolved,medium
+1603,Theft,2022-10-19,00:58,17.477281,78.408384,Kukatpally,High,2,Unresolved,medium
+1604,Vandalism,2023-02-17,06:02,17.433719,78.504942,Secunderabad,High,2,Unresolved,high
+1605,Chain Snatching,2022-03-13,00:17,17.455703,78.39441,Madhapur,Low,0,Unresolved,low
+1606,Fraud,2022-03-23,12:39,17.414868,78.549576,Uppal,High,2,Resolved,high
+1607,Vehicle Theft,2023-04-11,11:39,17.360238,78.559086,LB Nagar,High,2,Resolved,high
+1608,Harassment,2022-01-11,09:14,17.449385,78.391454,Hitech City,Medium,1,Resolved,high
+1609,Theft,2023-01-13,06:16,17.426847,78.344704,Gachibowli,Medium,1,Resolved,medium
+1610,Pickpocket,2022-11-08,01:50,17.434218,78.354672,Gachibowli,Medium,1,Unresolved,medium
+1611,Assault,2022-05-22,19:20,17.431499,78.50436,Secunderabad,High,2,Resolved,high
+1612,Vandalism,2023-02-28,18:33,17.416364,78.564562,Uppal,High,2,Resolved,high
+1613,Vehicle Theft,2023-11-09,15:49,17.48717,78.405897,Kukatpally,Medium,1,Under Investigation,medium
+1614,Robbery,2022-04-05,07:22,17.362025,78.534697,Dilsukhnagar,Medium,1,Under Investigation,medium
+1615,Robbery,2023-11-07,07:04,17.501835,78.369088,Miyapur,Low,0,Unresolved,low
+1616,Burglary,2023-11-18,09:31,17.440157,78.360994,Hitech City,High,2,Resolved,high
+1617,Chain Snatching,2023-08-28,08:45,17.353033,78.489991,Charminar,High,2,Unresolved,high
+1618,Burglary,2023-06-01,04:58,17.438256,78.392316,Madhapur,Low,0,Unresolved,low
+1619,Burglary,2023-09-28,23:04,17.35496,78.536861,LB Nagar,High,2,Unresolved,high
+1620,Assault,2022-11-11,07:29,17.348378,78.554403,LB Nagar,High,2,Resolved,high
+1621,Assault,2022-09-04,03:17,17.4419,78.486547,Begumpet,Medium,1,Resolved,low
+1622,Robbery,2023-06-28,21:59,17.355451,78.53317,Dilsukhnagar,Medium,1,Under Investigation,medium
+1623,Vandalism,2023-03-18,11:27,17.438718,78.355075,Gachibowli,Medium,1,Under Investigation,medium
+1624,Harassment,2022-10-07,03:46,17.36513,78.468835,Charminar,High,2,Unresolved,high
+1625,Vandalism,2022-07-13,09:38,17.433832,78.392237,Jubilee Hills,Low,0,Unresolved,low
+1626,Robbery,2022-04-22,13:14,17.442326,78.450685,Ameerpet,Medium,1,Resolved,medium
+1627,Vandalism,2023-08-13,21:06,17.448609,78.385665,Hitech City,High,2,Unresolved,high
+1628,Harassment,2023-12-18,19:06,17.434941,78.408285,Jubilee Hills,Low,0,Resolved,low
+1629,Burglary,2022-10-02,22:22,17.434751,78.457902,Begumpet,Low,0,Under Investigation,low
+1630,Assault,2022-10-22,19:32,17.449394,78.509791,Secunderabad,High,2,Under Investigation,high
+1631,Assault,2022-11-09,15:20,17.482995,78.414168,Kukatpally,Medium,1,Under Investigation,medium
+1632,Assault,2022-07-11,05:00,17.432863,78.358282,Gachibowli,Medium,1,Under Investigation,medium
+1633,Robbery,2022-12-09,13:10,17.374123,78.54023,Dilsukhnagar,Medium,1,Under Investigation,medium
+1634,Pickpocket,2023-09-01,21:00,17.398373,78.555976,Uppal,High,2,Unresolved,high
+1635,Pickpocket,2023-04-29,07:43,17.497452,78.374572,Miyapur,Low,0,Unresolved,low
+1636,Robbery,2023-06-22,07:06,17.493875,78.362416,Miyapur,Low,0,Unresolved,low
+1637,Vandalism,2023-04-09,19:16,17.412451,78.564769,Uppal,High,2,Under Investigation,high
+1638,Chain Snatching,2023-01-09,08:45,17.36147,78.535544,Dilsukhnagar,Medium,1,Unresolved,medium
+1639,Robbery,2023-11-11,16:17,17.478462,78.563474,ECIL,Medium,1,Under Investigation,medium
+1640,Burglary,2023-10-18,23:42,17.438137,78.452732,Ameerpet,Medium,1,Resolved,medium
+1641,Vehicle Theft,2022-09-08,16:13,17.354706,78.47494,Charminar,High,2,Under Investigation,high
+1642,Vandalism,2023-01-22,06:57,17.422881,78.355912,Gachibowli,Medium,1,Unresolved,medium
+1643,Vehicle Theft,2022-06-29,16:25,17.456608,78.574427,ECIL,Medium,1,Under Investigation,medium
+1644,Pickpocket,2022-10-10,22:33,17.344259,78.545207,LB Nagar,High,2,Under Investigation,high
+1645,Pickpocket,2022-05-06,20:50,17.356578,78.472396,Charminar,High,2,Unresolved,high
+1646,Fraud,2022-01-09,06:43,17.451248,78.478398,Secunderabad,High,2,Resolved,high
+1647,Chain Snatching,2023-10-01,09:31,17.447716,78.451004,Ameerpet,Medium,1,Unresolved,medium
+1648,Chain Snatching,2022-01-16,09:52,17.430444,78.340298,Gachibowli,Medium,1,Under Investigation,medium
+1649,Vehicle Theft,2023-05-16,01:42,17.453511,78.341336,Gachibowli,Medium,1,Resolved,medium
+1650,Robbery,2022-12-25,10:45,17.434273,78.386299,Hitech City,High,2,Unresolved,high
+1651,Chain Snatching,2022-07-21,23:14,17.418308,78.427197,Banjara Hills,Medium,1,Resolved,medium
+1652,Harassment,2022-09-12,11:25,17.370533,78.516494,Dilsukhnagar,Medium,1,Resolved,medium
+1653,Pickpocket,2022-11-06,08:27,17.477907,78.570891,ECIL,Medium,1,Under Investigation,medium
+1654,Chain Snatching,2023-08-16,10:08,17.473356,78.565293,ECIL,Low,0,Unresolved,medium
+1655,Pickpocket,2022-11-05,06:59,17.45159,78.448297,Ameerpet,Medium,1,Under Investigation,medium
+1656,Robbery,2022-07-07,17:08,17.359345,78.528296,Dilsukhnagar,Medium,1,Under Investigation,medium
+1657,Fraud,2022-11-17,22:22,17.385488,78.516582,Dilsukhnagar,Medium,1,Unresolved,medium
+1658,Harassment,2023-02-25,13:05,17.365908,78.528032,Dilsukhnagar,Medium,1,Resolved,medium
+1659,Assault,2022-09-06,09:39,17.484469,78.405942,Kukatpally,Medium,1,Under Investigation,medium
+1660,Assault,2022-10-28,18:25,17.478075,78.58096,ECIL,Medium,1,Under Investigation,medium
+1661,Robbery,2023-06-15,16:03,17.445069,78.369967,Hitech City,High,2,Unresolved,high
+1662,Chain Snatching,2022-04-20,20:36,17.483208,78.371464,Miyapur,Low,0,Unresolved,low
+1663,Vandalism,2022-03-04,10:47,17.450631,78.467401,Begumpet,High,2,Under Investigation,low
+1664,Fraud,2023-06-13,19:08,17.443481,78.372486,Hitech City,High,2,Resolved,high
+1665,Chain Snatching,2023-10-18,21:46,17.460363,78.569078,ECIL,Medium,1,Resolved,medium
+1666,Theft,2023-12-06,16:09,17.41271,78.546634,Uppal,High,2,Under Investigation,high
+1667,Robbery,2023-06-17,03:30,17.481819,78.566993,ECIL,Low,0,Resolved,medium
+1668,Chain Snatching,2023-03-31,16:25,17.506797,78.358663,Miyapur,Low,0,Unresolved,low
+1669,Pickpocket,2023-07-14,07:07,17.404673,78.433508,Banjara Hills,Medium,1,Unresolved,medium
+1670,Burglary,2022-01-23,20:10,17.419622,78.449071,Banjara Hills,High,2,Under Investigation,medium
+1671,Chain Snatching,2023-07-14,22:18,17.447449,78.461659,Begumpet,Low,0,Under Investigation,low
+1672,Harassment,2023-05-20,18:24,17.431889,78.35874,Gachibowli,Medium,1,Under Investigation,medium
+1673,Theft,2023-03-03,06:18,17.397682,78.572028,Uppal,High,2,Unresolved,high
+1674,Theft,2023-02-03,18:41,17.437825,78.361625,Gachibowli,Medium,1,Under Investigation,medium
+1675,Assault,2023-09-27,21:29,17.474531,78.561304,ECIL,Medium,1,Under Investigation,medium
+1676,Vandalism,2022-01-10,08:54,17.364645,78.521973,Dilsukhnagar,Medium,1,Under Investigation,medium
+1677,Assault,2023-12-25,11:41,17.435427,78.407717,Jubilee Hills,Low,0,Resolved,low
+1678,Chain Snatching,2023-07-31,18:50,17.35685,78.473375,Charminar,High,2,Under Investigation,high
+1679,Harassment,2022-03-11,22:30,17.440529,78.48127,Secunderabad,High,2,Under Investigation,high
+1680,Assault,2023-08-13,05:44,17.452165,78.382962,Madhapur,Low,0,Unresolved,low
+1681,Robbery,2022-12-23,18:02,17.475673,78.400301,Kukatpally,Medium,1,Resolved,medium
+1682,Fraud,2022-06-12,23:59,17.481249,78.358556,Miyapur,Low,0,Under Investigation,low
+1683,Robbery,2022-08-26,10:57,17.363128,78.540326,Dilsukhnagar,Medium,1,Resolved,medium
+1684,Pickpocket,2023-03-07,12:16,17.437593,78.465022,Begumpet,Low,0,Resolved,low
+1685,Pickpocket,2022-03-16,21:40,17.446704,78.378249,Hitech City,High,2,Resolved,high
+1686,Harassment,2022-11-25,05:08,17.46848,78.552838,ECIL,Medium,1,Under Investigation,medium
+1687,Fraud,2022-07-24,17:43,17.496507,78.428258,Kukatpally,Medium,1,Unresolved,medium
+1688,Robbery,2022-06-15,06:37,17.418539,78.398908,Jubilee Hills,Low,0,Resolved,low
+1689,Theft,2022-04-09,21:23,17.446262,78.383084,Madhapur,Low,0,Unresolved,low
+1690,Burglary,2022-03-15,17:53,17.488948,78.407974,Kukatpally,Medium,1,Resolved,medium
+1691,Robbery,2023-05-28,15:28,17.50222,78.423324,Kukatpally,Medium,1,Unresolved,medium
+1692,Vandalism,2022-03-14,12:19,17.450201,78.399016,Madhapur,Low,0,Resolved,low
+1693,Vehicle Theft,2022-08-25,15:01,17.448947,78.344388,Gachibowli,High,2,Resolved,medium
+1694,Robbery,2022-09-15,09:55,17.48907,78.370025,Miyapur,Low,0,Resolved,low
+1695,Harassment,2023-08-13,04:39,17.446793,78.499412,Secunderabad,High,2,Resolved,high
+1696,Theft,2022-04-24,22:02,17.424884,78.441877,Ameerpet,Medium,1,Unresolved,medium
+1697,Assault,2022-12-09,10:13,17.346308,78.546295,LB Nagar,High,2,Under Investigation,high
+1698,Burglary,2022-12-04,23:31,17.51138,78.358312,Miyapur,Low,0,Resolved,low
+1699,Vehicle Theft,2023-09-17,22:04,17.409445,78.570913,Uppal,High,2,Unresolved,high
+1700,Assault,2023-09-20,23:17,17.503072,78.410565,Kukatpally,Medium,1,Under Investigation,medium
+1701,Harassment,2023-05-24,05:30,17.447431,78.381758,Hitech City,High,2,Unresolved,high
+1702,Theft,2022-08-22,21:49,17.406964,78.558209,Uppal,Low,0,Resolved,high
+1703,Vandalism,2023-01-24,19:30,17.440988,78.428042,Ameerpet,Medium,1,Resolved,medium
+1704,Harassment,2023-12-14,20:35,17.352357,78.547909,LB Nagar,High,2,Resolved,high
+1705,Vehicle Theft,2022-05-01,14:12,17.43832,78.365275,Gachibowli,Medium,1,Unresolved,medium
+1706,Burglary,2022-09-01,22:26,17.341501,78.543675,LB Nagar,High,2,Under Investigation,high
+1707,Burglary,2023-07-04,21:52,17.421332,78.552344,Uppal,High,2,Resolved,high
+1708,Theft,2022-05-10,01:20,17.435699,78.347724,Gachibowli,Medium,1,Unresolved,medium
+1709,Pickpocket,2022-09-08,20:25,17.491626,78.415462,Kukatpally,Medium,1,Unresolved,medium
+1710,Vandalism,2023-11-04,03:13,17.438159,78.386543,Madhapur,Medium,1,Unresolved,low
+1711,Fraud,2023-01-01,23:45,17.436941,78.462982,Begumpet,Low,0,Unresolved,low
+1712,Vandalism,2022-10-27,20:57,17.365007,78.478046,Charminar,High,2,Unresolved,high
+1713,Harassment,2023-05-31,19:45,17.347392,78.483212,Charminar,Medium,1,Under Investigation,high
+1714,Vandalism,2022-03-22,08:14,17.370821,78.535776,Dilsukhnagar,Medium,1,Unresolved,medium
+1715,Assault,2022-08-04,17:02,17.445354,78.472411,Begumpet,High,2,Resolved,low
+1716,Theft,2023-10-28,14:31,17.445532,78.47437,Begumpet,Low,0,Resolved,low
+1717,Theft,2023-01-29,10:17,17.444078,78.497517,Secunderabad,High,2,Under Investigation,high
+1718,Burglary,2023-01-27,16:13,17.365079,78.554012,LB Nagar,High,2,Unresolved,high
+1719,Theft,2023-03-18,21:34,17.42019,78.42449,Banjara Hills,Medium,1,Unresolved,medium
+1720,Chain Snatching,2023-09-16,00:51,17.458794,78.564742,ECIL,Medium,1,Under Investigation,medium
+1721,Harassment,2022-12-16,00:50,17.433164,78.402187,Jubilee Hills,Low,0,Under Investigation,low
+1722,Chain Snatching,2022-02-28,23:54,17.470228,78.575109,ECIL,Medium,1,Under Investigation,medium
+1723,Assault,2023-08-10,13:24,17.374363,78.515572,Dilsukhnagar,Medium,1,Unresolved,medium
+1724,Chain Snatching,2022-05-16,07:05,17.440908,78.45716,Begumpet,Low,0,Resolved,low
+1725,Pickpocket,2022-12-12,17:17,17.402298,78.555691,Uppal,High,2,Unresolved,high
+1726,Robbery,2023-10-31,18:19,17.436079,78.488259,Secunderabad,High,2,Under Investigation,high
+1727,Fraud,2022-09-28,10:01,17.447479,78.386315,Madhapur,Low,0,Unresolved,low
+1728,Harassment,2023-01-03,16:03,17.420064,78.393624,Hitech City,High,2,Under Investigation,high
+1729,Fraud,2023-09-17,08:11,17.44881,78.34589,Gachibowli,Medium,1,Unresolved,medium
+1730,Burglary,2022-09-23,20:40,17.405551,78.549627,Uppal,High,2,Resolved,high
+1731,Theft,2023-11-03,19:11,17.429166,78.449878,Banjara Hills,Low,0,Under Investigation,medium
+1732,Theft,2023-08-17,14:45,17.438754,78.456488,Ameerpet,Medium,1,Unresolved,medium
+1733,Pickpocket,2022-12-28,00:15,17.441302,78.487606,Secunderabad,High,2,Unresolved,high
+1734,Burglary,2023-06-04,02:13,17.436805,78.349955,Gachibowli,Medium,1,Unresolved,medium
+1735,Chain Snatching,2023-11-29,11:09,17.481264,78.412051,Kukatpally,Medium,1,Resolved,medium
+1736,Vehicle Theft,2023-01-04,18:30,17.360869,78.474053,Charminar,High,2,Unresolved,high
+1737,Assault,2022-06-14,00:58,17.485318,78.405315,Kukatpally,Medium,1,Under Investigation,medium
+1738,Burglary,2022-08-05,06:24,17.437764,78.366923,Hitech City,High,2,Under Investigation,high
+1739,Robbery,2022-06-03,18:59,17.451323,78.360355,Hitech City,High,2,Resolved,high
+1740,Vandalism,2023-08-12,16:46,17.494129,78.424891,Kukatpally,Medium,1,Resolved,medium
+1741,Vehicle Theft,2022-02-22,16:17,17.493183,78.348575,Miyapur,Low,0,Resolved,low
+1742,Burglary,2022-10-28,18:51,17.49271,78.368887,Miyapur,Low,0,Unresolved,low
+1743,Burglary,2022-11-19,14:28,17.423915,78.402978,Jubilee Hills,Low,0,Under Investigation,low
+1744,Vandalism,2023-01-06,13:04,17.481342,78.567719,ECIL,High,2,Unresolved,medium
+1745,Burglary,2023-09-12,15:36,17.441103,78.378019,Madhapur,Low,0,Resolved,low
+1746,Pickpocket,2022-09-08,17:42,17.466484,78.560692,ECIL,Medium,1,Resolved,medium
+1747,Robbery,2022-10-21,08:26,17.48887,78.409517,Kukatpally,Medium,1,Unresolved,medium
+1748,Assault,2023-08-13,04:56,17.441592,78.463781,Ameerpet,Medium,1,Unresolved,medium
+1749,Robbery,2023-03-05,07:08,17.450024,78.376815,Hitech City,High,2,Resolved,high
+1750,Assault,2022-01-25,13:32,17.494135,78.366547,Miyapur,Low,0,Under Investigation,low
+1751,Vandalism,2023-03-09,12:15,17.478545,78.557381,ECIL,Medium,1,Under Investigation,medium
+1752,Theft,2022-12-11,06:04,17.440262,78.49871,Secunderabad,High,2,Under Investigation,high
+1753,Harassment,2023-04-05,11:18,17.465086,78.55142,ECIL,Medium,1,Unresolved,medium
+1754,Assault,2022-07-07,04:57,17.444384,78.463112,Begumpet,Low,0,Resolved,low
+1755,Harassment,2023-01-14,18:20,17.488902,78.409531,Kukatpally,Medium,1,Unresolved,medium
+1756,Burglary,2023-08-26,16:19,17.425367,78.427686,Banjara Hills,Medium,1,Unresolved,medium
+1757,Chain Snatching,2023-06-15,02:20,17.375296,78.460719,Charminar,High,2,Unresolved,high
+1758,Burglary,2022-05-27,20:27,17.365078,78.478503,Charminar,High,2,Under Investigation,high
+1759,Chain Snatching,2023-09-23,17:10,17.433536,78.501695,Secunderabad,High,2,Resolved,high
+1760,Chain Snatching,2023-03-26,10:58,17.450136,78.480565,Secunderabad,High,2,Unresolved,high
+1761,Robbery,2022-08-26,03:13,17.488922,78.393854,Kukatpally,Medium,1,Under Investigation,medium
+1762,Vandalism,2022-06-22,16:34,17.487875,78.382433,Miyapur,Low,0,Resolved,low
+1763,Pickpocket,2022-01-27,16:27,17.438846,78.367809,Hitech City,High,2,Under Investigation,high
+1764,Robbery,2022-05-10,16:45,17.367216,78.541243,Dilsukhnagar,Medium,1,Under Investigation,medium
+1765,Chain Snatching,2023-04-01,03:05,17.454447,78.55399,ECIL,Medium,1,Resolved,medium
+1766,Burglary,2022-04-30,19:46,17.451879,78.513162,Secunderabad,High,2,Resolved,high
+1767,Vehicle Theft,2022-12-10,07:57,17.360773,78.464788,Charminar,High,2,Resolved,high
+1768,Burglary,2023-12-24,05:53,17.363667,78.559656,LB Nagar,High,2,Under Investigation,high
+1769,Burglary,2022-02-06,20:08,17.453932,78.384301,Madhapur,Low,0,Under Investigation,low
+1770,Fraud,2022-08-14,21:09,17.346508,78.545617,LB Nagar,High,2,Unresolved,high
+1771,Robbery,2023-05-24,05:33,17.498247,78.381008,Miyapur,Low,0,Under Investigation,low
+1772,Vandalism,2022-01-04,06:39,17.448835,78.454981,Begumpet,Low,0,Resolved,low
+1773,Pickpocket,2022-02-09,05:24,17.452812,78.466105,Begumpet,Low,0,Under Investigation,low
+1774,Chain Snatching,2023-10-16,07:53,17.490397,78.425532,Kukatpally,Medium,1,Resolved,medium
+1775,Pickpocket,2023-11-16,09:22,17.460207,78.562113,ECIL,Medium,1,Under Investigation,medium
+1776,Harassment,2022-04-09,09:28,17.364548,78.512157,Dilsukhnagar,Medium,1,Unresolved,medium
+1777,Vehicle Theft,2023-03-12,21:42,17.434774,78.427192,Jubilee Hills,Medium,1,Resolved,low
+1778,Fraud,2023-12-23,19:38,17.346879,78.474442,Charminar,Medium,1,Unresolved,high
+1779,Harassment,2022-01-30,07:03,17.453624,78.391785,Madhapur,Low,0,Under Investigation,low
+1780,Fraud,2023-11-23,12:27,17.404495,78.548606,Uppal,High,2,Unresolved,high
+1781,Vehicle Theft,2022-10-02,22:40,17.441762,78.492246,Secunderabad,High,2,Resolved,high
+1782,Vandalism,2022-08-15,15:13,17.422381,78.507857,Secunderabad,High,2,Under Investigation,high
+1783,Theft,2023-09-18,19:51,17.447767,78.349313,Gachibowli,Medium,1,Unresolved,medium
+1784,Theft,2022-12-08,22:33,17.441933,78.357495,Gachibowli,Medium,1,Resolved,medium
+1785,Burglary,2022-06-10,17:18,17.363395,78.481932,Charminar,High,2,Resolved,high
+1786,Theft,2022-12-06,11:02,17.46672,78.572896,ECIL,Medium,1,Resolved,medium
+1787,Theft,2022-04-15,22:10,17.407966,78.560552,Uppal,High,2,Unresolved,high
+1788,Theft,2023-10-09,01:17,17.42974,78.500596,Secunderabad,High,2,Under Investigation,high
+1789,Robbery,2023-11-03,12:04,17.433444,78.343794,Gachibowli,Medium,1,Resolved,medium
+1790,Theft,2023-12-22,23:00,17.430977,78.43977,Ameerpet,Medium,1,Under Investigation,medium
+1791,Pickpocket,2023-09-12,17:50,17.512598,78.380051,Miyapur,Low,0,Unresolved,low
+1792,Vandalism,2022-11-16,19:47,17.447363,78.397317,Jubilee Hills,Low,0,Resolved,low
+1793,Pickpocket,2022-07-27,10:30,17.44047,78.487952,Secunderabad,High,2,Unresolved,high
+1794,Fraud,2022-08-16,15:18,17.434334,78.490955,Secunderabad,High,2,Under Investigation,high
+1795,Harassment,2022-09-08,16:23,17.447417,78.44513,Ameerpet,Medium,1,Under Investigation,medium
+1796,Harassment,2023-04-09,03:49,17.450347,78.468433,Begumpet,Low,0,Resolved,low
+1797,Vehicle Theft,2023-05-04,11:09,17.387229,78.512864,Dilsukhnagar,Medium,1,Under Investigation,medium
+1798,Pickpocket,2023-07-29,03:15,17.450174,78.358072,Gachibowli,Medium,1,Resolved,medium
+1799,Theft,2023-09-24,12:49,17.407813,78.442757,Banjara Hills,Medium,1,Unresolved,medium
+1800,Vehicle Theft,2022-12-12,14:44,17.442589,78.49648,Secunderabad,High,2,Under Investigation,high
+1801,Vandalism,2022-01-06,13:50,17.478309,78.408047,Kukatpally,Medium,1,Unresolved,medium
+1802,Vehicle Theft,2022-11-17,15:29,17.453898,78.448305,Ameerpet,Medium,1,Under Investigation,medium
+1803,Robbery,2023-07-23,16:27,17.375057,78.518373,Dilsukhnagar,Medium,1,Under Investigation,medium
+1804,Vandalism,2022-05-11,12:47,17.433861,78.357556,Gachibowli,Medium,1,Resolved,medium
+1805,Theft,2023-03-25,06:56,17.404803,78.431378,Banjara Hills,Medium,1,Unresolved,medium
+1806,Assault,2023-10-04,05:47,17.369072,78.525591,Dilsukhnagar,Medium,1,Under Investigation,medium
+1807,Chain Snatching,2022-10-31,14:33,17.345467,78.550067,LB Nagar,Medium,1,Unresolved,high
+1808,Chain Snatching,2023-08-01,11:33,17.490443,78.419677,Kukatpally,Medium,1,Under Investigation,medium
+1809,Fraud,2023-01-16,19:29,17.424114,78.404827,Jubilee Hills,Low,0,Resolved,low
+1810,Fraud,2022-05-19,10:00,17.478658,78.569557,ECIL,High,2,Unresolved,medium
+1811,Chain Snatching,2023-04-27,08:44,17.335917,78.549712,LB Nagar,Low,0,Resolved,high
+1812,Robbery,2022-04-07,22:03,17.416174,78.407475,Jubilee Hills,Low,0,Under Investigation,low
+1813,Vandalism,2022-06-10,19:56,17.383982,78.517117,Dilsukhnagar,High,2,Resolved,medium
+1814,Pickpocket,2022-07-17,18:46,17.354925,78.480812,Charminar,High,2,Unresolved,high
+1815,Robbery,2023-02-17,18:37,17.349258,78.469638,Charminar,High,2,Resolved,high
+1816,Pickpocket,2022-08-10,23:06,17.444872,78.343826,Gachibowli,Medium,1,Resolved,medium
+1817,Pickpocket,2023-10-23,17:49,17.403512,78.564953,Uppal,High,2,Under Investigation,high
+1818,Burglary,2023-09-23,08:10,17.488272,78.415935,Kukatpally,Medium,1,Resolved,medium
+1819,Assault,2022-08-10,09:09,17.402687,78.56196,Uppal,High,2,Resolved,high
+1820,Assault,2022-11-28,00:32,17.36781,78.528362,Dilsukhnagar,Low,0,Unresolved,medium
+1821,Burglary,2022-12-01,18:35,17.342925,78.545439,LB Nagar,High,2,Unresolved,high
+1822,Vandalism,2023-12-25,20:20,17.33898,78.54662,LB Nagar,High,2,Under Investigation,high
+1823,Assault,2022-08-08,19:53,17.433612,78.339988,Gachibowli,Medium,1,Unresolved,medium
+1824,Robbery,2023-05-17,14:35,17.439569,78.450002,Ameerpet,Medium,1,Unresolved,medium
+1825,Fraud,2022-07-02,11:49,17.454763,78.387351,Madhapur,Medium,1,Under Investigation,low
+1826,Harassment,2022-08-07,19:23,17.364864,78.479106,Charminar,High,2,Resolved,high
+1827,Vandalism,2022-01-11,23:12,17.472658,78.555795,ECIL,Medium,1,Resolved,medium
+1828,Chain Snatching,2022-12-03,09:32,17.486095,78.416713,Kukatpally,Medium,1,Resolved,medium
+1829,Harassment,2022-02-04,08:02,17.484957,78.397108,Kukatpally,Medium,1,Under Investigation,medium
+1830,Fraud,2022-10-08,08:38,17.443084,78.4813,Begumpet,Low,0,Under Investigation,low
+1831,Theft,2022-06-27,15:23,17.36592,78.518875,Dilsukhnagar,Medium,1,Resolved,medium
+1832,Assault,2022-06-06,22:05,17.487887,78.416299,Kukatpally,Medium,1,Unresolved,medium
+1833,Vehicle Theft,2022-02-27,03:06,17.505142,78.359337,Miyapur,Low,0,Under Investigation,low
+1834,Vehicle Theft,2022-07-18,23:53,17.445751,78.503023,Secunderabad,High,2,Under Investigation,high
+1835,Vehicle Theft,2023-12-28,10:33,17.494463,78.372109,Miyapur,High,2,Resolved,low
+1836,Robbery,2023-03-03,12:12,17.456736,78.397779,Madhapur,Low,0,Under Investigation,low
+1837,Theft,2022-10-01,23:17,17.406456,78.441261,Banjara Hills,Medium,1,Under Investigation,medium
+1838,Chain Snatching,2023-06-02,22:17,17.431482,78.407683,Jubilee Hills,Low,0,Under Investigation,low
+1839,Pickpocket,2023-04-23,06:59,17.362186,78.473498,Charminar,High,2,Unresolved,high
+1840,Assault,2022-04-03,03:20,17.449634,78.34823,Gachibowli,Low,0,Under Investigation,medium
+1841,Vehicle Theft,2022-06-23,00:29,17.439544,78.387652,Madhapur,Low,0,Resolved,low
+1842,Assault,2022-09-10,23:19,17.47053,78.572234,ECIL,Medium,1,Resolved,medium
+1843,Harassment,2022-07-02,19:14,17.351725,78.540096,LB Nagar,High,2,Resolved,high
+1844,Fraud,2022-07-01,21:16,17.459782,78.500418,Secunderabad,High,2,Resolved,high
+1845,Assault,2023-08-16,11:02,17.379003,78.523486,Dilsukhnagar,Medium,1,Under Investigation,medium
+1846,Vehicle Theft,2023-08-06,07:41,17.351167,78.553616,LB Nagar,High,2,Under Investigation,high
+1847,Robbery,2022-12-17,11:32,17.415146,78.567459,Uppal,High,2,Resolved,high
+1848,Vandalism,2022-09-25,09:42,17.446878,78.495779,Secunderabad,Low,0,Under Investigation,high
+1849,Vehicle Theft,2022-05-24,15:36,17.411026,78.437361,Banjara Hills,Medium,1,Unresolved,medium
+1850,Vehicle Theft,2022-02-04,18:55,17.455965,78.389018,Madhapur,Low,0,Resolved,low
+1851,Assault,2023-05-02,13:58,17.424121,78.446321,Banjara Hills,Medium,1,Unresolved,medium
+1852,Fraud,2023-07-14,07:51,17.432569,78.491605,Secunderabad,Low,0,Under Investigation,high
+1853,Fraud,2023-08-13,18:53,17.367677,78.527161,Dilsukhnagar,Medium,1,Resolved,medium
+1854,Chain Snatching,2023-09-08,19:02,17.435703,78.509118,Secunderabad,High,2,Resolved,high
+1855,Chain Snatching,2023-06-04,22:36,17.408793,78.559316,Uppal,Medium,1,Unresolved,high
+1856,Pickpocket,2022-06-17,00:44,17.473413,78.403273,Kukatpally,Medium,1,Under Investigation,medium
+1857,Theft,2022-05-23,18:05,17.434248,78.390039,Jubilee Hills,Medium,1,Unresolved,low
+1858,Fraud,2022-12-21,20:00,17.413501,78.557735,Uppal,High,2,Under Investigation,high
+1859,Assault,2022-06-26,06:15,17.441545,78.453163,Banjara Hills,Medium,1,Resolved,medium
+1860,Vehicle Theft,2022-09-08,05:00,17.345448,78.546049,LB Nagar,High,2,Unresolved,high
+1861,Burglary,2022-04-13,11:58,17.423565,78.448325,Banjara Hills,Medium,1,Unresolved,medium
+1862,Harassment,2023-04-20,12:08,17.435396,78.376509,Madhapur,Low,0,Unresolved,low
+1863,Harassment,2023-02-14,22:38,17.400424,78.563662,Uppal,High,2,Unresolved,high
+1864,Burglary,2022-12-22,02:56,17.441475,78.456858,Ameerpet,Medium,1,Under Investigation,medium
+1865,Pickpocket,2023-01-13,07:38,17.406002,78.416171,Banjara Hills,Medium,1,Unresolved,medium
+1866,Burglary,2023-10-24,02:02,17.475964,78.555774,ECIL,Medium,1,Resolved,medium
+1867,Harassment,2022-12-14,15:09,17.423752,78.499461,Secunderabad,High,2,Unresolved,high
+1868,Assault,2023-05-08,14:10,17.446245,78.497324,Secunderabad,Medium,1,Unresolved,high
+1869,Vehicle Theft,2022-04-19,16:43,17.444837,78.389525,Madhapur,Low,0,Under Investigation,low
+1870,Assault,2023-02-19,20:20,17.437135,78.338116,Gachibowli,Medium,1,Resolved,medium
+1871,Fraud,2023-01-29,16:41,17.479183,78.41797,Kukatpally,Medium,1,Under Investigation,medium
+1872,Robbery,2022-02-25,15:38,17.349473,78.548244,LB Nagar,High,2,Unresolved,high
+1873,Robbery,2023-04-30,11:50,17.429539,78.446848,Ameerpet,Medium,1,Resolved,medium
+1874,Assault,2023-01-28,17:00,17.329483,78.548328,LB Nagar,High,2,Unresolved,high
+1875,Harassment,2023-08-28,22:03,17.480531,78.550607,ECIL,Medium,1,Unresolved,medium
+1876,Pickpocket,2023-05-17,02:43,17.435213,78.500933,Secunderabad,High,2,Unresolved,high
+1877,Vandalism,2023-11-23,15:17,17.449923,78.494714,Secunderabad,High,2,Resolved,high
+1878,Theft,2022-01-18,13:38,17.434362,78.482549,Secunderabad,High,2,Resolved,high
+1879,Assault,2023-06-29,19:05,17.362428,78.491037,Charminar,High,2,Under Investigation,high
+1880,Chain Snatching,2022-05-29,04:22,17.442319,78.348722,Gachibowli,Medium,1,Unresolved,medium
+1881,Theft,2022-09-07,19:04,17.444377,78.463511,Begumpet,Low,0,Unresolved,low
+1882,Harassment,2023-09-16,02:32,17.355096,78.481286,Charminar,High,2,Under Investigation,high
+1883,Harassment,2023-10-15,10:01,17.441906,78.349041,Gachibowli,Medium,1,Resolved,medium
+1884,Harassment,2023-10-31,08:07,17.433997,78.474028,Begumpet,Low,0,Resolved,low
+1885,Theft,2022-11-07,08:23,17.490218,78.409377,Kukatpally,Medium,1,Under Investigation,medium
+1886,Chain Snatching,2023-03-24,06:32,17.376815,78.520719,Dilsukhnagar,Medium,1,Under Investigation,medium
+1887,Theft,2022-07-05,18:26,17.437244,78.371122,Hitech City,High,2,Resolved,high
+1888,Fraud,2023-11-04,20:38,17.429331,78.380972,Hitech City,Medium,1,Under Investigation,high
+1889,Burglary,2022-08-19,05:04,17.346951,78.464872,Charminar,Medium,1,Under Investigation,high
+1890,Pickpocket,2023-09-16,19:21,17.423295,78.497611,Secunderabad,High,2,Under Investigation,high
+1891,Vehicle Theft,2023-07-26,16:22,17.345697,78.544286,LB Nagar,Medium,1,Unresolved,high
+1892,Harassment,2023-05-26,14:16,17.407259,78.425322,Banjara Hills,Medium,1,Unresolved,medium
+1893,Vandalism,2023-08-09,18:22,17.447215,78.372796,Hitech City,High,2,Resolved,high
+1894,Vehicle Theft,2023-06-27,23:28,17.434531,78.400018,Jubilee Hills,Low,0,Under Investigation,low
+1895,Pickpocket,2022-06-09,00:22,17.370249,78.535126,Dilsukhnagar,Medium,1,Under Investigation,medium
+1896,Vandalism,2022-01-24,14:47,17.351589,78.543601,LB Nagar,High,2,Unresolved,high
+1897,Robbery,2023-07-05,12:06,17.434058,78.405175,Jubilee Hills,High,2,Unresolved,low
+1898,Assault,2022-04-24,06:49,17.432063,78.404495,Jubilee Hills,Low,0,Under Investigation,low
+1899,Pickpocket,2022-12-27,17:17,17.345585,78.548597,LB Nagar,High,2,Unresolved,high
+1900,Vandalism,2022-04-19,13:34,17.397453,78.550873,Uppal,High,2,Under Investigation,high
+1901,Chain Snatching,2023-02-18,09:52,17.335792,78.534098,LB Nagar,High,2,Unresolved,high
+1902,Fraud,2023-02-14,05:41,17.405862,78.435976,Banjara Hills,Medium,1,Resolved,medium
+1903,Harassment,2023-01-28,03:26,17.441358,78.394909,Madhapur,Low,0,Resolved,low
+1904,Pickpocket,2023-09-26,00:36,17.448778,78.375052,Madhapur,Low,0,Under Investigation,low
+1905,Pickpocket,2022-11-29,22:40,17.35214,78.553386,LB Nagar,High,2,Unresolved,high
+1906,Harassment,2023-01-15,02:35,17.440549,78.394162,Madhapur,High,2,Under Investigation,low
+1907,Assault,2022-06-15,06:30,17.488748,78.370181,Miyapur,Low,0,Under Investigation,low
+1908,Theft,2022-11-27,06:13,17.458984,78.548055,ECIL,Low,0,Under Investigation,medium
+1909,Burglary,2022-09-08,14:50,17.365737,78.52371,Dilsukhnagar,Medium,1,Resolved,medium
+1910,Vehicle Theft,2023-10-19,16:55,17.365619,78.515228,Dilsukhnagar,High,2,Resolved,medium
+1911,Harassment,2022-03-13,14:55,17.428801,78.409254,Jubilee Hills,Low,0,Under Investigation,low
+1912,Vandalism,2022-03-14,12:07,17.368441,78.52616,Dilsukhnagar,Medium,1,Under Investigation,medium
+1913,Fraud,2023-07-01,18:52,17.400039,78.568374,Uppal,High,2,Under Investigation,high
+1914,Vehicle Theft,2023-02-12,11:25,17.434091,78.3811,Hitech City,High,2,Under Investigation,high
+1915,Robbery,2023-10-07,16:06,17.478555,78.566247,ECIL,Medium,1,Resolved,medium
+1916,Assault,2023-08-17,08:23,17.49398,78.365174,Miyapur,Low,0,Unresolved,low
+1917,Burglary,2022-05-26,10:16,17.456789,78.379416,Madhapur,Low,0,Resolved,low
+1918,Burglary,2022-03-17,18:48,17.353839,78.47152,Charminar,High,2,Unresolved,high
+1919,Chain Snatching,2023-04-01,11:36,17.371501,78.477738,Charminar,High,2,Unresolved,high
+1920,Theft,2022-05-24,01:14,17.477156,78.411318,Kukatpally,Medium,1,Unresolved,medium
+1921,Pickpocket,2024-01-01,11:40,17.479985,78.408122,Kukatpally,Medium,1,Unresolved,medium
+1922,Assault,2023-03-27,22:09,17.376631,78.513726,Dilsukhnagar,Medium,1,Under Investigation,medium
+1923,Burglary,2022-09-21,21:37,17.45277,78.504926,Secunderabad,High,2,Unresolved,high
+1924,Fraud,2022-01-13,18:39,17.424327,78.430996,Banjara Hills,Medium,1,Resolved,medium
+1925,Vandalism,2023-08-25,18:23,17.3604,78.463235,Charminar,High,2,Unresolved,high
+1926,Fraud,2023-10-26,15:11,17.491403,78.373349,Miyapur,High,2,Unresolved,low
+1927,Vehicle Theft,2022-01-15,12:14,17.479469,78.553543,ECIL,Medium,1,Unresolved,medium
+1928,Burglary,2022-06-03,07:22,17.429076,78.40589,Jubilee Hills,Low,0,Unresolved,low
+1929,Burglary,2023-10-16,18:23,17.357634,78.529431,Dilsukhnagar,Medium,1,Under Investigation,medium
+1930,Chain Snatching,2022-04-12,14:35,17.437708,78.375637,Hitech City,High,2,Under Investigation,high
+1931,Fraud,2023-07-05,23:36,17.491984,78.363085,Miyapur,Low,0,Under Investigation,low
+1932,Burglary,2022-09-20,07:14,17.431944,78.405375,Jubilee Hills,Low,0,Under Investigation,low
+1933,Chain Snatching,2022-07-01,14:35,17.438825,78.457772,Begumpet,High,2,Unresolved,low
+1934,Assault,2022-07-14,23:33,17.442656,78.362129,Gachibowli,Medium,1,Unresolved,medium
+1935,Fraud,2022-09-07,08:06,17.444619,78.385169,Hitech City,High,2,Under Investigation,high
+1936,Burglary,2022-11-23,01:30,17.457978,78.563662,ECIL,Medium,1,Resolved,medium
+1937,Pickpocket,2023-05-03,02:13,17.360021,78.512885,Dilsukhnagar,High,2,Under Investigation,medium
+1938,Robbery,2023-08-06,09:46,17.362885,78.534235,Dilsukhnagar,Medium,1,Unresolved,medium
+1939,Theft,2023-08-27,18:16,17.413,78.560944,Uppal,High,2,Unresolved,high
+1940,Vandalism,2023-05-20,08:30,17.472638,78.41223,Kukatpally,Medium,1,Under Investigation,medium
+1941,Vehicle Theft,2022-11-03,22:17,17.442314,78.499704,Secunderabad,High,2,Under Investigation,high
+1942,Assault,2022-11-13,16:31,17.42275,78.441177,Ameerpet,Medium,1,Resolved,medium
+1943,Assault,2023-06-06,21:04,17.361087,78.47899,Charminar,High,2,Unresolved,high
+1944,Vehicle Theft,2022-04-07,09:40,17.430931,78.389503,Madhapur,Low,0,Under Investigation,low
+1945,Burglary,2022-07-18,05:19,17.438644,78.455097,Ameerpet,Medium,1,Under Investigation,medium
+1946,Pickpocket,2023-06-28,12:13,17.445443,78.502961,Secunderabad,High,2,Under Investigation,high
+1947,Assault,2022-11-28,04:54,17.4421,78.375536,Madhapur,Medium,1,Resolved,low
+1948,Pickpocket,2022-06-10,21:50,17.481756,78.421813,Kukatpally,Medium,1,Unresolved,medium
+1949,Chain Snatching,2022-08-23,19:23,17.416548,78.564684,Uppal,High,2,Resolved,high
+1950,Fraud,2022-12-29,12:19,17.443335,78.501337,Secunderabad,High,2,Unresolved,high
+1951,Theft,2023-03-04,12:26,17.480451,78.41276,Kukatpally,Medium,1,Unresolved,medium
+1952,Burglary,2023-04-13,04:13,17.461853,78.38326,Madhapur,Low,0,Under Investigation,low
+1953,Vehicle Theft,2022-10-29,08:27,17.454718,78.461024,Begumpet,Low,0,Unresolved,low
+1954,Chain Snatching,2022-07-24,17:06,17.372203,78.463445,Charminar,High,2,Resolved,high
+1955,Theft,2022-11-30,05:49,17.436687,78.401206,Jubilee Hills,Low,0,Under Investigation,low
+1956,Pickpocket,2023-12-25,19:37,17.335578,78.548648,LB Nagar,High,2,Unresolved,high
+1957,Fraud,2023-10-17,05:59,17.451576,78.37044,Hitech City,High,2,Unresolved,high
+1958,Vehicle Theft,2022-05-18,15:49,17.428108,78.348165,Gachibowli,Medium,1,Under Investigation,medium
+1959,Vandalism,2022-06-04,20:05,17.346201,78.551287,LB Nagar,High,2,Unresolved,high
+1960,Vandalism,2023-08-10,10:33,17.439597,78.406625,Jubilee Hills,Low,0,Unresolved,low
+1961,Vehicle Theft,2022-05-24,00:54,17.456644,78.465394,Begumpet,Low,0,Unresolved,low
+1962,Burglary,2022-08-08,14:29,17.466329,78.549507,ECIL,Medium,1,Unresolved,medium
+1963,Assault,2023-12-22,08:07,17.359499,78.472009,Charminar,High,2,Under Investigation,high
+1964,Vandalism,2023-05-14,15:23,17.354582,78.5506,LB Nagar,High,2,Resolved,high
+1965,Vandalism,2022-02-02,13:31,17.475465,78.415178,Kukatpally,Medium,1,Unresolved,medium
+1966,Pickpocket,2023-10-12,10:05,17.490272,78.426024,Kukatpally,Low,0,Under Investigation,medium
+1967,Pickpocket,2022-06-12,06:59,17.4125,78.565087,Uppal,High,2,Unresolved,high
+1968,Chain Snatching,2022-07-15,20:29,17.485381,78.416906,Kukatpally,Medium,1,Unresolved,medium
+1969,Assault,2022-06-05,23:41,17.479096,78.551738,ECIL,Medium,1,Under Investigation,medium
+1970,Theft,2023-12-11,15:25,17.358804,78.468519,Charminar,High,2,Under Investigation,high
+1971,Vehicle Theft,2023-02-04,00:27,17.442933,78.508142,Secunderabad,Low,0,Resolved,high
+1972,Vandalism,2023-08-22,21:29,17.435124,78.479178,Secunderabad,High,2,Under Investigation,high
+1973,Burglary,2023-08-12,06:49,17.445202,78.398108,Madhapur,Low,0,Resolved,low
+1974,Pickpocket,2022-07-05,09:54,17.436301,78.410525,Jubilee Hills,High,2,Resolved,low
+1975,Vehicle Theft,2022-12-23,06:59,17.40316,78.548768,Uppal,High,2,Resolved,high
+1976,Chain Snatching,2022-07-26,06:14,17.452622,78.384126,Madhapur,Low,0,Resolved,low
+1977,Robbery,2022-05-21,13:53,17.422873,78.563564,Uppal,High,2,Unresolved,high
+1978,Fraud,2022-08-02,15:25,17.438855,78.372309,Hitech City,High,2,Resolved,high
+1979,Assault,2023-08-28,12:32,17.431256,78.405184,Jubilee Hills,Low,0,Under Investigation,low
+1980,Robbery,2022-05-05,16:31,17.450735,78.465091,Begumpet,Low,0,Under Investigation,low
+1981,Robbery,2022-11-21,11:51,17.479047,78.428924,Kukatpally,Medium,1,Under Investigation,medium
+1982,Theft,2023-06-05,16:00,17.361994,78.480851,Charminar,Medium,1,Unresolved,high
+1983,Robbery,2022-04-13,14:27,17.400534,78.561905,Uppal,High,2,Under Investigation,high
+1984,Harassment,2023-12-20,09:56,17.442389,78.483183,Secunderabad,High,2,Unresolved,high
+1985,Theft,2022-10-09,22:09,17.459622,78.387525,Hitech City,High,2,Resolved,high
+1986,Assault,2022-01-10,18:44,17.412422,78.425882,Banjara Hills,Low,0,Unresolved,medium
+1987,Vehicle Theft,2023-09-03,02:39,17.40818,78.559694,Uppal,High,2,Unresolved,high
+1988,Assault,2023-03-06,05:47,17.498445,78.370933,Miyapur,High,2,Under Investigation,low
+1989,Fraud,2022-04-23,11:13,17.41965,78.446278,Banjara Hills,Medium,1,Unresolved,medium
+1990,Theft,2022-09-29,18:21,17.351445,78.538503,LB Nagar,High,2,Resolved,high
+1991,Harassment,2022-02-05,15:02,17.480001,78.575525,ECIL,Medium,1,Under Investigation,medium
+1992,Theft,2023-06-22,20:22,17.372116,78.537912,LB Nagar,Low,0,Resolved,high
+1993,Fraud,2022-03-09,13:26,17.442043,78.332243,Gachibowli,Medium,1,Under Investigation,medium
+1994,Chain Snatching,2023-09-10,04:30,17.373225,78.520314,Dilsukhnagar,Medium,1,Unresolved,medium
+1995,Pickpocket,2022-05-12,08:42,17.484488,78.556203,ECIL,Medium,1,Under Investigation,medium
+1996,Assault,2023-05-20,15:14,17.426587,78.34513,Gachibowli,Medium,1,Under Investigation,medium
+1997,Harassment,2022-08-19,04:18,17.399796,78.440709,Banjara Hills,Medium,1,Under Investigation,medium
+1998,Vehicle Theft,2022-08-20,07:45,17.423579,78.349128,Gachibowli,Medium,1,Unresolved,medium
+1999,Assault,2023-06-17,18:20,17.431878,78.388238,Madhapur,Low,0,Unresolved,low
+2000,Harassment,2023-08-17,18:40,17.374747,78.477585,Charminar,High,2,Resolved,high

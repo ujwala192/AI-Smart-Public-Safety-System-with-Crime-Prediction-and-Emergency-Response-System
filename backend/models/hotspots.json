@@ -1,0 +1,38 @@
+[
+  {
+    "cluster_id": 0,
+    "latitude": 17.447832,
+    "longitude": 78.416286,
+    "crime_count": 1308,
+    "top_crime": "Robbery",
+    "area": "Secunderabad",
+    "risk_level": "High"
+  },
+  {
+    "cluster_id": 1,
+    "latitude": 17.36008,
+    "longitude": 78.515741,
+    "crime_count": 426,
+    "top_crime": "Harassment",
+    "area": "Dilsukhnagar",
+    "risk_level": "High"
+  },
+  {
+    "cluster_id": 3,
+    "latitude": 17.405958,
+    "longitude": 78.559447,
+    "crime_count": 143,
+    "top_crime": "Vehicle Theft",
+    "area": "Uppal",
+    "risk_level": "High"
+  },
+  {
+    "cluster_id": 2,
+    "latitude": 17.469846,
+    "longitude": 78.561846,
+    "crime_count": 123,
+    "top_crime": "Pickpocket",
+    "area": "ECIL",
+    "risk_level": "High"
+  }
+]
